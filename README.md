@@ -1,51 +1,48 @@
-# Qualcomm BREW Archive — The Lost Catalog
+# Qualcomm BREW / The Lost Catalog
 
-**A complete, static GitHub Pages site built from the actual archived files.**
+**A forgotten branch of mobile gaming, with a trail back to the files.**
 
-The website catalogs **104 surviving packages** from the Internet Archive item [Qualcomm BREW Games](https://archive.org/details/qualcomm-brew-games): 84 RAR files in `brew2010`, 20 ZIP files in `brew2018`, plus an archive readme. Each package has its own indexable page with exact source path, package size, original contents, and SHA-256 fingerprint. The homepage is searchable and supports type and collection filters. There are no game binaries in this project.
+[**Browse the BREW archive →**](https://wakkatobakka.github.io/qualcomm-brew-archive/) · [Sources and history](https://wakkatobakka.github.io/qualcomm-brew-archive/about/) · [Original collection](https://archive.org/details/qualcomm-brew-games)
 
-## Publish this site
+Created and maintained by **Wakkatobakka**. Explore 104 preserved BREW packages through a searchable catalog of names, historical notes, original file listings, and package fingerprints.
 
-1. Create a **public** GitHub repository called **`qualcomm-brew-archive`** under `Wakkatobakka`.
-2. Upload the **contents** of this folder to the repository root (the `index.html`, `games`, `assets`, `data`, `about`, and other files), then commit. Don't upload the ZIP as one file expecting GitHub to unpack it.
-3. In your repository's **Settings → Pages**, choose **Deploy from a branch**, branch **main**, folder **/(root)**, and save.
+![Qualcomm BREW Archive](assets/social-preview.png)
 
-Expected site address after publication: **https://wakkatobakka.github.io/qualcomm-brew-archive/**
+## Explore the collection
 
-This website is static: no server, API key, paid service, or build step is necessary. It also works locally by opening `index.html` in a browser. If the repository name or username changes, update the absolute URLs in `sitemap.xml`, `robots.txt`, and the SEO metadata in each HTML page; the navigation links remain relative.
+- **104 package records:** 84 RAR files from `brew2010` and 20 ZIP files from `brew2018`.
+- Searchable titles, package-type filters, and collection filters.
+- An individual page for every package, including its original path, byte size, contents, and SHA-256 fingerprint.
+- Historical introductions and source links, with uncertain identifications clearly labeled.
+- [Catalog CSV](data/catalog.csv) and [complete metadata](data/catalog.json).
 
-## What is indexed
+The collection includes demos, utilities, alternate display builds, and add-ons. Package counts are not counts of distinct retail games. The folder names `brew2010` and `brew2018` identify archive subsets; they are not verified game-release years.
 
-- All **104 original archive packages**; also included are demos, non-game utilities, alternate display builds, and add-ons.
-- **One detail page for every package** under `games/`.
-- A searchable, source-grounded index with names labeled as tentative where appropriate.
-- A `data/catalog.csv` and `data/catalog.json` dataset (metadata only).
-- A sitemap covering all **106 HTML pages** (home, about, and 104 package pages).
+## History with its evidence attached
 
-**Archive folder names `brew2010` and `brew2018` are not verified release years.** Likewise, a preserved package does not establish device support or playability. The about page cites Qualcomm's 2001/2003 history and the original archive provenance. Game content and protected assets are not republished here.
+All 104 records have descriptive introductions. The historical research is labeled according to what its sources establish:
 
+| Research label | Records | What it establishes |
+| --- | ---: | --- |
+| Documented game history | 14 | Sources discuss the named mobile game; the archived binary's exact revision may remain unverified. |
+| Related mobile history | 61 | Sources document a related franchise, edition, or publisher, rather than establishing authorship of that particular BREW binary. |
+| Archive evidence only | 29 | The record relies on surviving package facts where adequate independent history was not found. |
 
-## Researched history layer (October 2026)
+The SHA-256 values identify original nested archive-entry bytes, even if a copy is renamed. A preserved package does not establish handset compatibility or playability. Associated studio credits are distinguished from verified credits for an exact BREW edition.
 
-This edition enriches **all 104 archive pages** and the searchable homepage with short descriptive introductions. It adds sourced histories and studio context where independent historical records were found, while preserving the original archive provenance and file listings. Historical annotations are also available as `history_*` fields in `data/catalog.json` and `data/catalog.csv`.
+## Sources and credits
 
-Research labels and their counts in this edition:
+Original preserved files remain in the [Internet Archive Qualcomm BREW Games collection](https://archive.org/details/qualcomm-brew-games). Preservation credits belong to the original collectors and source community. Historical references appear on the individual records and the [Sources & story page](https://wakkatobakka.github.io/qualcomm-brew-archive/about/).
 
-- **Documented game history:** 14 entries. Contemporary/retrospective sources discuss the named mobile game; an archived binary's exact revision may still be unverified.
-- **Related mobile history:** 61 entries. The sources document a related franchise, platform edition or publisher; they do **not** prove authorship of that particular BREW binary.
-- **Archive evidence only:** 29 entries. No adequate independent evidence was found; only surviving package facts are stated.
+This repository contains the catalog, original presentation, and metadata. It does not bundle game binaries, protected game assets, private Android bridge sources, checkpoints, or signing material. Game copyrights and other third-party rights remain with their respective holders.
 
-Individual source links are visible under each detail page's **Behind the game / History & context** section. The `/about/` page explains the labeling standard. Descriptions are independently written summaries, not copied press releases. **Neither public game ROMs nor private Android bridge sources, checkpoints, or signing material are included.**
+## Errors and broken links
 
-If a studio credit cannot be tied to the exact BREW edition, it is shown as an associated or related credit, not an unqualified developer claim. The site intentionally leaves some mysteries unresolved.
+Report an incorrect detail, missing credit, or broken link through [GitHub Issues](https://github.com/Wakkatobakka/qualcomm-brew-archive/issues). Include the title or record ID and a supporting source where possible. Wakka reviews reports and publishes any updates.
 
-## Why the hashes?
+## More from Wakka's archive
 
-The SHA-256 for every package was calculated from the original nested archive entry bytes. This allows later researchers to identify an identical package even if the copy has been renamed.
-
-## Maintainer notes
-
-Edit HTML pages and/or `data/catalog.csv` as verified new information is discovered. Avoid turning guesses into historical facts. The initial set of details was generated from the supplied archive's actual RAR/ZIP member listings, not manually invented.
+[Qualcomm BREW](https://wakkatobakka.github.io/qualcomm-brew-archive/) · [Zeebo](https://wakkatobakka.github.io/zeebo-archive/) · [ExEn](https://wakkatobakka.github.io/exen-game-archive/) · [DoJa](https://wakkatobakka.github.io/doja-archive/)
 
 ---
-Independent archival index. No affiliation with Qualcomm or any original game rights holder.
+Independent archival index by Wakkatobakka. No affiliation with Qualcomm or original game rights holders.
