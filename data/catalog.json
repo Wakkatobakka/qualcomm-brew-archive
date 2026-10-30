@@ -1,0 +1,3821 @@
+{
+  "source": "https://archive.org/details/qualcomm-brew-games",
+  "package_count": 104,
+  "items": [
+    {
+      "id": "3d-bowling-176-display--bowl3d-176only",
+      "title": "3D Bowling (176 display)",
+      "original_inventory_label": "3D Bowling (176-screen version)",
+      "filename": "bowl3d_176only.rar",
+      "collection": "brew2010",
+      "path": "brew2010/bowl3d_176only.rar",
+      "archive_format": "RAR",
+      "size_bytes": 688590,
+      "sha256": "18407c706dc874758ecaf5f8722be6deaef629e6c26720abf6739de5e23ce042",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "176 display notation in filename",
+      "internal_file_count": 8,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".rlb",
+        ".mod",
+        ".rb",
+        ".dat2",
+        ".mif"
+      ],
+      "url": "games/3d-bowling-176-display--bowl3d-176only/",
+      "history_teaser": "3D bowling was one of the early carrier-store showcase genres.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "MobyGames: JAMDAT Bowling 3D (BREW, 2005)",
+          "url": "https://www.mobygames.com/game/160198/jamdat-bowling-3d/"
+        },
+        {
+          "label": "MobyGames: Midnight Bowling 3D (BREW, 2006)",
+          "url": "https://www.mobygames.com/game/98208/midnight-bowling-3d/"
+        }
+      ],
+      "history_paragraphs": [
+        "JAMDAT Bowling 3D launched as a commercial BREW game in 2005, while other teams made competing bowling titles for the same platform.",
+        "This specific archive file bears a 176-only label. It cannot safely be identified as JAMDAT Bowling 3D—or any other publisher’s version—without credits from inside the package."
+      ]
+    },
+    {
+      "id": "aliens-vs-predator-3d--avp",
+      "title": "Aliens vs. Predator 3D",
+      "original_inventory_label": "Aliens vs. Predator 3D (internal game: avp3d)",
+      "filename": "avp.zip",
+      "collection": "brew2018",
+      "path": "brew2018/avp.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 1517462,
+      "sha256": "17cf9b9e796bd6bc41c39c6fced3d35226f7368a8e86d1171f9a1d61c93899fc",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 12,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif",
+        ".asc",
+        ".asd",
+        ".pck",
+        ".set"
+      ],
+      "url": "games/aliens-vs-predator-3d--avp/",
+      "history_teaser": "The Alien and Predator franchises met in a mobile 3D shooter long before phones became gaming powerhouses.",
+      "history_status": "documented",
+      "history_credit": "Superscape Russia — developer of documented mobile title",
+      "history_sources": [
+        {
+          "label": "MobyGames: AVP: Alien vs. Predator",
+          "url": "https://www.mobygames.com/game/183038/avp-alien-vs-predator/"
+        }
+      ],
+      "history_paragraphs": [
+        "AVP: Alien vs. Predator is documented as a 2006 BREW mobile game from Superscape Russia. Its original design used a first-person 3D shooting format suited to early handset hardware.",
+        "This catalog record concerns the surviving AVP archive, not a claim that its exact device revision has been identified or successfully run."
+      ]
+    },
+    {
+      "id": "animation-sample--qx-animsample",
+      "title": "Animation Sample",
+      "original_inventory_label": "Animation sample — technical demo",
+      "filename": "qx_animsample.rar",
+      "collection": "brew2010",
+      "path": "brew2010/qx_animsample.rar",
+      "archive_format": "RAR",
+      "size_bytes": 65300,
+      "sha256": "8902d1f64f267e6b7365a5790953ae60110978a5d2d2558852eefc6dc170a64d",
+      "category": "Demo",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 12,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".qxa",
+        ".qxm",
+        ".mod",
+        ".other",
+        ".log",
+        ".qxt",
+        ".mif"
+      ],
+      "url": "games/animation-sample--qx-animsample/",
+      "history_teaser": "An example package from the era when BREW developers were testing handset graphics and animation.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "Qualcomm: Advanced 3D BREW Support, 2005",
+          "url": "https://www.qualcomm.com/news/releases/2005/03/qualcomm-adds-another-dimension-wireless-market-advanced-support-3d-gaming"
+        }
+      ],
+      "history_paragraphs": [
+        "Animation Sample survives as a named technical example in the collection. The package name suggests a graphics demonstration, but its exact lesson, author, and SDK revision have not been independently documented.",
+        "Qualcomm’s 2005 3D initiative describes the push to give BREW developers more hardware graphics capabilities. That is platform background rather than documentation of this particular sample."
+      ]
+    },
+    {
+      "id": "are-you-smarter-than-a-5th-grader--5thgrader",
+      "title": "Are You Smarter Than a 5th Grader?",
+      "original_inventory_label": "Are You Smarter Than a 5th Grader?",
+      "filename": "5thGrader.rar",
+      "collection": "brew2010",
+      "path": "brew2010/5thGrader.rar",
+      "archive_format": "RAR",
+      "size_bytes": 91922,
+      "sha256": "642accb46e22396e4da8cd5aaaf0102b9408c82527bfb7cc0157d928bf7d4d70",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 6,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".txt",
+        ".bar",
+        ".mod",
+        ".dat",
+        ".mif"
+      ],
+      "url": "games/are-you-smarter-than-a-5th-grader--5thgrader/",
+      "history_teaser": "The TV quiz show became a phone game when trivia titles were a staple of carrier storefronts.",
+      "history_status": "related",
+      "history_credit": "Capcom Interactive / Fox Mobile — documented mobile partners",
+      "history_sources": [
+        {
+          "label": "Capcom: Are You Smarter Than a 5th Grader? mobile",
+          "url": "https://news.capcomusa.com/lets/browse/smash-hit-are-you-smarter-than-a-5th-grader-that-2"
+        }
+      ],
+      "history_paragraphs": [
+        "Capcom Interactive and Fox Mobile brought Are You Smarter Than a 5th Grader? to cellular handsets following the show’s success.",
+        "This package’s short name establishes its archive identity, but not the exact commercial edition, carrier, or release day."
+      ]
+    },
+    {
+      "id": "are-you-smarter-than-a-5th-grader-2009--5thgrader09",
+      "title": "Are You Smarter Than a 5th Grader? (2009)",
+      "original_inventory_label": "Are You Smarter Than a 5th Grader? (2009 version)",
+      "filename": "5thGrader09.rar",
+      "collection": "brew2010",
+      "path": "brew2010/5thGrader09.rar",
+      "archive_format": "RAR",
+      "size_bytes": 123255,
+      "sha256": "844ff3388b5b4a7bc9b220fc9776f09a20583e1e9325e844eaa3f3f1b61e7c44",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 6,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".txt",
+        ".bar",
+        ".mod",
+        ".dat",
+        ".mif"
+      ],
+      "url": "games/are-you-smarter-than-a-5th-grader-2009--5thgrader09/",
+      "history_teaser": "The schoolroom quiz-show license returned for another round of mobile trivia.",
+      "history_status": "related",
+      "history_credit": "Capcom Interactive — related licensed mobile game",
+      "history_sources": [
+        {
+          "label": "Capcom: Are You Smarter Than a 5th Grader? (2009)",
+          "url": "https://news.capcomusa.com/lets/browse/are-you-smarter-than-a-5th-grader-2009-hits-iphones"
+        }
+      ],
+      "history_paragraphs": [
+        "Capcom Interactive developed and published mobile games based on Are You Smarter Than a 5th Grader?, including releases around the 2009 television season.",
+        "The “09” label differentiates this package from the older 5thGrader.rar, but does not establish an exact on-sale date or imply the two are identical."
+      ]
+    },
+    {
+      "id": "asphalt-3d--asphalt3d-2",
+      "title": "Asphalt 3D",
+      "original_inventory_label": "Asphalt 3D (archive variant -2)",
+      "filename": "Asphalt3D-2.rar",
+      "collection": "brew2010",
+      "path": "brew2010/Asphalt3D-2.rar",
+      "archive_format": "RAR",
+      "size_bytes": 5180776,
+      "sha256": "a28273a92ecffb4be6f97069a2aa7564990758976bc4389868c660c950c57d94",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 21,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/asphalt-3d--asphalt3d-2/",
+      "history_teaser": "A 3D racing game from Gameloft’s early phone era, promoted alongside Brothers in Arms on BREW.",
+      "history_status": "documented",
+      "history_credit": "Gameloft — original Asphalt mobile series",
+      "history_sources": [
+        {
+          "label": "Qualcomm: 3D Games on BREW / TIM, 2006",
+          "url": "https://www.qualcomm.com/news/releases/2006/12/qualcomm-electronic-arts-and-gameloft-announce-availability-3d-games-tim"
+        },
+        {
+          "label": "MobyGames: Asphalt Urban GT 2",
+          "url": "https://www.mobygames.com/game/25820/asphalt-urban-gt-2/"
+        }
+      ],
+      "history_paragraphs": [
+        "Qualcomm’s December 2006 announcement promoted Asphalt: Urban GT 2 – 3D as part of a group of Gameloft 3D BREW titles launched through TIM in Italy.",
+        "That rollout illustrates how early mobile publishers were beginning to sell polygonal games through individual carrier catalogs, long before a unified smartphone app store."
+      ]
+    },
+    {
+      "id": "asteroids--asteroids",
+      "title": "Asteroids",
+      "original_inventory_label": "Asteroids",
+      "filename": "Asteroids.rar",
+      "collection": "brew2010",
+      "path": "brew2010/Asteroids.rar",
+      "archive_format": "RAR",
+      "size_bytes": 20121,
+      "sha256": "59113949af8a268b1d4e09fe63347a2ed8f6a3c2ae698bea7e468a6e3bacd964",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mif",
+        ".bar",
+        ".mod",
+        ".dat"
+      ],
+      "url": "games/asteroids--asteroids/",
+      "history_teaser": "Atari’s vector-graphics classic continued surviving on ever-smaller screens.",
+      "history_status": "related",
+      "history_credit": "Atari — original arcade game",
+      "history_sources": [
+        {
+          "label": "MobyGames: Asteroids",
+          "url": "https://www.mobygames.com/game/8872/asteroids/"
+        }
+      ],
+      "history_paragraphs": [
+        "Atari launched Asteroids in arcades in 1979. Its rotating ship, wraparound playfield, and fragmented space rocks became a foundational action-game design.",
+        "This BREW archive documents a later phone copy, not the original arcade binary or a verified licensee of this exact port."
+      ]
+    },
+    {
+      "id": "bioshock-3d--bio3d",
+      "title": "BioShock 3D",
+      "original_inventory_label": "BioShock 3D (additional package)",
+      "filename": "bio3d.zip",
+      "collection": "brew2018",
+      "path": "brew2018/bio3d.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 4244872,
+      "sha256": "76ee27ff99c131162d863d6c8f3d8cd12e6ff26b8036afacc33641edb997f49a",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 10,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".dat",
+        ".idx",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/bioshock-3d--bio3d/",
+      "history_teaser": "IG Fun attempted something absurdly ambitious: real-time 3D BioShock on a pre-smartphone handset.",
+      "history_status": "documented",
+      "history_credit": "IG Fun — documented mobile adaptation",
+      "history_sources": [
+        {
+          "label": "Pocket Gamer: BREW 2008 BioShock Mobile report",
+          "url": "https://www.pocketgamer.com/bioshock-mobile/brew-2008-latest-on-bioshock-mobile/"
+        },
+        {
+          "label": "Pocket Gamer: IG Fun on mobile BioShock development",
+          "url": "https://www.pocketgamer.com/bioshock-2d/ig-fun-explains-how-it-brought-the-crumbling-opulence-of-bioshock-to-mobile/"
+        }
+      ],
+      "history_paragraphs": [
+        "At BREW 2008, IG Fun demonstrated a real-time, fully 3D mobile adaptation of BioShock. Contemporary reporting described a BREW handset rendering the action rather than simply playing a prerecorded animation.",
+        "The company also worked on a different 2D BioShock edition for less powerful handsets. Both existed because mobile chips, screen resolutions, and carrier requirements varied so dramatically."
+      ]
+    },
+    {
+      "id": "bioshock-3d-176-display--bioshock3d-176",
+      "title": "BioShock 3D (176 display)",
+      "original_inventory_label": "BioShock 3D (176-screen version)",
+      "filename": "BioShock3D_176.rar",
+      "collection": "brew2010",
+      "path": "brew2010/BioShock3D_176.rar",
+      "archive_format": "RAR",
+      "size_bytes": 3489228,
+      "sha256": "822f084b212b6ac8df72c79c97b4cad40b33c9dd14a93523ce044c7db5573472",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "176 display notation in filename",
+      "internal_file_count": 11,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".dat",
+        ".mif",
+        ".idx",
+        ".mod"
+      ],
+      "url": "games/bioshock-3d-176-display--bioshock3d-176/",
+      "history_teaser": "IG Fun attempted something absurdly ambitious: real-time 3D BioShock on a pre-smartphone handset.",
+      "history_status": "documented",
+      "history_credit": "IG Fun — documented mobile adaptation",
+      "history_sources": [
+        {
+          "label": "Pocket Gamer: BREW 2008 BioShock Mobile report",
+          "url": "https://www.pocketgamer.com/bioshock-mobile/brew-2008-latest-on-bioshock-mobile/"
+        },
+        {
+          "label": "Pocket Gamer: IG Fun on mobile BioShock development",
+          "url": "https://www.pocketgamer.com/bioshock-2d/ig-fun-explains-how-it-brought-the-crumbling-opulence-of-bioshock-to-mobile/"
+        }
+      ],
+      "history_paragraphs": [
+        "At BREW 2008, IG Fun demonstrated a real-time, fully 3D mobile adaptation of BioShock. Contemporary reporting described a BREW handset rendering the action rather than simply playing a prerecorded animation.",
+        "The company also worked on a different 2D BioShock edition for less powerful handsets. Both existed because mobile chips, screen resolutions, and carrier requirements varied so dramatically."
+      ]
+    },
+    {
+      "id": "blitzkrieg--blitzkrieg",
+      "title": "Blitzkrieg",
+      "original_inventory_label": "Blitzkrieg",
+      "filename": "Blitzkrieg.rar",
+      "collection": "brew2010",
+      "path": "brew2010/Blitzkrieg.rar",
+      "archive_format": "RAR",
+      "size_bytes": 69789,
+      "sha256": "b4693f0c3094d8a000839cd7f50d99b43ea4fada910f48dccb2e558e4c8faa7e",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 16,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".dat",
+        ".qcp",
+        ".mif",
+        ".mid",
+        ".bar",
+        ".mod"
+      ],
+      "url": "games/blitzkrieg--blitzkrieg/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "Blitzkrieg.rar survives in the original collection as a phone-game package with 16 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2010; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "bowling-3d--jbowling3d",
+      "title": "Bowling 3D",
+      "original_inventory_label": "Bowling 3D",
+      "filename": "JBowling3D.rar",
+      "collection": "brew2010",
+      "path": "brew2010/JBowling3D.rar",
+      "archive_format": "RAR",
+      "size_bytes": 1231280,
+      "sha256": "6563b6f14cc6bc1e455cf8e139101759312341ed37b5f33be1adce757cac331a",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 7,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".rlb",
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/bowling-3d--jbowling3d/",
+      "history_teaser": "JAMDAT’s 3D Bowling was a genuinely important business for early mobile gaming.",
+      "history_status": "related",
+      "history_credit": "JAMDAT Mobile — documented original BREW title",
+      "history_sources": [
+        {
+          "label": "JAMDAT: 2005 SEC annual filing and bowling history",
+          "url": "https://www.sec.gov/Archives/edgar/data/1135271/000104746905008334/a2154290z10-k.htm"
+        },
+        {
+          "label": "MobyGames: JAMDAT Bowling 3D",
+          "url": "https://www.mobygames.com/game/160198/jamdat-bowling-3d/"
+        }
+      ],
+      "history_paragraphs": [
+        "JAMDAT Bowling 3D debuted on BREW in 2005. JAMDAT’s own financial filings described its bowling series as a meaningful share of company revenue before it launched a 3D edition aimed at high-end phones.",
+        "Its mobile controls included ball aim, spin, and strength, plus several camera angles. The filename’s initial J supports the identification, although it is not a substitute for comparing the exact handset edition."
+      ]
+    },
+    {
+      "id": "brainexercise--brainexercise",
+      "title": "BrainExercise",
+      "original_inventory_label": "BrainExercise",
+      "filename": "BrainExercise.rar",
+      "collection": "brew2010",
+      "path": "brew2010/BrainExercise.rar",
+      "archive_format": "RAR",
+      "size_bytes": 331836,
+      "sha256": "4a8b9360298d449f430e1e43cd23cb5a7c210f37f29ab141c1bd5eb0569549c1",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".conf",
+        ".mif"
+      ],
+      "url": "games/brainexercise--brainexercise/",
+      "history_teaser": "Brain training spread from dedicated handheld consoles into mobile games and utilities.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "MobyGames: Brain Exercise with Dr. Kawashima",
+          "url": "https://www.mobygames.com/game/46603/brain-exercise-with-dr-kawashima/"
+        }
+      ],
+      "history_paragraphs": [
+        "Mobile publishers including Namco Bandai sold bite-sized memory and arithmetic challenges under names such as Brain Exercise near the end of the feature-phone era.",
+        "BrainExercise.rar is not enough to identify this file as a Dr. Kawashima-branded release, so no individual developer has been assigned."
+      ]
+    },
+    {
+      "id": "brothers-in-arms-176-display--bia176",
+      "title": "Brothers in Arms (176 display)",
+      "original_inventory_label": "Brothers in Arms (176-screen version)",
+      "filename": "BIA176.rar",
+      "collection": "brew2010",
+      "path": "brew2010/BIA176.rar",
+      "archive_format": "RAR",
+      "size_bytes": 1831781,
+      "sha256": "b2e9e891b2a1e8148f09fda8e2096fda72bac8218f2aa4fc2b330a6292ee15f2",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "176 display notation in filename",
+      "internal_file_count": 11,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/brothers-in-arms-176-display--bia176/",
+      "history_teaser": "Gameloft squeezed a Normandy campaign into a 2006-era 3D phone game—and Qualcomm later gave it an award.",
+      "history_status": "documented",
+      "history_credit": "Gameloft — original mobile adaptation",
+      "history_sources": [
+        {
+          "label": "Qualcomm: 3D Games on BREW / TIM, 2006",
+          "url": "https://www.qualcomm.com/news/releases/2006/12/qualcomm-electronic-arts-and-gameloft-announce-availability-3d-games-tim"
+        },
+        {
+          "label": "Qualcomm: 2007 BREW Developers Awards",
+          "url": "https://www.qualcomm.com/news/releases/2007/06/qualcomm-honors-winners-brew-developer-awards-brew-2007-conference"
+        }
+      ],
+      "history_paragraphs": [
+        "Gameloft developed a dedicated 3D mobile adaptation of Brothers in Arms: Earned in Blood. In December 2006 Qualcomm announced it among the 3D BREW games offered through the Italian operator TIM, alongside Asphalt and Massive Snowboarding.",
+        "In June 2007 Qualcomm named Brothers in Arms 3D its BREW Developers Award winner for Best Game Application. The 176 and 240 packages here are separately preserved handset/display editions, not evidence of two different games."
+      ]
+    },
+    {
+      "id": "brothers-in-arms-240-display--bia240",
+      "title": "Brothers in Arms (240 display)",
+      "original_inventory_label": "Brothers in Arms (240-screen version)",
+      "filename": "BIA240.rar",
+      "collection": "brew2010",
+      "path": "brew2010/BIA240.rar",
+      "archive_format": "RAR",
+      "size_bytes": 2114395,
+      "sha256": "ef32fc7d66e40ddb6267fbceb97f59376116f73f779c0f07269a237092e9fede",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "240 display notation in filename",
+      "internal_file_count": 11,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/brothers-in-arms-240-display--bia240/",
+      "history_teaser": "Gameloft squeezed a Normandy campaign into a 2006-era 3D phone game—and Qualcomm later gave it an award.",
+      "history_status": "documented",
+      "history_credit": "Gameloft — original mobile adaptation",
+      "history_sources": [
+        {
+          "label": "Qualcomm: 3D Games on BREW / TIM, 2006",
+          "url": "https://www.qualcomm.com/news/releases/2006/12/qualcomm-electronic-arts-and-gameloft-announce-availability-3d-games-tim"
+        },
+        {
+          "label": "Qualcomm: 2007 BREW Developers Awards",
+          "url": "https://www.qualcomm.com/news/releases/2007/06/qualcomm-honors-winners-brew-developer-awards-brew-2007-conference"
+        }
+      ],
+      "history_paragraphs": [
+        "Gameloft developed a dedicated 3D mobile adaptation of Brothers in Arms: Earned in Blood. In December 2006 Qualcomm announced it among the 3D BREW games offered through the Italian operator TIM, alongside Asphalt and Massive Snowboarding.",
+        "In June 2007 Qualcomm named Brothers in Arms 3D its BREW Developers Award winner for Best Game Application. The 176 and 240 packages here are separately preserved handset/display editions, not evidence of two different games."
+      ]
+    },
+    {
+      "id": "callofduty--callofduty",
+      "title": "CallOfDuty",
+      "original_inventory_label": "CallOfDuty",
+      "filename": "CallOfDuty.rar",
+      "collection": "brew2010",
+      "path": "brew2010/CallOfDuty.rar",
+      "archive_format": "RAR",
+      "size_bytes": 218505,
+      "sha256": "a3117fc1f1e609f6636ff70f1de3a6cb36e35a2d349e4ffc0c040c169e8d7663",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".dat",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/callofduty--callofduty/",
+      "history_teaser": "MFORMA launched a bespoke Call of Duty phone game in 2004, years before Call of Duty Mobile.",
+      "history_status": "related",
+      "history_credit": "MFORMA — documented early Call of Duty mobile developer",
+      "history_sources": [
+        {
+          "label": "Activision: MFORMA releases Call of Duty 2 (2006)",
+          "url": "https://investor.activision.com/news-releases/news-release-details/mforma-releases-call-dutyr-2-mobile-game"
+        }
+      ],
+      "history_paragraphs": [
+        "Activision’s January 2006 announcement for Call of Duty 2 explicitly describes it as the sequel to an MFORMA mobile Call of Duty game from 2004.",
+        "The archived CallOfDuty.rar may belong to this earlier feature-phone lineage, but the exact title revision cannot be certified from the filename alone."
+      ]
+    },
+    {
+      "id": "callofduty5--callofduty5",
+      "title": "CallOfDuty5",
+      "original_inventory_label": "CallOfDuty5",
+      "filename": "CallOfDuty5.rar",
+      "collection": "brew2010",
+      "path": "brew2010/CallOfDuty5.rar",
+      "archive_format": "RAR",
+      "size_bytes": 473153,
+      "sha256": "81695d4e4fe10d87ab4497a7089fd4a83517c7fc50129967a233d7f3260ee893",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".conf",
+        ".mif"
+      ],
+      "url": "games/callofduty5--callofduty5/",
+      "history_teaser": "The Call of Duty series went through multiple separate feature-phone adaptations.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "Activision: MFORMA releases Call of Duty 2 (2006)",
+          "url": "https://investor.activision.com/news-releases/news-release-details/mforma-releases-call-dutyr-2-mobile-game"
+        }
+      ],
+      "history_paragraphs": [
+        "MFORMA produced a mobile Call of Duty in 2004 and followed it with Call of Duty 2 in 2006; other mobile publishers subsequently handled licensed entries.",
+        "The “5” in CallOfDuty5.rar is not enough to equate this file with Call of Duty: World at War or any specific numbered mainline release."
+      ]
+    },
+    {
+      "id": "camera-phone-darts--cpd",
+      "title": "Camera Phone Darts",
+      "original_inventory_label": "Camera Phone Darts (internal game: cameraphonedarts)",
+      "filename": "cpd.zip",
+      "collection": "brew2018",
+      "path": "brew2018/cpd.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 707425,
+      "sha256": "d6b42dea25205eee268ac3c3fdb4b9439c4ff0371894ac0a6a64eac2bd830966",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 15,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mod",
+        ".mif",
+        ".bar"
+      ],
+      "url": "games/camera-phone-darts--cpd/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "cpd.zip survives in the original collection as a phone-game package with 15 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2018; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "centipede--centipede",
+      "title": "Centipede",
+      "original_inventory_label": "Centipede",
+      "filename": "Centipede.rar",
+      "collection": "brew2010",
+      "path": "brew2010/Centipede.rar",
+      "archive_format": "RAR",
+      "size_bytes": 169583,
+      "sha256": "88254fd30bfaf13070c0596d179749a27b7402524ccbc07171ccdff11233bb14",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/centipede--centipede/",
+      "history_teaser": "One of Atari’s 1981 arcade landmarks reached the handset era.",
+      "history_status": "related",
+      "history_credit": "Atari — original arcade game",
+      "history_sources": [
+        {
+          "label": "MobyGames: Centipede",
+          "url": "https://www.mobygames.com/game/141/centipede/"
+        }
+      ],
+      "history_paragraphs": [
+        "Centipede debuted in 1981, with Ed Logg and Dona Bailey among its original designers. Its descending enemy and mushroom field became instantly recognizable.",
+        "Like many early phone arcade conversions, the specific developer of this BREW edition cannot be established from an archive filename alone."
+      ]
+    },
+    {
+      "id": "chess-240x320--chess-240x320",
+      "title": "Chess (240x320)",
+      "original_inventory_label": "Chess (240x320)",
+      "filename": "chess_240x320.rar",
+      "collection": "brew2010",
+      "path": "brew2010/chess_240x320.rar",
+      "archive_format": "RAR",
+      "size_bytes": 47208,
+      "sha256": "f9942ce0d0abb8c9b835601cf063161259505d5ba6b830a3146e3a9112834542",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "240x320 display notation in filename",
+      "internal_file_count": 7,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".dat",
+        ".mod",
+        ".bar",
+        ".other",
+        ".idx",
+        ".mif"
+      ],
+      "url": "games/chess-240x320--chess-240x320/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "chess_240x320.rar survives in the original collection as a phone-game package with 7 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The catalog notes: 240x320 display notation in filename. This clue is not a verified device model or release date."
+      ]
+    },
+    {
+      "id": "city-id--cityid",
+      "title": "City ID",
+      "original_inventory_label": "City ID — utility, not game",
+      "filename": "CityID.rar",
+      "collection": "brew2010",
+      "path": "brew2010/CityID.rar",
+      "archive_format": "RAR",
+      "size_bytes": 73513,
+      "sha256": "8e348fad8fc9a62cea1952a91c518c59275cf1e938d086070d4fd1ddfb9e22d9",
+      "category": "Utility",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 5,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mif",
+        ".mod",
+        ".bar"
+      ],
+      "url": "games/city-id--cityid/",
+      "history_teaser": "Not a game: a carrier-era caller-ID enhancement from the feature-phone days.",
+      "history_status": "related",
+      "history_credit": "Cequint — City ID service",
+      "history_sources": [
+        {
+          "label": "RCR Wireless: Cequint looks to jazz up caller ID (2006)",
+          "url": "https://www.rcrwireless.com/20060710/carriers/cequint-looks-to-jazz-up-caller-id"
+        },
+        {
+          "label": "Verizon: City ID service support",
+          "url": "https://www.verizon.com/support/no-longer-supported-city-id/"
+        }
+      ],
+      "history_paragraphs": [
+        "City ID was offered as an enhanced caller-identification service associated with Cequint. Early coverage in 2006 describes technology intended to reveal geographic context for incoming calls.",
+        "The presence of this utility alongside games is an important reminder that BREW was an application ecosystem, not merely a game format."
+      ]
+    },
+    {
+      "id": "collapsechaos--collapsechaos",
+      "title": "CollapseChaos",
+      "original_inventory_label": "CollapseChaos",
+      "filename": "CollapseChaos.rar",
+      "collection": "brew2010",
+      "path": "brew2010/CollapseChaos.rar",
+      "archive_format": "RAR",
+      "size_bytes": 419125,
+      "sha256": "49f0ba8d11fd6568dbeec441eb5dc9d3d06eb568848b85c17f575bb972f7a8af",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mif",
+        ".bar",
+        ".mod"
+      ],
+      "url": "games/collapsechaos--collapsechaos/",
+      "history_teaser": "Before Angry Birds, Rovio produced dozens of commissioned mobile games—including Collapse Chaos.",
+      "history_status": "related",
+      "history_credit": "Rovio — related early Java mobile release",
+      "history_sources": [
+        {
+          "label": "Rovio Entertainment: early games history",
+          "url": "https://en.wikipedia.org/wiki/Rovio_Entertainment"
+        }
+      ],
+      "history_paragraphs": [
+        "Rovio worked on a long list of licensed and original feature-phone productions in the 2000s; Collapse Chaos appears in retrospective lists of its pre-Angry Birds Java releases around 2008.",
+        "That association documents a related mobile title, not proof that Rovio personally built this particular BREW edition."
+      ]
+    },
+    {
+      "id": "crate-hunt-sample--qx-cratehunt",
+      "title": "Crate Hunt Sample",
+      "original_inventory_label": "Crate Hunt QX sample/demo",
+      "filename": "qx_cratehunt.rar",
+      "collection": "brew2010",
+      "path": "brew2010/qx_cratehunt.rar",
+      "archive_format": "RAR",
+      "size_bytes": 132034,
+      "sha256": "597bab43ee8aeed69bcc60ff74076c46606f00a4b7b6ebf5ccccac5b474e846e",
+      "category": "Demo",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 28,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".qxa",
+        ".qxt",
+        ".qxm",
+        ".uis",
+        ".mod",
+        ".log",
+        ".mif"
+      ],
+      "url": "games/crate-hunt-sample--qx-cratehunt/",
+      "history_teaser": "An intriguing game-like BREW sample preserved alongside commercial titles.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "Qualcomm: Advanced 3D BREW Support, 2005",
+          "url": "https://www.qualcomm.com/news/releases/2005/03/qualcomm-adds-another-dimension-wireless-market-advanced-support-3d-gaming"
+        }
+      ],
+      "history_paragraphs": [
+        "The filename calls this Crate Hunt Sample, but no contemporary release note has been tied securely to it. It may be more interesting as an example of development tooling than as a separately sold game.",
+        "Qualcomm’s 2005 3D initiative describes the push to give BREW developers more hardware graphics capabilities. That is platform background rather than documentation of this particular sample."
+      ]
+    },
+    {
+      "id": "crittercrunch--crittercrunch",
+      "title": "CritterCrunch",
+      "original_inventory_label": "CritterCrunch",
+      "filename": "CritterCrunch.rar",
+      "collection": "brew2010",
+      "path": "brew2010/CritterCrunch.rar",
+      "archive_format": "RAR",
+      "size_bytes": 331698,
+      "sha256": "299763b89706c0499dd9a56249676153418005971b9fbfed01139169e3e82936",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 6,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mif",
+        ".mod",
+        ".other"
+      ],
+      "url": "games/crittercrunch--crittercrunch/",
+      "history_teaser": "Capybara’s colorful creature-feeding puzzle game started its life on mobile hardware.",
+      "history_status": "related",
+      "history_credit": "Capybara Games / Living Mobile — related mobile credits",
+      "history_sources": [
+        {
+          "label": "MobyGames: Critter Crunch mobile credits",
+          "url": "https://www.mobygames.com/game/44931/critter-crunch/credits/j2me/"
+        }
+      ],
+      "history_paragraphs": [
+        "Critter Crunch became closely associated with Toronto studio Capybara Games, well before its better-known console releases. Mobile production credits also document participation by Living Mobile on a handset edition.",
+        "This BREW file’s exact studio assignments would require version-specific credit evidence, which is not supplied by its filename."
+      ]
+    },
+    {
+      "id": "darkhorse--darkhorse",
+      "title": "Darkhorse",
+      "original_inventory_label": "Darkhorse",
+      "filename": "Darkhorse.rar",
+      "collection": "brew2010",
+      "path": "brew2010/Darkhorse.rar",
+      "archive_format": "RAR",
+      "size_bytes": 116547,
+      "sha256": "aebc0a99347a997976be7c5293d8d41f41bd19a149077059cf854fb88faf4494",
+      "category": "Game",
+      "identification": "Unconfirmed identity",
+      "variant_note": "",
+      "internal_file_count": 5,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".dat",
+        ".mod",
+        ".fre",
+        ".mif"
+      ],
+      "url": "games/darkhorse--darkhorse/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "Darkhorse.rar survives in the original collection as a phone-game package with 5 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2010; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "dblocos-176--dblocos-176",
+      "title": "dblocos_176",
+      "original_inventory_label": "dblocos_176",
+      "filename": "dblocos_176.rar",
+      "collection": "brew2010",
+      "path": "brew2010/dblocos_176.rar",
+      "archive_format": "RAR",
+      "size_bytes": 142293,
+      "sha256": "b56c3dd6aee709b9fdcd3157d2793de7016893b0c2124b3c30ccdcbc6c4e147a",
+      "category": "Game",
+      "identification": "Unconfirmed identity",
+      "variant_note": "176 display notation in filename",
+      "internal_file_count": 6,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".txt",
+        ".wiz",
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/dblocos-176--dblocos-176/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "dblocos_176.rar survives in the original collection as a phone-game package with 6 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The catalog notes: 176 display notation in filename. This clue is not a verified device model or release date."
+      ]
+    },
+    {
+      "id": "detonate--detonate",
+      "title": "Detonate",
+      "original_inventory_label": "Detonate",
+      "filename": "Detonate.rar",
+      "collection": "brew2010",
+      "path": "brew2010/Detonate.rar",
+      "archive_format": "RAR",
+      "size_bytes": 64040,
+      "sha256": "0dd647012befe45a9598e7a3a133107be320686fc4dcfe9ed878d77bb5579d4a",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/detonate--detonate/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "Detonate.rar survives in the original collection as a phone-game package with 3 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2010; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "doodle-jump--ddj",
+      "title": "Doodle Jump",
+      "original_inventory_label": "Doodle Jump (internal game: doodlejump)",
+      "filename": "ddj.zip",
+      "collection": "brew2018",
+      "path": "brew2018/ddj.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 1248275,
+      "sha256": "1a0ed2ec212e0ec8e6386ce5ab430530e211eac25c6d0e0803ad2fe4ebb67778",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/doodle-jump--ddj/",
+      "history_teaser": "A tiny character bouncing upward forever became one of the most recognizable early mobile games.",
+      "history_status": "related",
+      "history_credit": "Lima Sky — original game; BREW port studio unverified",
+      "history_sources": [
+        {
+          "label": "MobyGames: Doodle Jump",
+          "url": "https://www.mobygames.com/game/44405/doodle-jump/credits/j2me/"
+        },
+        {
+          "label": "Lima Sky: Doodle Jump",
+          "url": "https://play.google.com/store/apps/details?id=com.lima.doodlejump"
+        }
+      ],
+      "history_paragraphs": [
+        "Doodle Jump was created by Lima Sky and became a hit on early touchscreen smartphones. Other teams later adapted it to additional mobile environments, including keypad-oriented phones.",
+        "The short filename ddj.zip identifies the archived package but does not establish which developer handled this BREW-specific edition."
+      ]
+    },
+    {
+      "id": "doom-ii-rpg--d2rp",
+      "title": "DOOM II RPG",
+      "original_inventory_label": "DOOM II RPG (internal game: doom2rpg)",
+      "filename": "d2rp.zip",
+      "collection": "brew2018",
+      "path": "brew2018/d2rp.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 2234867,
+      "sha256": "ba0f6dd60c919142ce564643f876720ef43c1c08a0413e9fcbf0e03273e632d0",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mif",
+        ".txt",
+        ".bar",
+        ".mod"
+      ],
+      "url": "games/doom-ii-rpg--d2rp/",
+      "history_teaser": "id Mobile turned DOOM into a turn-based dungeon-crawling RPG, complete with demons and an old-school phone UI.",
+      "history_status": "documented",
+      "history_credit": "id Mobile — developer; EA Mobile — publisher",
+      "history_sources": [
+        {
+          "label": "MobyGames: DOOM II RPG releases",
+          "url": "https://www.mobygames.com/game/45955/doom-ii-rpg/releases/"
+        }
+      ],
+      "history_paragraphs": [
+        "DOOM II RPG, developed by id Mobile and distributed by EA Mobile, followed the original DOOM RPG with grid-based movement, turn-based encounters, and a distinctly handheld pace.",
+        "Release databases document a BREW edition in December 2009. Unlike a scaled-down PC shooter, this was a purpose-built mobile interpretation of DOOM."
+      ]
+    },
+    {
+      "id": "dragon-island-320-screen-version--dragonisland-320",
+      "title": "Dragon Island (320-screen version)",
+      "original_inventory_label": "Dragon Island (320-screen version)",
+      "filename": "DragonIsland_320.rar",
+      "collection": "brew2010",
+      "path": "brew2010/DragonIsland_320.rar",
+      "archive_format": "RAR",
+      "size_bytes": 115830,
+      "sha256": "33ff25a2376a6bc22426a77677892ad529b8457846febbb839e4724d984e4871",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "320 display notation in filename",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/dragon-island-320-screen-version--dragonisland-320/",
+      "history_teaser": "A 2003 keypad platformer that reviewers compared to Hudson’s Adventure Island.",
+      "history_status": "related",
+      "history_credit": "Macrospace — documented contemporary mobile title",
+      "history_sources": [
+        {
+          "label": "GameSpot: Dragon Island review (2004)",
+          "url": "https://www.gamespot.com/reviews/dragon-island-review/1900-6094669/"
+        }
+      ],
+      "history_paragraphs": [
+        "A contemporary GameSpot review identifies Macrospace’s Dragon Island as a challenging phone platformer with a hero who collects fruit and throws an axe.",
+        "Its demanding keypad layout was already criticized in 2004. The “320” filename suggests a larger display target, not a separate release date."
+      ]
+    },
+    {
+      "id": "dragonsword--dragonsword",
+      "title": "DragonSword",
+      "original_inventory_label": "DragonSword",
+      "filename": "DragonSword.rar",
+      "collection": "brew2010",
+      "path": "brew2010/DragonSword.rar",
+      "archive_format": "RAR",
+      "size_bytes": 813985,
+      "sha256": "e0bafbdf312e67c750638ee4529b24e1551f7277f6729dd63044b17c454aede3",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 5,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".cfg",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/dragonsword--dragonsword/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "DragonSword.rar survives in the original collection as a phone-game package with 5 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2010; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "driv3r--driv3r",
+      "title": "DRIV3R",
+      "original_inventory_label": "DRIV3R",
+      "filename": "Driv3r.rar",
+      "collection": "brew2010",
+      "path": "brew2010/Driv3r.rar",
+      "archive_format": "RAR",
+      "size_bytes": 187244,
+      "sha256": "e6ccaffab80651962ed1bec8dd611fe0b1628fcf7d8d4135f9fd356891800171",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/driv3r--driv3r/",
+      "history_teaser": "The Driver series went pocket-sized when phones were still mostly about keypads and carrier downloads.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "PocketGamer.biz: Mobile gaming in 2004",
+          "url": "https://www.pocketgamer.biz/a-brief-history-of-mobile-games-2004-money-for-nothing/"
+        }
+      ],
+      "history_paragraphs": [
+        "DRIV3R originated as an ambitious 2004 driving game from Reflections Interactive. A separate mobile edition circulated in the early feature-phone market, alongside many licensed adaptations from publishers such as Sorrent.",
+        "This package is the BREW archive’s Driv3r.rar; its filename does not prove that it contains the same mechanics or development team as the console release."
+      ]
+    },
+    {
+      "id": "duke-nukem-2d--duke2d",
+      "title": "Duke Nukem 2D",
+      "original_inventory_label": "Duke Nukem 2D",
+      "filename": "duke2d.rar",
+      "collection": "brew2010",
+      "path": "brew2010/duke2d.rar",
+      "archive_format": "RAR",
+      "size_bytes": 236398,
+      "sha256": "a5ff6bd8340eef6983232db9866ae1ca6b85a5a6c10d751931ec7a11a00e9da1",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 6,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/duke-nukem-2d--duke2d/",
+      "history_teaser": "Duke Nukem had more than one mobile incarnation, including side-view and 3D phone adaptations.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "MobyGames: Duke Nukem franchise",
+          "url": "https://www.mobygames.com/game/559/duke-nukem/"
+        },
+        {
+          "label": "MobyGames: Duke Nukem Mobile",
+          "url": "https://www.mobygames.com/game/53308/duke-nukem-mobile/"
+        }
+      ],
+      "history_paragraphs": [
+        "The original Duke Nukem property began as a side-scrolling Apogee game before the 1996 first-person shooter. Several separate Duke Nukem Mobile productions later appeared on early handset platforms.",
+        "The filename duke2d.rar suggests a two-dimensional edition, but it does not by itself establish which commercial mobile title or studio this exact package represents."
+      ]
+    },
+    {
+      "id": "duke-nukem-3d--dukenukem3d-114",
+      "title": "Duke Nukem 3D",
+      "original_inventory_label": "Duke Nukem 3D (archive variant 114)",
+      "filename": "DukeNukem3D_114.rar",
+      "collection": "brew2010",
+      "path": "brew2010/DukeNukem3D_114.rar",
+      "archive_format": "RAR",
+      "size_bytes": 4435030,
+      "sha256": "602df4d2cd45b3c7895011a6e9184cf6c036b597df895d9d7defb0c52e05f680",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 21,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mif",
+        ".mod",
+        ".txt"
+      ],
+      "url": "games/duke-nukem-3d--dukenukem3d-114/",
+      "history_teaser": "A mobile Duke Nukem shooter from the keypad era—not simply the DOS game running in a phone emulator.",
+      "history_status": "related",
+      "history_credit": "MachineWorks Northwest — documented related BREW mobile game",
+      "history_sources": [
+        {
+          "label": "MobyGames: Duke Nukem Mobile",
+          "url": "https://www.mobygames.com/game/53308/duke-nukem-mobile/"
+        },
+        {
+          "label": "MobyGames: Duke Nukem 3D series connections",
+          "url": "https://www.mobygames.com/game/365/duke-nukem-3d/"
+        }
+      ],
+      "history_paragraphs": [
+        "Multiple original Duke Nukem Mobile productions reached BREW in the mid-2000s. MachineWorks Northwest worked on mobile editions, adapting the franchise for very different memory, screen, and control limitations.",
+        "The archive calls this package DukeNukem3D_114.rar. Its version label alone is not enough to establish a one-to-one match with the 1996 PC game or a particular marketing title."
+      ]
+    },
+    {
+      "id": "earthworm-jim--ewj",
+      "title": "Earthworm Jim",
+      "original_inventory_label": "Earthworm Jim (internal game: earthwormjim)",
+      "filename": "ewj.zip",
+      "collection": "brew2018",
+      "path": "brew2018/ewj.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 1358684,
+      "sha256": "335cd5483982f443dc6f3d9a6bdd4065b4496a0e84953b6f97eb2f3c5863edd6",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 6,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/earthworm-jim--ewj/",
+      "history_teaser": "Shiny Entertainment’s wonderfully strange worm found another life on tiny mobile screens.",
+      "history_status": "related",
+      "history_credit": "Shiny Entertainment — original franchise; Gameloft — documented later BREW publisher",
+      "history_sources": [
+        {
+          "label": "MobyGames: Earthworm Jim Special Edition releases",
+          "url": "https://www.mobygames.com/game/7340/earthworm-jim-special-edition/releases/"
+        }
+      ],
+      "history_paragraphs": [
+        "Earthworm Jim began as a Shiny Entertainment platform game in 1994. Mobile companies later adapted the franchise for very different keypad-controlled hardware.",
+        "Release databases list a Gameloft-published BREW Earthworm Jim edition in 2010; the preserved archive is evidence of a surviving package, not proof of which source assets or code were used for that edition."
+      ]
+    },
+    {
+      "id": "eblocos-176--eblocos-176",
+      "title": "eblocos_176",
+      "original_inventory_label": "eblocos_176",
+      "filename": "eblocos_176.rar",
+      "collection": "brew2010",
+      "path": "brew2010/eblocos_176.rar",
+      "archive_format": "RAR",
+      "size_bytes": 115297,
+      "sha256": "968820491d3547d8f56009fd11d477602730b350c1c29c147fbcc8c73c5625c6",
+      "category": "Game",
+      "identification": "Unconfirmed identity",
+      "variant_note": "176 display notation in filename",
+      "internal_file_count": 6,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".txt",
+        ".other",
+        ".mif"
+      ],
+      "url": "games/eblocos-176--eblocos-176/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "eblocos_176.rar survives in the original collection as a phone-game package with 6 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The catalog notes: 176 display notation in filename. This clue is not a verified device model or release date."
+      ]
+    },
+    {
+      "id": "fbird-identity-unconfirmed--fbd",
+      "title": "fbird (identity unconfirmed)",
+      "original_inventory_label": "fbird (exact retail title unverified)",
+      "filename": "fbd.zip",
+      "collection": "brew2018",
+      "path": "brew2018/fbd.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 118273,
+      "sha256": "da8e0139c4f1df9fe5e01caaeaf21346162e717ca673f61cb7f45f1b145bfc0c",
+      "category": "Game",
+      "identification": "Unconfirmed identity",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mid",
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/fbird-identity-unconfirmed--fbd/",
+      "history_teaser": "A mystery from the BREW collection: even the original game identity is not confirmed.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "The archive preserves fbd.zip, but available inventory evidence is insufficient to verify the original game title or developer. Assigning it a more famous name would risk losing what makes this copy useful as an historical record.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2018; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "fruit-escape-176-220--fruitescape176x220",
+      "title": "Fruit Escape (176×220)",
+      "original_inventory_label": "Fruit Escape (176x220 version)",
+      "filename": "fruitescape176x220.rar",
+      "collection": "brew2010",
+      "path": "brew2010/fruitescape176x220.rar",
+      "archive_format": "RAR",
+      "size_bytes": 49955,
+      "sha256": "ac584fa6fdbf6092d117d6930a944b4b25093b621280e205bdcb85db6abe9e04",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "176x220 display notation in filename",
+      "internal_file_count": 5,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".txt",
+        ".mif",
+        ".bar",
+        ".mod"
+      ],
+      "url": "games/fruit-escape-176-220--fruitescape176x220/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "fruitescape176x220.rar survives in the original collection as a phone-game package with 5 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The catalog notes: 176x220 display notation in filename. This clue is not a verified device model or release date."
+      ]
+    },
+    {
+      "id": "fruitescape--fruitescape",
+      "title": "fruitescape",
+      "original_inventory_label": "fruitescape",
+      "filename": "fruitescape.rar",
+      "collection": "brew2010",
+      "path": "brew2010/fruitescape.rar",
+      "archive_format": "RAR",
+      "size_bytes": 55836,
+      "sha256": "ce4ecf59fccd8819926567d5c5c5eb7ca65648899f7b79c9f90d86f4956e108d",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 5,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".txt",
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/fruitescape--fruitescape/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "fruitescape.rar survives in the original collection as a phone-game package with 5 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2010; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "galaxy-on-fire-3d--gof",
+      "title": "Galaxy on Fire 3D",
+      "original_inventory_label": "Galaxy on Fire 3D (internal game: gof3d)",
+      "filename": "gof.zip",
+      "collection": "brew2018",
+      "path": "brew2018/gof.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 1159551,
+      "sha256": "ac9c4a16aa1feb188571dd0b43243a2a7c2875b1ed7d3f2616da634d39a3f03f",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".cfg",
+        ".mod",
+        ".aez",
+        ".mif"
+      ],
+      "url": "games/galaxy-on-fire-3d--gof/",
+      "history_teaser": "Fishlabs pushed serious 3D space combat onto feature phones with its Galaxy on Fire series.",
+      "history_status": "related",
+      "history_credit": "Fishlabs — original Galaxy on Fire developer",
+      "history_sources": [
+        {
+          "label": "Computer Graphics World: Small Screens Run Deep (2006)",
+          "url": "https://www.cgw.com/Publications/CGW/2006/Volume-29-Issue-4-April-2006-/Small-screens-run-deep.aspx"
+        },
+        {
+          "label": "MobyGames: Galaxy on Fire",
+          "url": "https://www.mobygames.com/game/42881/galaxy-on-fire/"
+        }
+      ],
+      "history_paragraphs": [
+        "Hamburg studio Fishlabs introduced Galaxy on Fire in the Java-phone era, using mobile 3D technology to create cockpit combat and a larger-feeling science-fiction universe.",
+        "A 2006 Computer Graphics World report describes the studio’s cross-platform ambitions, including BREW work. That does not identify this particular gof.zip build as a specific release revision."
+      ]
+    },
+    {
+      "id": "gatilho-176--gatilho-176",
+      "title": "gatilho_176",
+      "original_inventory_label": "gatilho_176",
+      "filename": "gatilho_176.rar",
+      "collection": "brew2010",
+      "path": "brew2010/gatilho_176.rar",
+      "archive_format": "RAR",
+      "size_bytes": 127889,
+      "sha256": "139b54586548c1f317b7392ac1033ee493e6500d2daccef50c5f7fb56b561626",
+      "category": "Game",
+      "identification": "Unconfirmed identity",
+      "variant_note": "176 display notation in filename",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".txt",
+        ".mif"
+      ],
+      "url": "games/gatilho-176--gatilho-176/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "gatilho_176.rar survives in the original collection as a phone-game package with 4 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The catalog notes: 176 display notation in filename. This clue is not a verified device model or release date."
+      ]
+    },
+    {
+      "id": "gumblox-240-display--gumblox-240",
+      "title": "GumBlox (240 display)",
+      "original_inventory_label": "GumBlox_240",
+      "filename": "GumBlox_240.rar",
+      "collection": "brew2010",
+      "path": "brew2010/GumBlox_240.rar",
+      "archive_format": "RAR",
+      "size_bytes": 165774,
+      "sha256": "41629352ab903b52b3c13864236f9e0dcabb834e6e76f91667197f5d5f3918c6",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "240 display notation in filename",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mod",
+        ".bar",
+        ".dat",
+        ".mif"
+      ],
+      "url": "games/gumblox-240-display--gumblox-240/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "GumBlox_240.rar survives in the original collection as a phone-game package with 4 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The catalog notes: 240 display notation in filename. This clue is not a verified device model or release date."
+      ]
+    },
+    {
+      "id": "h-a-w-x--hawx",
+      "title": "H.A.W.X.",
+      "original_inventory_label": "H.A.W.X.",
+      "filename": "hawx.rar",
+      "collection": "brew2010",
+      "path": "brew2010/hawx.rar",
+      "archive_format": "RAR",
+      "size_bytes": 666335,
+      "sha256": "b5122c8c2f45dfa1464833391edb34d3a974cd8d1f9933934d1c9b7ece8711c2",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mif",
+        ".bar",
+        ".mod"
+      ],
+      "url": "games/h-a-w-x--hawx/",
+      "history_teaser": "Gameloft brought Tom Clancy’s combat-aircraft action to feature phones.",
+      "history_status": "documented",
+      "history_credit": "Gameloft Software Chengdu — documented mobile developer",
+      "history_sources": [
+        {
+          "label": "MobyGames: Tom Clancy’s H.A.W.X. mobile game",
+          "url": "https://www.mobygames.com/game/112914/tom-clancys-hawx/"
+        }
+      ],
+      "history_paragraphs": [
+        "A separate mobile adaptation of Tom Clancy’s H.A.W.X. appeared in 2009, distinct from the console and PC release. The recorded mobile developer is Gameloft’s Chengdu studio.",
+        "The handset version used a different style of aerial action to accommodate mobile controls; the archive does not identify the original handset for this copy."
+      ]
+    },
+    {
+      "id": "helistrike--hs",
+      "title": "HeliStrike",
+      "original_inventory_label": "HeliStrike (internal game: helistrike)",
+      "filename": "hs.zip",
+      "collection": "brew2018",
+      "path": "brew2018/hs.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 715620,
+      "sha256": "9045d8f2bf4397cda482a1db86374b0822e6a63130540e6feea89896f5a3c9d6",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".cfg",
+        ".mod",
+        ".aez",
+        ".mif"
+      ],
+      "url": "games/helistrike--hs/",
+      "history_teaser": "Fishlabs made a mobile helicopter-combat game under the Heli Strike name.",
+      "history_status": "related",
+      "history_credit": "Fishlabs — documented related J2ME game",
+      "history_sources": [
+        {
+          "label": "MobyGames: Fishlabs games list",
+          "url": "https://www.mobygames.com/company/9386/fishlabs-gmbh/games/"
+        }
+      ],
+      "history_paragraphs": [
+        "Fishlabs released Heli Strike: Advanced Air Combat for Java phones in 2006 during the same period as its early 3D projects.",
+        "The archived hs.zip name suggests an association but does not establish that this BREW package is the same edition; developer attribution remains provisional."
+      ]
+    },
+    {
+      "id": "highwayracer--highwayracer",
+      "title": "HighwayRacer",
+      "original_inventory_label": "HighwayRacer",
+      "filename": "HighwayRacer.rar",
+      "collection": "brew2010",
+      "path": "brew2010/HighwayRacer.rar",
+      "archive_format": "RAR",
+      "size_bytes": 114310,
+      "sha256": "b5eb73999790a46eb6b32013373ca888d409de608dee5a8352c614aa9a68dafc",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 5,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".pak",
+        ".mod",
+        ".dat",
+        ".mif"
+      ],
+      "url": "games/highwayracer--highwayracer/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "HighwayRacer.rar survives in the original collection as a phone-game package with 5 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2010; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "jewelquest--jewelquest",
+      "title": "JewelQuest",
+      "original_inventory_label": "JewelQuest",
+      "filename": "JewelQuest.rar",
+      "collection": "brew2010",
+      "path": "brew2010/JewelQuest.rar",
+      "archive_format": "RAR",
+      "size_bytes": 134701,
+      "sha256": "db1b9d3c25c3d36601905e3ba23a659ab4f09e17d6859bb6ad13d68579493fa0",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 6,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".other",
+        ".dat",
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/jewelquest--jewelquest/",
+      "history_teaser": "iWin’s archaeology-flavored match-three game spread from desktop PCs to mobile phones.",
+      "history_status": "related",
+      "history_credit": "iWin — original game",
+      "history_sources": [
+        {
+          "label": "MobyGames: Jewel Quest",
+          "url": "https://www.mobygames.com/game/16247/jewel-quest/"
+        }
+      ],
+      "history_paragraphs": [
+        "The original Jewel Quest was released by iWin in 2004 and inspired numerous portable adaptations. Its gem-swapping design translated readily to the mobile puzzle market.",
+        "The edition represented by this BREW archive is not assigned a developer or exact launch year without additional title-screen or manifest evidence."
+      ]
+    },
+    {
+      "id": "katamari--katamari",
+      "title": "Katamari",
+      "original_inventory_label": "Katamari",
+      "filename": "Katamari.rar",
+      "collection": "brew2010",
+      "path": "brew2010/Katamari.rar",
+      "archive_format": "RAR",
+      "size_bytes": 558434,
+      "sha256": "336187c12419a4f33607f1d157c4779fb372b381d76c0ead2b08e71cf046f4ea",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mod",
+        ".bar",
+        ".mif"
+      ],
+      "url": "games/katamari--katamari/",
+      "history_teaser": "Namco’s gloriously weird rolling-ball idea received a feature-phone adaptation.",
+      "history_status": "related",
+      "history_credit": "Namco Networks — related mobile publisher",
+      "history_sources": [
+        {
+          "label": "PocketGamer.biz: Namco’s mobile catalog (2010)",
+          "url": "https://www.gamedeveloper.com/game-platforms/namco-brings-iphone-hit-i-flight-control-i-to-mobile"
+        },
+        {
+          "label": "My Abandonware: Rolling with Katamari",
+          "url": "https://www.myabandonware.com/game/rolling-with-katamari-yjj"
+        }
+      ],
+      "history_paragraphs": [
+        "Namco Networks expanded Katamari to mobile devices as Rolling with Katamari, a keypad-era reinterpretation of a game originally created for PlayStation 2 under Keita Takahashi’s direction.",
+        "Coverage of Namco’s mobile portfolio documents this expansion; the exact source version of Katamari.rar is not established solely by the short archive name."
+      ]
+    },
+    {
+      "id": "learn-to-fly--l2f",
+      "title": "Learn to Fly",
+      "original_inventory_label": "Learn to Fly (internal game: learn2fly)",
+      "filename": "l2f.zip",
+      "collection": "brew2018",
+      "path": "brew2018/l2f.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 729085,
+      "sha256": "39b5be89f054c104bbfd15d47ce02670203f9b467625f3898cb7bf948365be1b",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 32,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/learn-to-fly--l2f/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "l2f.zip survives in the original collection as a phone-game package with 32 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2018; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "linez--linez",
+      "title": "LineZ",
+      "original_inventory_label": "LineZ",
+      "filename": "LineZ.rar",
+      "collection": "brew2010",
+      "path": "brew2010/LineZ.rar",
+      "archive_format": "RAR",
+      "size_bytes": 8783,
+      "sha256": "3e9555ae70a6830a40bb28263508534a5c5704bd2a4d55b48c12a75e77e90c31",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mif",
+        ".bar",
+        ".mod"
+      ],
+      "url": "games/linez--linez/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "LineZ.rar survives in the original collection as a phone-game package with 3 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2010; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "massivesnowboarding--massivesnowboarding",
+      "title": "MassiveSnowboarding",
+      "original_inventory_label": "MassiveSnowboarding",
+      "filename": "MassiveSnowboarding.rar",
+      "collection": "brew2010",
+      "path": "brew2010/MassiveSnowboarding.rar",
+      "archive_format": "RAR",
+      "size_bytes": 1796530,
+      "sha256": "1755cd164e4bcc0fb63a5c8b025aed488dd955d9d493f5cc3e4e5719667d4c2f",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 5,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/massivesnowboarding--massivesnowboarding/",
+      "history_teaser": "An early 3D snowboarding title that Qualcomm included in its 2006 BREW showcase.",
+      "history_status": "documented",
+      "history_credit": "Gameloft — documented mobile title",
+      "history_sources": [
+        {
+          "label": "Qualcomm: 3D Games on BREW / TIM, 2006",
+          "url": "https://www.qualcomm.com/news/releases/2006/12/qualcomm-electronic-arts-and-gameloft-announce-availability-3d-games-tim"
+        },
+        {
+          "label": "GameSpot: Massive Snowboarding review (2005)",
+          "url": "https://www.gamespot.com/reviews/massive-snowboarding-review/1900-6132646/"
+        },
+        {
+          "label": "MobyGames: Massive Snowboarding 3D",
+          "url": "https://www.mobygames.com/game/144559/massive-snowboarding-3d/"
+        }
+      ],
+      "history_paragraphs": [
+        "Gameloft’s Massive Snowboarding 3D was reviewed for mobile phones in 2005 and appeared in Qualcomm’s December 2006 group of 3D BREW games offered through TIM.",
+        "It is a reminder that advanced-looking phone games were being pushed years before modern Android and iOS gaming became commonplace."
+      ]
+    },
+    {
+      "id": "maximballs320x240--maximballs320x240",
+      "title": "MaximBalls320x240",
+      "original_inventory_label": "MaximBalls320x240",
+      "filename": "MaximBalls320x240.rar",
+      "collection": "brew2010",
+      "path": "brew2010/MaximBalls320x240.rar",
+      "archive_format": "RAR",
+      "size_bytes": 78643,
+      "sha256": "4ea681d4b88f5eff4ce27107113650b87dbfc6090656e969bb60dd5a5537bde5",
+      "category": "Game",
+      "identification": "Unconfirmed identity",
+      "variant_note": "320x240 display notation in filename",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/maximballs320x240--maximballs320x240/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "MaximBalls320x240.rar survives in the original collection as a phone-game package with 3 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The catalog notes: 320x240 display notation in filename. This clue is not a verified device model or release date."
+      ]
+    },
+    {
+      "id": "mesh-buddy-sample--qx-meshbuddy",
+      "title": "Mesh Buddy Sample",
+      "original_inventory_label": "Mesh Buddy QX sample/demo",
+      "filename": "qx_meshbuddy.rar",
+      "collection": "brew2010",
+      "path": "brew2010/qx_meshbuddy.rar",
+      "archive_format": "RAR",
+      "size_bytes": 397271,
+      "sha256": "7f8d14662b3d60c3c9aa316bc2d8409c96631c3f9b0b9bdd95fa14530af4eee4",
+      "category": "Demo",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 51,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".qxt",
+        ".qxa",
+        ".qxm",
+        ".uis",
+        ".mif",
+        ".mod",
+        ".log"
+      ],
+      "url": "games/mesh-buddy-sample--qx-meshbuddy/",
+      "history_teaser": "One of the archive’s clues to how developers experimented with early mobile 3D.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "Qualcomm: Advanced 3D BREW Support, 2005",
+          "url": "https://www.qualcomm.com/news/releases/2005/03/qualcomm-adds-another-dimension-wireless-market-advanced-support-3d-gaming"
+        }
+      ],
+      "history_paragraphs": [
+        "Mesh Buddy Sample carries a name associated with a 3D mesh example. Its original maker, actual meshes, and intended phone hardware have not been verified.",
+        "Qualcomm’s 2005 3D initiative describes the push to give BREW developers more hardware graphics capabilities. That is platform background rather than documentation of this particular sample."
+      ]
+    },
+    {
+      "id": "militarymadness2--militarymadness2",
+      "title": "MilitaryMadness2",
+      "original_inventory_label": "MilitaryMadness2",
+      "filename": "MilitaryMadness2.rar",
+      "collection": "brew2010",
+      "path": "brew2010/MilitaryMadness2.rar",
+      "archive_format": "RAR",
+      "size_bytes": 925183,
+      "sha256": "de944a329c68ccc9e2d5f258b985827d0f6182594fdc81e0095faf267815c621",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mif",
+        ".bar",
+        ".mod",
+        ".conf"
+      ],
+      "url": "games/militarymadness2--militarymadness2/",
+      "history_teaser": "Hudson’s hex-grid strategy series had a feature-phone sequel before its smartphone revival.",
+      "history_status": "related",
+      "history_credit": "Hudson Soft — series creator",
+      "history_sources": [
+        {
+          "label": "Hudson: Military Madness product history",
+          "url": "https://dothehudson.net/en/app/military-madness/catalog.html"
+        }
+      ],
+      "history_paragraphs": [
+        "Military Madness II belongs to the mobile branch of Hudson’s long-running Nectaris strategy line. Hudson’s own publicity for the later Military Madness smartphone game refers back to a mobile-phone predecessor.",
+        "The archived name is consistent with that lineage; carrier, original handset, and specific edition are not confirmed here."
+      ]
+    },
+    {
+      "id": "monopoly--monopoly",
+      "title": "Monopoly",
+      "original_inventory_label": "Monopoly",
+      "filename": "Monopoly.rar",
+      "collection": "brew2010",
+      "path": "brew2010/Monopoly.rar",
+      "archive_format": "RAR",
+      "size_bytes": 1802072,
+      "sha256": "bddc6181639c94eac1bfddeed4300c3ac049411ed0f12ed1ceddbe85d14485f8",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 6,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mif",
+        ".mod",
+        ".dat",
+        ".bar"
+      ],
+      "url": "games/monopoly--monopoly/",
+      "history_teaser": "Hasbro’s board game became a perennial phone-game staple, with rights changing between mobile publishers.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "Hasbro: EA–Hasbro licensing announcement",
+          "url": "https://newsroom.hasbro.com/news-releases/news-release-details/ea-and-hasbro-partner-bring-casual-games-global-audience"
+        },
+        {
+          "label": "PocketGamer.biz: EA Mobile discusses Monopoly",
+          "url": "https://www.pocketgamer.biz/ea-mobile-talks-monopoly-here-and-now/"
+        }
+      ],
+      "history_paragraphs": [
+        "Monopoly was adapted for phones repeatedly. Hasbro announced a major licensing agreement with Electronic Arts in 2007, after an earlier era of mobile editions from other companies.",
+        "Without the package’s internal credits, Monopoly.rar cannot be safely attributed to one of those publishers or a specific ruleset."
+      ]
+    },
+    {
+      "id": "mr2004--mr2004",
+      "title": "MR2004",
+      "original_inventory_label": "MR2004",
+      "filename": "MR2004.rar",
+      "collection": "brew2010",
+      "path": "brew2010/MR2004.rar",
+      "archive_format": "RAR",
+      "size_bytes": 154540,
+      "sha256": "f7c87ce99cb37676cb72bd3828f2f994e243914a6e36b56b37a69dc2387f5b32",
+      "category": "Game",
+      "identification": "Unconfirmed identity",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mif",
+        ".mod"
+      ],
+      "url": "games/mr2004--mr2004/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "MR2004.rar survives in the original collection as a phone-game package with 4 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2010; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "mx-vs-atv--mxvsatv",
+      "title": "MX vs. ATV",
+      "original_inventory_label": "MX vs. ATV",
+      "filename": "MXvsATV.rar",
+      "collection": "brew2010",
+      "path": "brew2010/MXvsATV.rar",
+      "archive_format": "RAR",
+      "size_bytes": 307528,
+      "sha256": "9176758338bcd1e93658a75ef91b3251d101900e985655ff4a040bac76fcad54",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".cfg",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/mx-vs-atv--mxvsatv/",
+      "history_teaser": "Motocross and off-road racing were part of the feature-phone adaptation boom.",
+      "history_status": "related",
+      "history_credit": "THQ Wireless — documented mobile publisher",
+      "history_sources": [
+        {
+          "label": "Pocket Gamer: MX vs. ATV Untamed Heads for Mobile",
+          "url": "https://www.pocketgamer.com/mx-vs-atv-untamed/mx-vs-atv-untamed-heads-for-mobile/"
+        }
+      ],
+      "history_paragraphs": [
+        "THQ Wireless brought MX vs. ATV: Untamed to phones alongside the franchise’s console releases. Contemporary previews describe a mobile edition built for the smaller platform.",
+        "The archive’s shorter MXvsATV.rar name does not prove it is the Untamed edition or identify the original phone model."
+      ]
+    },
+    {
+      "id": "need-for-speed-2009-edition-unconfirmed--nf09",
+      "title": "Need for Speed 2009 (edition unconfirmed)",
+      "original_inventory_label": "Need for Speed 2009 (internal game: nfs09; likely Undercover)",
+      "filename": "nf09.zip",
+      "collection": "brew2018",
+      "path": "brew2018/nf09.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 1228990,
+      "sha256": "f191028f27e802b4b56e603cbfba4a649971044d6c610552c974bfcfbc6b2ad6",
+      "category": "Game",
+      "identification": "Unconfirmed edition",
+      "variant_note": "",
+      "internal_file_count": 5,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".other",
+        ".mod",
+        ".bar",
+        ".mif"
+      ],
+      "url": "games/need-for-speed-2009-edition-unconfirmed--nf09/",
+      "history_teaser": "One of several surviving Need for Speed phone packages with a year-like internal archive label.",
+      "history_status": "related",
+      "history_credit": "Electronic Arts — original franchise publisher; exact edition unresolved",
+      "history_sources": [
+        {
+          "label": "MobyGames: Need for Speed series",
+          "url": "https://www.mobygames.com/group/93/need-for-speed-series/"
+        }
+      ],
+      "history_paragraphs": [
+        "Electronic Arts produced numerous different Need for Speed games for mobile phones, with different developers and publishers involved across generations.",
+        "The “nf” filename and two-digit suffix are inventory clues, not verified official game titles. This entry deliberately leaves the edition unresolved rather than assigning it a famous Need for Speed subtitle."
+      ]
+    },
+    {
+      "id": "need-for-speed-2010-edition-unconfirmed--nf10",
+      "title": "Need for Speed 2010 (edition unconfirmed)",
+      "original_inventory_label": "Need for Speed 2010 (internal game: nfs10; likely Shift)",
+      "filename": "nf10.zip",
+      "collection": "brew2018",
+      "path": "brew2018/nf10.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 938402,
+      "sha256": "d663043f23d5788932fa8231ebf08dbec2de9e6a38828b700805ab0e9250df26",
+      "category": "Game",
+      "identification": "Unconfirmed edition",
+      "variant_note": "",
+      "internal_file_count": 5,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".other",
+        ".mod",
+        ".bar",
+        ".mif"
+      ],
+      "url": "games/need-for-speed-2010-edition-unconfirmed--nf10/",
+      "history_teaser": "One of several surviving Need for Speed phone packages with a year-like internal archive label.",
+      "history_status": "related",
+      "history_credit": "Electronic Arts — original franchise publisher; exact edition unresolved",
+      "history_sources": [
+        {
+          "label": "MobyGames: Need for Speed series",
+          "url": "https://www.mobygames.com/group/93/need-for-speed-series/"
+        }
+      ],
+      "history_paragraphs": [
+        "Electronic Arts produced numerous different Need for Speed games for mobile phones, with different developers and publishers involved across generations.",
+        "The “nf” filename and two-digit suffix are inventory clues, not verified official game titles. This entry deliberately leaves the edition unresolved rather than assigning it a famous Need for Speed subtitle."
+      ]
+    },
+    {
+      "id": "need-for-speed-2011-edition-unconfirmed--nf11",
+      "title": "Need for Speed 2011 (edition unconfirmed)",
+      "original_inventory_label": "Need for Speed 2011 (internal game: nfs11; likely Hot Pursuit)",
+      "filename": "nf11.zip",
+      "collection": "brew2018",
+      "path": "brew2018/nf11.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 1254489,
+      "sha256": "279e5b56af261276836f195dc636486a163a1a605f1088800e4a3f9bf3496643",
+      "category": "Game",
+      "identification": "Unconfirmed edition",
+      "variant_note": "",
+      "internal_file_count": 5,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".other",
+        ".mod",
+        ".bar",
+        ".mif"
+      ],
+      "url": "games/need-for-speed-2011-edition-unconfirmed--nf11/",
+      "history_teaser": "One of several surviving Need for Speed phone packages with a year-like internal archive label.",
+      "history_status": "related",
+      "history_credit": "Electronic Arts — original franchise publisher; exact edition unresolved",
+      "history_sources": [
+        {
+          "label": "MobyGames: Need for Speed series",
+          "url": "https://www.mobygames.com/group/93/need-for-speed-series/"
+        }
+      ],
+      "history_paragraphs": [
+        "Electronic Arts produced numerous different Need for Speed games for mobile phones, with different developers and publishers involved across generations.",
+        "The “nf” filename and two-digit suffix are inventory clues, not verified official game titles. This entry deliberately leaves the edition unresolved rather than assigning it a famous Need for Speed subtitle."
+      ]
+    },
+    {
+      "id": "need-for-speed-2012-edition-unconfirmed--nf12",
+      "title": "Need for Speed 2012 (edition unconfirmed)",
+      "original_inventory_label": "Need for Speed 2012 (internal game: nfs12; likely The Run)",
+      "filename": "nf12.zip",
+      "collection": "brew2018",
+      "path": "brew2018/nf12.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 1375139,
+      "sha256": "0fef4531ad6973c7bd8dfa262743c0eef7ed2a609ecc316f5a8f3d7aca703b55",
+      "category": "Game",
+      "identification": "Unconfirmed edition",
+      "variant_note": "",
+      "internal_file_count": 5,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".other",
+        ".mod",
+        ".bar",
+        ".mif"
+      ],
+      "url": "games/need-for-speed-2012-edition-unconfirmed--nf12/",
+      "history_teaser": "One of several surviving Need for Speed phone packages with a year-like internal archive label.",
+      "history_status": "related",
+      "history_credit": "Electronic Arts — original franchise publisher; exact edition unresolved",
+      "history_sources": [
+        {
+          "label": "MobyGames: Need for Speed series",
+          "url": "https://www.mobygames.com/group/93/need-for-speed-series/"
+        }
+      ],
+      "history_paragraphs": [
+        "Electronic Arts produced numerous different Need for Speed games for mobile phones, with different developers and publishers involved across generations.",
+        "The “nf” filename and two-digit suffix are inventory clues, not verified official game titles. This entry deliberately leaves the edition unresolved rather than assigning it a famous Need for Speed subtitle."
+      ]
+    },
+    {
+      "id": "need-for-speed-prostreet--nf08",
+      "title": "Need for Speed: ProStreet",
+      "original_inventory_label": "Need for Speed: ProStreet (internal game: nfsps)",
+      "filename": "nf08.zip",
+      "collection": "brew2018",
+      "path": "brew2018/nf08.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 1008859,
+      "sha256": "a7a8cd35c7fe920ffb7c48eff81fba2146a1111bef348932066292defc9469f1",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 5,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".dat",
+        ".mod",
+        ".sig",
+        ".bar",
+        ".mif"
+      ],
+      "url": "games/need-for-speed-prostreet--nf08/",
+      "history_teaser": "EA’s Need for Speed: ProStreet took racing away from street chases and toward sanctioned track events.",
+      "history_status": "related",
+      "history_credit": "Electronic Arts — franchise publisher",
+      "history_sources": [
+        {
+          "label": "MobyGames: Need for Speed franchise releases",
+          "url": "https://www.mobygames.com/group/93/need-for-speed-series/"
+        }
+      ],
+      "history_paragraphs": [
+        "Need for Speed: ProStreet appeared in 2007 and received several distinct mobile editions. The catalog’s nf08.zip has been inventoried as ProStreet, but its precise carrier release and mobile development team still need separate evidence.",
+        "The other nf09–nf12 packages in the same collection should not be assumed to be sequential installments without inspecting their internal title information."
+      ]
+    },
+    {
+      "id": "oldmenfight--oldmenfight",
+      "title": "OldMenFight",
+      "original_inventory_label": "OldMenFight",
+      "filename": "OldMenFight.rar",
+      "collection": "brew2010",
+      "path": "brew2010/OldMenFight.rar",
+      "archive_format": "RAR",
+      "size_bytes": 90293,
+      "sha256": "a82d464dfe79bc83faeb083e1a8e5e0cc91740c47b7a595ae038b9f643128b36",
+      "category": "Game",
+      "identification": "Unconfirmed identity",
+      "variant_note": "",
+      "internal_file_count": 10,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".img",
+        ".stt",
+        ".mod",
+        ".sig",
+        ".snd",
+        ".dat",
+        ".mif"
+      ],
+      "url": "games/oldmenfight--oldmenfight/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "OldMenFight.rar survives in the original collection as a phone-game package with 10 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2010; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "opengl-es-demo-01--qc-ogles-demo-01",
+      "title": "OpenGL ES Demo 01",
+      "original_inventory_label": "OpenGL ES demo 01 — technical demo",
+      "filename": "qc_ogles_demo_01.rar",
+      "collection": "brew2010",
+      "path": "brew2010/qc_ogles_demo_01.rar",
+      "archive_format": "RAR",
+      "size_bytes": 7927,
+      "sha256": "e0b57c7ab794f78d6956ece4bf1945e4be652cbf5f6c8fdbd49688e24e590011",
+      "category": "Demo",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mif",
+        ".mod",
+        ".bar"
+      ],
+      "url": "games/opengl-es-demo-01--qc-ogles-demo-01/",
+      "history_teaser": "A preserved example from the transition toward mobile 3D graphics on phones.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "Qualcomm: Advanced 3D BREW Support, 2005",
+          "url": "https://www.qualcomm.com/news/releases/2005/03/qualcomm-adds-another-dimension-wireless-market-advanced-support-3d-gaming"
+        }
+      ],
+      "history_paragraphs": [
+        "This package is labeled as an OpenGL ES demo, part of the technical wave that made early polygonal phone games possible. The number “01” identifies the archive sample, not a confirmed chronological SDK release.",
+        "Qualcomm’s 2005 3D initiative describes the push to give BREW developers more hardware graphics capabilities. That is platform background rather than documentation of this particular sample."
+      ]
+    },
+    {
+      "id": "opengl-es-demo-02--qc-ogles-demo-02",
+      "title": "OpenGL ES Demo 02",
+      "original_inventory_label": "OpenGL ES demo 02 — technical demo",
+      "filename": "qc-ogles_demo_02.rar",
+      "collection": "brew2010",
+      "path": "brew2010/qc-ogles_demo_02.rar",
+      "archive_format": "RAR",
+      "size_bytes": 27409,
+      "sha256": "4f7547e5492bdc77a4afdf2af5cb8983da66e3b9de7d5d7395f105995782b31e",
+      "category": "Demo",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 7,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".tga",
+        ".mif",
+        ".bar",
+        ".mod"
+      ],
+      "url": "games/opengl-es-demo-02--qc-ogles-demo-02/",
+      "history_teaser": "A companion OpenGL ES example in the original BREW collection.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "Qualcomm: Advanced 3D BREW Support, 2005",
+          "url": "https://www.qualcomm.com/news/releases/2005/03/qualcomm-adds-another-dimension-wireless-market-advanced-support-3d-gaming"
+        }
+      ],
+      "history_paragraphs": [
+        "Listed as the second OpenGL ES demo, this file sits alongside another sample package. Which rendering techniques it demonstrates must be established by examining the actual program, not assumed from its name.",
+        "Qualcomm’s 2005 3D initiative describes the push to give BREW developers more hardware graphics capabilities. That is platform background rather than documentation of this particular sample."
+      ]
+    },
+    {
+      "id": "orcs-elves-ii--oe2",
+      "title": "Orcs & Elves II",
+      "original_inventory_label": "Orcs & Elves II (internal game: orcsandelves2)",
+      "filename": "oe2.zip",
+      "collection": "brew2018",
+      "path": "brew2018/oe2.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 2262838,
+      "sha256": "0417c03826e9d5a29e4d986d9b68383911f4b634e63f8effe0fd89fcefd655f1",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".cfg",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/orcs-elves-ii--oe2/",
+      "history_teaser": "John Carmack’s fantasy RPG universe returned in a sequel designed for little phone screens.",
+      "history_status": "documented",
+      "history_credit": "Fountainhead Entertainment / id Mobile — documented title",
+      "history_sources": [
+        {
+          "label": "MobyGames: Orcs & Elves II releases",
+          "url": "https://www.mobygames.com/game/224612/orcs-elves-ii/releases/"
+        },
+        {
+          "label": "GameFAQs: Orcs & Elves II credits",
+          "url": "https://gamefaqs.gamespot.com/mobile/942083-orcs-and-elves-ii/credit"
+        }
+      ],
+      "history_paragraphs": [
+        "Orcs & Elves II continued id Mobile and Fountainhead Entertainment’s turn-based fantasy RPG series, which made the constraints of phone keypads part of the design instead of trying to mimic a desktop RPG.",
+        "MobyGames records a BREW release in December 2007. The game belongs to the same inventive mobile-RPG period as the DOOM RPG titles."
+      ]
+    },
+    {
+      "id": "pac-man-golf--pacmangolf",
+      "title": "Pac-Man Golf",
+      "original_inventory_label": "Pac-Man Golf",
+      "filename": "PacManGolf.rar",
+      "collection": "brew2010",
+      "path": "brew2010/PacManGolf.rar",
+      "archive_format": "RAR",
+      "size_bytes": 306861,
+      "sha256": "1035fbf5df798c3b55ea149733f161da8fd22fe4f900d44dbc76c51426c46098",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 22,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bin",
+        ".lvl",
+        ".lvc",
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/pac-man-golf--pacmangolf/",
+      "history_teaser": "Pac-Man even made it onto golf courses during the licensed mobile-game boom.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "Bandai Namco: Pac-Man game franchise",
+          "url": "https://www.pacman.com/en/history/"
+        }
+      ],
+      "history_paragraphs": [
+        "Pac-Man Golf is a reminder that early phone publishers often used familiar arcade characters in new genres rather than reproducing their original games.",
+        "The preserved filename is clear, but developer, publisher, course count, and mobile release year have not been confirmed for this exact BREW package."
+      ]
+    },
+    {
+      "id": "pacman--pacman",
+      "title": "pacman",
+      "original_inventory_label": "pacman",
+      "filename": "pacman.rar",
+      "collection": "brew2010",
+      "path": "brew2010/pacman.rar",
+      "archive_format": "RAR",
+      "size_bytes": 53804,
+      "sha256": "3d116e99051a4c02d66ad45c3441d084d565f5bea7a575564fa17ae1df515802",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/pacman--pacman/",
+      "history_teaser": "Namco’s maze-running icon kept finding new homes, including early BREW downloads.",
+      "history_status": "related",
+      "history_credit": "Namco — original arcade title",
+      "history_sources": [
+        {
+          "label": "Bandai Namco: Pac-Man history",
+          "url": "https://www.pacman.com/en/history/"
+        }
+      ],
+      "history_paragraphs": [
+        "Pac-Man was created for Namco in 1980 by Toru Iwatani and became one of arcade gaming’s most recognizable characters.",
+        "This package represents a phone-era edition, but the particular mobile porting contractor and release year have not been independently identified."
+      ]
+    },
+    {
+      "id": "pfjungle-176only--pfjungle-176only",
+      "title": "pfjungle_176only",
+      "original_inventory_label": "pfjungle_176only",
+      "filename": "pfjungle_176only.rar",
+      "collection": "brew2010",
+      "path": "brew2010/pfjungle_176only.rar",
+      "archive_format": "RAR",
+      "size_bytes": 91885,
+      "sha256": "1d247f0ea52568fb8fbfef11b11c7102bce5b6578ca0857d481a569ddd22cd07",
+      "category": "Game",
+      "identification": "Unconfirmed identity",
+      "variant_note": "176 display notation in filename",
+      "internal_file_count": 6,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".sav",
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/pfjungle-176only--pfjungle-176only/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "pfjungle_176only.rar survives in the original collection as a phone-game package with 6 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The catalog notes: 176 display notation in filename. This clue is not a verified device model or release date."
+      ]
+    },
+    {
+      "id": "phil-hellmuth-texas-hold-em--philhelmuthtexasholdem",
+      "title": "Phil Hellmuth Texas Hold’em",
+      "original_inventory_label": "Phil Hellmuth Texas Hold’em",
+      "filename": "PhilHelmuthTexasHoldEm.rar",
+      "collection": "brew2010",
+      "path": "brew2010/PhilHelmuthTexasHoldEm.rar",
+      "archive_format": "RAR",
+      "size_bytes": 99693,
+      "sha256": "e10d06aa75d3c85ec1a268a9ad0ee8368096ab06c8a6412387568014739ba966",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 7,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mif",
+        ".mod",
+        ".bar",
+        ".bmp",
+        ".txt"
+      ],
+      "url": "games/phil-hellmuth-texas-hold-em--philhelmuthtexasholdem/",
+      "history_teaser": "Professional poker personality Phil Hellmuth lent his name to a phone-era Texas Hold’em title.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "Phil Hellmuth: contemporary Texas Hold’em book (2005)",
+          "url": "https://books.google.com/books?id=Qkblb0_2EQgC"
+        }
+      ],
+      "history_paragraphs": [
+        "Phil Hellmuth was already a well-known World Series of Poker champion when his name was used on card-game and teaching products in the mid-2000s.",
+        "The archived title establishes a celebrity endorsement in the naming, but the developer and commercial release date of this BREW app were not verified."
+      ]
+    },
+    {
+      "id": "pocket-god--pgd",
+      "title": "Pocket God",
+      "original_inventory_label": "Pocket God (internal game: pocketgod)",
+      "filename": "pgd.zip",
+      "collection": "brew2018",
+      "path": "brew2018/pgd.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 831656,
+      "sha256": "9729a73df0426be354df230f7869d2183302f31d9c68e63bdd72a39ce9eb51a3",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mif",
+        ".bar",
+        ".mod"
+      ],
+      "url": "games/pocket-god--pgd/",
+      "history_teaser": "Bolt Creative’s mischievous islanders traveled beyond iPhone to BREW and Java phones.",
+      "history_status": "related",
+      "history_credit": "Bolt Creative — original game",
+      "history_sources": [
+        {
+          "label": "PocketGamer.biz: Bolt Creative interview on BREW expansion",
+          "url": "https://www.pocketgamer.biz/dave-castelnuovo-on-expanding-pocket-god-beyond-ipad-dolls-and-comic-books-to-java-brew-and-xbox/"
+        }
+      ],
+      "history_paragraphs": [
+        "Pocket God began at Bolt Creative as a small, rapidly updated iPhone experiment by Dave Castelnuovo and Allan Dye.",
+        "In a 2010 interview, Castelnuovo discussed plans to expand the title to Java and BREW along with other platforms. The existence of this package is separate from establishing the exact date and developer of the BREW adaptation."
+      ]
+    },
+    {
+      "id": "projected-shadow-demo--qx-projectedshadow",
+      "title": "Projected Shadow Demo",
+      "original_inventory_label": "Projected Shadow QX demo",
+      "filename": "qx_projectedshadow.rar",
+      "collection": "brew2010",
+      "path": "brew2010/qx_projectedshadow.rar",
+      "archive_format": "RAR",
+      "size_bytes": 94199,
+      "sha256": "37b8894d24e8f3686b2635f40f915d7049c92f96c9dbd6a409a48b3ca0f9ab06",
+      "category": "Demo",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 5,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mod",
+        ".qxt",
+        ".qxa",
+        ".qxm",
+        ".mif"
+      ],
+      "url": "games/projected-shadow-demo--qx-projectedshadow/",
+      "history_teaser": "A 3D graphics sample with a name that points to early mobile shadow experiments.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "Qualcomm: Advanced 3D BREW Support, 2005",
+          "url": "https://www.qualcomm.com/news/releases/2005/03/qualcomm-adds-another-dimension-wireless-market-advanced-support-3d-gaming"
+        }
+      ],
+      "history_paragraphs": [
+        "Projected Shadow Demo appears as a technical sample, not a commercial release. Its filename hints at shadow rendering, but there is no sourced explanation of its particular algorithm or author.",
+        "Qualcomm’s 2005 3D initiative describes the push to give BREW developers more hardware graphics capabilities. That is platform background rather than documentation of this particular sample."
+      ]
+    },
+    {
+      "id": "quebra-cabe-a-puzzle-176-screen--quebracabeca-176",
+      "title": "Quebra-Cabeça (puzzle; 176-screen)",
+      "original_inventory_label": "Quebra-Cabeça (puzzle; 176-screen)",
+      "filename": "QuebraCabeca_176.rar",
+      "collection": "brew2010",
+      "path": "brew2010/QuebraCabeca_176.rar",
+      "archive_format": "RAR",
+      "size_bytes": 30711,
+      "sha256": "2daaf60e3765f16cf5a783839e1c660c88ab457367f0939482ff6a68df821175",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "176 display notation in filename",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".txt",
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/quebra-cabe-a-puzzle-176-screen--quebracabeca-176/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "QuebraCabeca_176.rar survives in the original collection as a phone-game package with 4 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The catalog notes: 176 display notation in filename. This clue is not a verified device model or release date."
+      ]
+    },
+    {
+      "id": "resident-evil-biohazard-edition-unknown--residentevil",
+      "title": "Resident Evil / Biohazard (edition unknown)",
+      "original_inventory_label": "Resident Evil / Biohazard (separate package; exact edition unverified)",
+      "filename": "ResidentEvil.rar",
+      "collection": "brew2010",
+      "path": "brew2010/ResidentEvil.rar",
+      "archive_format": "RAR",
+      "size_bytes": 1702612,
+      "sha256": "ff1b8f6d64ff2cec67c42f6ccc33732bad059cf7e2a0283d778d7f53e42be37b",
+      "category": "Game",
+      "identification": "Unconfirmed edition",
+      "variant_note": "",
+      "internal_file_count": 5,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mdc",
+        ".mod",
+        ".s3e",
+        ".dz",
+        ".mif"
+      ],
+      "url": "games/resident-evil-biohazard-edition-unknown--residentevil/",
+      "history_teaser": "Capcom experimented with multiple distinct Resident Evil titles on mobile phones.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "Capcom: Resident Evil Genesis announcement, 2008",
+          "url": "https://news.capcomusa.com/lets/browse/resident-evil-genesis-now-irradiating-n-american"
+        },
+        {
+          "label": "MobyGames: Resident Evil 4 Mobile Edition",
+          "url": "https://www.mobygames.com/game/42794/resident-evil-4-mobile-edition/releases/"
+        }
+      ],
+      "history_paragraphs": [
+        "The Resident Evil name covered several mobile adaptations, including the 2008 puzzle-oriented Resident Evil: Genesis and other action-oriented editions.",
+        "Because ResidentEvil.rar does not include a subtitle, this entry avoids assigning it the developer, story, or release date of a different Resident Evil phone game."
+      ]
+    },
+    {
+      "id": "resident-evil-genesis--regenesis",
+      "title": "Resident Evil: Genesis",
+      "original_inventory_label": "Resident Evil: Genesis",
+      "filename": "REGenesis.rar",
+      "collection": "brew2010",
+      "path": "brew2010/REGenesis.rar",
+      "archive_format": "RAR",
+      "size_bytes": 187306,
+      "sha256": "0dd9f533caa36eccce45d8fa4ca29eb0b172774019e0da1886abe176e00608ec",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/resident-evil-genesis--regenesis/",
+      "history_teaser": "Capcom rebuilt the first Resident Evil as a compact, puzzle-heavy survival horror adventure for phones.",
+      "history_status": "documented",
+      "history_credit": "Capcom Interactive — mobile publisher",
+      "history_sources": [
+        {
+          "label": "Capcom: Resident Evil Genesis announcement, March 2008",
+          "url": "https://news.capcomusa.com/lets/browse/resident-evil-genesis-now-irradiating-n-american"
+        }
+      ],
+      "history_paragraphs": [
+        "Resident Evil: Genesis was published by Capcom Interactive in March 2008. Instead of attempting a one-to-one port of the PlayStation game, it returned to the mansion setting in a mobile-friendly format emphasizing exploration and puzzles.",
+        "Capcom’s own announcement describes Jill’s survival adventure and calls it a newly created mobile game."
+      ]
+    },
+    {
+      "id": "sample-loader-demo--qx-sampleloader",
+      "title": "Sample Loader Demo",
+      "original_inventory_label": "Sample Loader QX demo",
+      "filename": "qx_sampleloader.rar",
+      "collection": "brew2010",
+      "path": "brew2010/qx_sampleloader.rar",
+      "archive_format": "RAR",
+      "size_bytes": 134435,
+      "sha256": "8d42c6e74549aa35d12f50d3834951ff3a7f91a1233e11155dcdb51d0ee2ed5a",
+      "category": "Demo",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 8,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".qxt",
+        ".mod",
+        ".qxa",
+        ".qxm",
+        ".log",
+        ".mif"
+      ],
+      "url": "games/sample-loader-demo--qx-sampleloader/",
+      "history_teaser": "A surviving loader demonstration from the handset application-development world.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "Qualcomm: Advanced 3D BREW Support, 2005",
+          "url": "https://www.qualcomm.com/news/releases/2005/03/qualcomm-adds-another-dimension-wireless-market-advanced-support-3d-gaming"
+        }
+      ],
+      "history_paragraphs": [
+        "Sample Loader is cataloged as a demo package. It might help future reverse engineering of older BREW file handling; the original tutorial text and specific purpose are not preserved here.",
+        "Qualcomm’s 2005 3D initiative describes the push to give BREW developers more hardware graphics capabilities. That is platform background rather than documentation of this particular sample."
+      ]
+    },
+    {
+      "id": "samurai--samurai",
+      "title": "Samurai",
+      "original_inventory_label": "Samurai",
+      "filename": "Samurai.rar",
+      "collection": "brew2010",
+      "path": "brew2010/Samurai.rar",
+      "archive_format": "RAR",
+      "size_bytes": 88341,
+      "sha256": "0cb94df1276a61660ce7973f4007ff37bb2ee64fe38afe7bec0277673d6cc0f0",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 19,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".qcp",
+        ".mid",
+        ".bin",
+        ".txt",
+        ".dat",
+        ".mod",
+        ".bar"
+      ],
+      "url": "games/samurai--samurai/",
+      "history_teaser": "JAMDAT’s Samurai brought sword fights and ninjas to a tiny side-scrolling phone game.",
+      "history_status": "related",
+      "history_credit": "JAMDAT — publisher of contemporary mobile Samurai",
+      "history_sources": [
+        {
+          "label": "GameSpot: Samurai by JAMDAT review (2005)",
+          "url": "https://www.gamespot.com/reviews/samurai-by-jamdat-review/1900-6129022/"
+        }
+      ],
+      "history_paragraphs": [
+        "A July 2005 GameSpot review describes Samurai by JAMDAT as a mobile side-scrolling action game featuring samurai, ninjas, and dramatic one-on-one fights.",
+        "The matching name makes this a plausible historical connection, but this archive entry does not by itself prove the studio or carrier of the exact BREW package."
+      ]
+    },
+    {
+      "id": "shs-exact-game-title-unverified--shs",
+      "title": "SHS (exact game title unverified)",
+      "original_inventory_label": "SHS (exact game title unverified)",
+      "filename": "SHS.rar",
+      "collection": "brew2010",
+      "path": "brew2010/SHS.rar",
+      "archive_format": "RAR",
+      "size_bytes": 612562,
+      "sha256": "d0697a7ef0d1fa9f95e3ecbd9f05fcb69b167f1d5599af8ea3d796317db61b9b",
+      "category": "Game",
+      "identification": "Unconfirmed identity",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".pud",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/shs-exact-game-title-unverified--shs/",
+      "history_teaser": "A mystery from the BREW collection: even the original game identity is not confirmed.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "The archive preserves SHS.rar, but available inventory evidence is insufficient to verify the original game title or developer. Assigning it a more famous name would risk losing what makes this copy useful as an historical record.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2010; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "shs-add-ons--shs-addons",
+      "title": "SHS Add-ons",
+      "original_inventory_label": "SHS extra campaigns/addons, not independent game",
+      "filename": "shs-addons.rar",
+      "collection": "brew2010",
+      "path": "brew2010/shs-addons.rar",
+      "archive_format": "RAR",
+      "size_bytes": 1829346,
+      "sha256": "bf7467e4fb23500fcf14f9d54330dee7f789bb06142a26400f1017961c6b233b",
+      "category": "Add-on",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 124,
+      "has_mod": false,
+      "has_mif": false,
+      "types": [
+        ".exp",
+        ".txt"
+      ],
+      "url": "games/shs-add-ons--shs-addons/",
+      "history_teaser": "An add-on package preserved separately from its parent game or application.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "shs-addons.rar was archived as an add-on, not a standalone commercial release. Its relationship to the corresponding base program should be evaluated using its contents, not assumed from the title alone.",
+        "The recorded inventory includes files with extensions such as .exp, .txt. The source collection labels this folder brew2010; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "snowboardtnt--snowboardtnt",
+      "title": "SnowboardTNT",
+      "original_inventory_label": "SnowboardTNT",
+      "filename": "SnowboardTNT.rar",
+      "collection": "brew2010",
+      "path": "brew2010/SnowboardTNT.rar",
+      "archive_format": "RAR",
+      "size_bytes": 1157550,
+      "sha256": "64a0ac2d15054f0bfd019c04e955b2a00a4a1cc893b160e7eb41d6d4550b159f",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 6,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".xml",
+        ".pck",
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/snowboardtnt--snowboardtnt/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "SnowboardTNT.rar survives in the original collection as a phone-game package with 6 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2010; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "spider-man--spiderman",
+      "title": "Spider-Man",
+      "original_inventory_label": "Spider-Man",
+      "filename": "Spiderman.rar",
+      "collection": "brew2010",
+      "path": "brew2010/Spiderman.rar",
+      "archive_format": "RAR",
+      "size_bytes": 215897,
+      "sha256": "d22c1fe7a41fdddac846791dc9e709050d32dc1d9bfc8a49a58959c867b16083",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 5,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mif",
+        ".map",
+        ".mod"
+      ],
+      "url": "games/spider-man--spiderman/",
+      "history_teaser": "Spider-Man’s early phone adventures were separate games, not simply shrunk-down console ports.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "GameSpot: Spider-Man 2 3D NY Rooftops review",
+          "url": "https://www.gamespot.com/reviews/spider-man-2-3d-ny-rooftops-review/1900-6118255/"
+        },
+        {
+          "label": "MobyGames: Hands-On Mobile catalog",
+          "url": "https://www.mobygames.com/company/6218/hands-on-mobile-inc/"
+        }
+      ],
+      "history_paragraphs": [
+        "Different Spider-Man titles arrived on BREW and other handsets through the mid-2000s, including licensed adventures with completely different designs from the console releases.",
+        "The archive simply labels this copy Spiderman.rar. Without a subtitle or embedded credits, the particular storyline and development team remain open questions."
+      ]
+    },
+    {
+      "id": "spore--spr1",
+      "title": "Spore",
+      "original_inventory_label": "Spore (internal game: spore)",
+      "filename": "spr1.zip",
+      "collection": "brew2018",
+      "path": "brew2018/spr1.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 787264,
+      "sha256": "bd38b5978233f0800d8ca72bfc4740e1cc1eb1ba8552ff8ff46227e4ba022bab",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".txt",
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/spore--spr1/",
+      "history_teaser": "Spore’s creature-evolution idea was reimagined as a small-screen mobile game.",
+      "history_status": "related",
+      "history_credit": "EA Mobile / Babaroga — documented related Spore Origins release",
+      "history_sources": [
+        {
+          "label": "MobyGames: Spore Origins releases",
+          "url": "https://www.mobygames.com/game/36066/spore-origins/releases/"
+        }
+      ],
+      "history_paragraphs": [
+        "Electronic Arts produced phone adaptations of the Spore property, including Spore Origins, whose BREW edition is documented in 2008 and whose mobile developer is credited as Babaroga.",
+        "The archived name spr1.zip does not establish that this copy is specifically Spore Origins, so that identification remains tentative."
+      ]
+    },
+    {
+      "id": "spore-2--spr2",
+      "title": "Spore 2",
+      "original_inventory_label": "Spore 2 (internal game: spore2)",
+      "filename": "spr2.zip",
+      "collection": "brew2018",
+      "path": "brew2018/spr2.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 974058,
+      "sha256": "d01c7799ddc60aa9dd2f31162730c99ee7f3ca69fc4b231276958094046fe658",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mif",
+        ".mod"
+      ],
+      "url": "games/spore-2--spr2/",
+      "history_teaser": "A second archived Spore-family phone title, with its precise commercial subtitle unverified.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "MobyGames: Spore Origins releases",
+          "url": "https://www.mobygames.com/game/36066/spore-origins/releases/"
+        }
+      ],
+      "history_paragraphs": [
+        "Spore generated multiple mobile adaptations after the original PC game. EA’s mobile titles rethought evolution mechanics for buttons and much smaller screens.",
+        "The spr2.zip label indicates a second entry in this collection’s naming scheme, but the developer, launch year, and exact relationship to spr1.zip are still unverified."
+      ]
+    },
+    {
+      "id": "spritegame-sample--ispritegame",
+      "title": "SpriteGame Sample",
+      "original_inventory_label": "Sprite/game-engine test, not confirmed full game",
+      "filename": "ISpriteGame.rar",
+      "collection": "brew2010",
+      "path": "brew2010/ISpriteGame.rar",
+      "archive_format": "RAR",
+      "size_bytes": 8373,
+      "sha256": "289c9c73228726155cd4bdf8cb444401c036701901ab75a8c2a2687864e08dfc",
+      "category": "Demo",
+      "identification": "Unconfirmed identity",
+      "variant_note": "",
+      "internal_file_count": 5,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bmp",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/spritegame-sample--ispritegame/",
+      "history_teaser": "A game-like sprite sample, useful evidence that BREW also served developers learning 2D techniques.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "Qualcomm: Advanced 3D BREW Support, 2005",
+          "url": "https://www.qualcomm.com/news/releases/2005/03/qualcomm-adds-another-dimension-wireless-market-advanced-support-3d-gaming"
+        }
+      ],
+      "history_paragraphs": [
+        "The archive records a SpriteGame Sample. The name suggests sprite-based graphics, but this index does not invent a game premise or original developer for what may have been an SDK example.",
+        "Qualcomm’s 2005 3D initiative describes the push to give BREW developers more hardware graphics capabilities. That is platform background rather than documentation of this particular sample."
+      ]
+    },
+    {
+      "id": "st20-exact-game-title-unverified--st20",
+      "title": "ST20 (exact game title unverified)",
+      "original_inventory_label": "ST20 (exact game title unverified)",
+      "filename": "ST20.rar",
+      "collection": "brew2010",
+      "path": "brew2010/ST20.rar",
+      "archive_format": "RAR",
+      "size_bytes": 200991,
+      "sha256": "1a9dabeed3bcba0826837761e07eee0eafcf20b77562e2f1f1ae285261d09bdf",
+      "category": "Game",
+      "identification": "Unconfirmed identity",
+      "variant_note": "",
+      "internal_file_count": 6,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".prm",
+        ".mif"
+      ],
+      "url": "games/st20-exact-game-title-unverified--st20/",
+      "history_teaser": "A mystery from the BREW collection: even the original game identity is not confirmed.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "The archive preserves ST20.rar, but available inventory evidence is insufficient to verify the original game title or developer. Assigning it a more famous name would risk losing what makes this copy useful as an historical record.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2010; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "street-fighter-ii-champion-edition--streetfighter2ce",
+      "title": "Street Fighter II: Champion Edition",
+      "original_inventory_label": "Street Fighter II: Champion Edition",
+      "filename": "StreetFighter2CE.rar",
+      "collection": "brew2010",
+      "path": "brew2010/StreetFighter2CE.rar",
+      "archive_format": "RAR",
+      "size_bytes": 529913,
+      "sha256": "186516f7746f40733f412675b680fad19579009c314a41ac1c789aaa9f1e47e3",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mif",
+        ".bar",
+        ".mod",
+        ".sig"
+      ],
+      "url": "games/street-fighter-ii-champion-edition--streetfighter2ce/",
+      "history_teaser": "A defining 1992 arcade fighter made the journey from six-button cabinets to telephone keypads.",
+      "history_status": "related",
+      "history_credit": "Capcom — original arcade game",
+      "history_sources": [
+        {
+          "label": "MobyGames: Street Fighter II: Champion Edition",
+          "url": "https://www.mobygames.com/game/8053/street-fighter-ii-champion-edition/"
+        }
+      ],
+      "history_paragraphs": [
+        "Capcom’s Street Fighter II: Champion Edition was released in arcades in 1992, making its four original boss characters playable and expanding competitive fighting-game history.",
+        "This BREW package belongs to the later mobile adaptation era. Its presence here does not identify the porting studio or claim the phone edition played exactly like the arcade original."
+      ]
+    },
+    {
+      "id": "super-drop-mania-176-screen--superdropmania176",
+      "title": "Super Drop Mania (176-screen)",
+      "original_inventory_label": "Super Drop Mania (176-screen)",
+      "filename": "SuperDropMania176.rar",
+      "collection": "brew2010",
+      "path": "brew2010/SuperDropMania176.rar",
+      "archive_format": "RAR",
+      "size_bytes": 913494,
+      "sha256": "22b1db4568534454c78e42d611f661b14b4c4020aee870a2b043704e67017d1b",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "176 display notation in filename",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mif",
+        ".bar",
+        ".mod",
+        ".cfl"
+      ],
+      "url": "games/super-drop-mania-176-screen--superdropmania176/",
+      "history_teaser": "Before app stores, falling-block puzzlers were being rebuilt for many different handset display sizes.",
+      "history_status": "related",
+      "history_credit": "Fathammer / Telcogames — documented related mobile editions",
+      "history_sources": [
+        {
+          "label": "Pocket Gamer: Get Set for Super Drop Mania (2007)",
+          "url": "https://www.pocketgamer.com/super-drop-mania/get-set-for-super-drop-mania/"
+        },
+        {
+          "label": "MobyGames: Super Drop Mania releases",
+          "url": "https://www.mobygames.com/game/20984/super-drop-mania/releases/"
+        }
+      ],
+      "history_paragraphs": [
+        "Super Drop Mania was associated with Fathammer and the earlier mobile puzzle-game market. Contemporary reporting in 2007 covered its release through Telcogames.",
+        "These two packages carry different 176 and 240 display labels. The archive does not establish whether their code, artwork, or features differ beyond handset targeting."
+      ]
+    },
+    {
+      "id": "super-drop-mania-240-screen--superdropmania240",
+      "title": "Super Drop Mania (240-screen)",
+      "original_inventory_label": "Super Drop Mania (240-screen)",
+      "filename": "SuperDropMania240.rar",
+      "collection": "brew2010",
+      "path": "brew2010/SuperDropMania240.rar",
+      "archive_format": "RAR",
+      "size_bytes": 1658078,
+      "sha256": "1d7246849b05359b26240e54ec67cc69aa722758613cafc6d0a5731babe18ebb",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "240 display notation in filename",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".cfl",
+        ".mif"
+      ],
+      "url": "games/super-drop-mania-240-screen--superdropmania240/",
+      "history_teaser": "Before app stores, falling-block puzzlers were being rebuilt for many different handset display sizes.",
+      "history_status": "related",
+      "history_credit": "Fathammer / Telcogames — documented related mobile editions",
+      "history_sources": [
+        {
+          "label": "Pocket Gamer: Get Set for Super Drop Mania (2007)",
+          "url": "https://www.pocketgamer.com/super-drop-mania/get-set-for-super-drop-mania/"
+        },
+        {
+          "label": "MobyGames: Super Drop Mania releases",
+          "url": "https://www.mobygames.com/game/20984/super-drop-mania/releases/"
+        }
+      ],
+      "history_paragraphs": [
+        "Super Drop Mania was associated with Fathammer and the earlier mobile puzzle-game market. Contemporary reporting in 2007 covered its release through Telcogames.",
+        "These two packages carry different 176 and 240 display labels. The archive does not establish whether their code, artwork, or features differ beyond handset targeting."
+      ]
+    },
+    {
+      "id": "terminator-3-korean-176-display--terminator3-kor-176",
+      "title": "Terminator 3 (Korean, 176 display)",
+      "original_inventory_label": "Terminator 3 (Korean; 176-screen)",
+      "filename": "Terminator3-kor_176.rar",
+      "collection": "brew2010",
+      "path": "brew2010/Terminator3-kor_176.rar",
+      "archive_format": "RAR",
+      "size_bytes": 98546,
+      "sha256": "aa203449ef59a79e54df4232bd6a3de83330ad83a260acba5aa584e922aa55f6",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "176 display notation in filename",
+      "internal_file_count": 8,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".ft",
+        ".bar",
+        ".li",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/terminator-3-korean-176-display--terminator3-kor-176/",
+      "history_teaser": "A Korean-labeled 176-screen Terminator 3 game from the age of region-specific phone releases.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "MobyGames: Terminator 3 franchise overview",
+          "url": "https://www.mobygames.com/game/44445/terminator-3-rise-of-the-machines/"
+        }
+      ],
+      "history_paragraphs": [
+        "The Terminator franchise supported multiple mobile games in the early 2000s. This file is specifically labeled Terminator 3, “kor,” and “176,” which suggest language and display variants.",
+        "Console versions of Terminator 3 were made by different teams. Their credits cannot safely be transferred to this Korean-labeled BREW package."
+      ]
+    },
+    {
+      "id": "tetris--tetris",
+      "title": "Tetris",
+      "original_inventory_label": "tetris",
+      "filename": "tetris.rar",
+      "collection": "brew2010",
+      "path": "brew2010/tetris.rar",
+      "archive_format": "RAR",
+      "size_bytes": 28231,
+      "sha256": "cfe30d6c50c6414ed94c77c9d77554bac7d8017c2a19a5d48e807e07dedf0749",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 6,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bin",
+        ".mif",
+        ".bar",
+        ".mod",
+        ".mid"
+      ],
+      "url": "games/tetris--tetris/",
+      "history_teaser": "From Soviet computer puzzle to one of the most widely adapted games ever—and right into BREW phones.",
+      "history_status": "related",
+      "history_credit": "Alexey Pajitnov — original game concept",
+      "history_sources": [
+        {
+          "label": "MobyGames: Tetris (BREW editions)",
+          "url": "https://www.mobygames.com/game/247488/tetris/releases/"
+        },
+        {
+          "label": "Tetris: Official history",
+          "url": "https://tetris.com/news/the-history-of-tetris"
+        }
+      ],
+      "history_paragraphs": [
+        "Created by Alexey Pajitnov in 1984, Tetris became a uniquely enduring test of new gaming hardware. Mobile editions appeared across BREW, Java, and later smartphones.",
+        "The two preserved filenames indicate a general Tetris package and one labeled for a 240 display. Their exact BREW developer or licensee should not be guessed from the name."
+      ]
+    },
+    {
+      "id": "tetris-240-display--tetris240",
+      "title": "Tetris (240 display)",
+      "original_inventory_label": "tetris240",
+      "filename": "tetris240.rar",
+      "collection": "brew2010",
+      "path": "brew2010/tetris240.rar",
+      "archive_format": "RAR",
+      "size_bytes": 38251,
+      "sha256": "158d172d0d5598cc25f497307e67765043feb8ad964c9bdc8bfc83262fa6da8f",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "240 display notation in filename",
+      "internal_file_count": 6,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bin",
+        ".mif",
+        ".bar",
+        ".mod",
+        ".midi"
+      ],
+      "url": "games/tetris-240-display--tetris240/",
+      "history_teaser": "From Soviet computer puzzle to one of the most widely adapted games ever—and right into BREW phones.",
+      "history_status": "related",
+      "history_credit": "Alexey Pajitnov — original game concept",
+      "history_sources": [
+        {
+          "label": "MobyGames: Tetris (BREW editions)",
+          "url": "https://www.mobygames.com/game/247488/tetris/releases/"
+        },
+        {
+          "label": "Tetris: Official history",
+          "url": "https://tetris.com/news/the-history-of-tetris"
+        }
+      ],
+      "history_paragraphs": [
+        "Created by Alexey Pajitnov in 1984, Tetris became a uniquely enduring test of new gaming hardware. Mobile editions appeared across BREW, Java, and later smartphones.",
+        "The two preserved filenames indicate a general Tetris package and one labeled for a 240 display. Their exact BREW developer or licensee should not be guessed from the name."
+      ]
+    },
+    {
+      "id": "the-chronicles-of-narnia-prince-caspian--princecaspian",
+      "title": "The Chronicles of Narnia: Prince Caspian",
+      "original_inventory_label": "The Chronicles of Narnia: Prince Caspian",
+      "filename": "PrinceCaspian.rar",
+      "collection": "brew2010",
+      "path": "brew2010/PrinceCaspian.rar",
+      "archive_format": "RAR",
+      "size_bytes": 946925,
+      "sha256": "e177b057c258aed74b2c1550545b3af640440c099b7ae283d35b7756b67e40a2",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 9,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".x",
+        ".pak",
+        ".mif",
+        ".mod",
+        ".dat"
+      ],
+      "url": "games/the-chronicles-of-narnia-prince-caspian--princecaspian/",
+      "history_teaser": "A Disney-era Narnia movie tie-in found its way to mobile handsets.",
+      "history_status": "related",
+      "history_credit": "Enorbus Technologies — credited related mobile game",
+      "history_sources": [
+        {
+          "label": "MobyGames: Prince Caspian mobile",
+          "url": "https://www.mobygames.com/game/130034/the-chronicles-of-narnia-prince-caspian/"
+        }
+      ],
+      "history_paragraphs": [
+        "The Chronicles of Narnia: Prince Caspian received a 2008 phone game adaptation. MobyGames credits Enorbus Technologies and Disney Mobile Studios for the documented mobile edition.",
+        "The surviving BREW package has not independently been matched to that edition’s exact binaries or credits."
+      ]
+    },
+    {
+      "id": "the-dark-knight--darkknight",
+      "title": "The Dark Knight",
+      "original_inventory_label": "The Dark Knight",
+      "filename": "DarkKnight.rar",
+      "collection": "brew2010",
+      "path": "brew2010/DarkKnight.rar",
+      "archive_format": "RAR",
+      "size_bytes": 527390,
+      "sha256": "0ba66c0e82ba3e5a712f3cceee272770a50c1fb9341ab06240cabed0bb480fd0",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mif",
+        ".conf",
+        ".bar",
+        ".mod"
+      ],
+      "url": "games/the-dark-knight--darkknight/",
+      "history_teaser": "The 2008 Batman film was also represented in the feature-phone gaming market.",
+      "history_status": "related",
+      "history_credit": "Glu Mobile — documented related mobile release",
+      "history_sources": [
+        {
+          "label": "MobyGames: The Dark Knight – The Mobile Game",
+          "url": "https://www.mobygames.com/game/56943/the-dark-knight-the-mobile-game/"
+        }
+      ],
+      "history_paragraphs": [
+        "Glu Mobile developed a game based on The Dark Knight for several early mobile platforms. This was a separate, small-screen adaptation of the 2008 film property.",
+        "The BREW copy here is identified by its archive filename; contemporary information on other mobile editions does not guarantee that the same team made this exact version."
+      ]
+    },
+    {
+      "id": "the-flintstones--flinstones",
+      "title": "The Flintstones",
+      "original_inventory_label": "The Flintstones",
+      "filename": "flinstones.rar",
+      "collection": "brew2010",
+      "path": "brew2010/flinstones.rar",
+      "archive_format": "RAR",
+      "size_bytes": 76150,
+      "sha256": "e88b265b4475a782a9ac741542137d99514339442fdc9d7806a7ca5c16d9703d",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/the-flintstones--flinstones/",
+      "history_teaser": "Fred and Barney featured in early phone games years before the smartphone era.",
+      "history_status": "related",
+      "history_credit": "Macrospace — documented related 2003 mobile game",
+      "history_sources": [
+        {
+          "label": "GameFAQs: The Flintstones: Grocery Hunt (2003)",
+          "url": "https://gamefaqs.gamespot.com/mobile/924031-the-flintstones-grocery-hunt"
+        }
+      ],
+      "history_paragraphs": [
+        "Macrospace developed a 2003 mobile title called The Flintstones: Grocery Hunt, sending Fred and Barney after a trail of lost groceries in Bedrock.",
+        "The archive’s simple flinstones.rar filename does not prove it is Grocery Hunt, and the misspelling should not be silently treated as a verified subtitle."
+      ]
+    },
+    {
+      "id": "the-lord-of-the-rings-the-return-of-the-king--returnoftheking",
+      "title": "The Lord of the Rings: The Return of the King",
+      "original_inventory_label": "The Lord of the Rings: The Return of the King",
+      "filename": "ReturnOfTheKing.rar",
+      "collection": "brew2010",
+      "path": "brew2010/ReturnOfTheKing.rar",
+      "archive_format": "RAR",
+      "size_bytes": 570477,
+      "sha256": "8b7f94ee2ec0b8ae31925f640da74cdb315c75283d57d35080c2ebe696a6491c",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 14,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bin",
+        ".mif",
+        ".txt",
+        ".dat",
+        ".bar",
+        ".mod"
+      ],
+      "url": "games/the-lord-of-the-rings-the-return-of-the-king--returnoftheking/",
+      "history_teaser": "Middle-earth reached early BREW phones through a separate licensed action game.",
+      "history_status": "documented",
+      "history_credit": "Magellan Interactive — developer; JAMDAT Mobile — publisher",
+      "history_sources": [
+        {
+          "label": "MobyGames: Return of the King mobile",
+          "url": "https://www.mobygames.com/game/162601/the-lord-of-the-rings-the-return-of-the-king/"
+        }
+      ],
+      "history_paragraphs": [
+        "The Lord of the Rings: The Return of the King had a distinct mobile edition released in 2003. MobyGames credits Magellan Interactive with development and JAMDAT Mobile with publishing its BREW version.",
+        "It belongs to the first wave of blockbuster film adaptations that mobile carriers sold as small downloadable games."
+      ]
+    },
+    {
+      "id": "tinybartender--tinybartender",
+      "title": "TinyBartender",
+      "original_inventory_label": "TinyBartender",
+      "filename": "TinyBartender.rar",
+      "collection": "brew2010",
+      "path": "brew2010/TinyBartender.rar",
+      "archive_format": "RAR",
+      "size_bytes": 20140,
+      "sha256": "c3b93817285caed03e8dde55350304d31599d96222b304c7e8b3bda14b33bc66",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 5,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".lst",
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/tinybartender--tinybartender/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "TinyBartender.rar survives in the original collection as a phone-game package with 5 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2010; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "translator-utility-not-game--translator-net-ok",
+      "title": "Translator — utility, not game",
+      "original_inventory_label": "Translator — utility, not game",
+      "filename": "Translator-net-ok.rar",
+      "collection": "brew2010",
+      "path": "brew2010/Translator-net-ok.rar",
+      "archive_format": "RAR",
+      "size_bytes": 24066,
+      "sha256": "970b2d4c34b53c62a7b73d593cbbcf732eb67709abde43e175c3264951f37398",
+      "category": "Utility",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".html",
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/translator-utility-not-game--translator-net-ok/",
+      "history_teaser": "A surviving BREW-era phone utility. Its maker and exact carrier release still need documentation.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "The collection preserves Translator-net-ok.rar as a utility, rather than a game. BREW was also used for everyday applications distributed through phone carriers; this package contains 4 recorded internal files.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2010; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "unlimitedwar--unlimitedwar",
+      "title": "UnlimitedWar",
+      "original_inventory_label": "UnlimitedWar",
+      "filename": "UnlimitedWar.rar",
+      "collection": "brew2010",
+      "path": "brew2010/UnlimitedWar.rar",
+      "archive_format": "RAR",
+      "size_bytes": 191007,
+      "sha256": "4e617a76d14284d0701b4f69cdcf83c7049e202a7179aa542956a94ce04fbf5b",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 12,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".ft",
+        ".dat",
+        ".mif",
+        ".bin",
+        ".bar",
+        ".fl",
+        ".mod"
+      ],
+      "url": "games/unlimitedwar--unlimitedwar/",
+      "history_teaser": "An obscure BREW phone game whose original studio and release history still need uncovering.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "UnlimitedWar.rar survives in the original collection as a phone-game package with 12 recorded internal files. Detailed contemporary coverage for this exact title and BREW edition has not been firmly established.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2010; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "verizon-superpages-utility-not-game--vz-superpages-lg4400-net-ok",
+      "title": "Verizon SuperPages — utility, not game",
+      "original_inventory_label": "Verizon SuperPages — utility, not game",
+      "filename": "VZ-SuperPages-LG4400-net-ok.rar",
+      "collection": "brew2010",
+      "path": "brew2010/VZ-SuperPages-LG4400-net-ok.rar",
+      "archive_format": "RAR",
+      "size_bytes": 120126,
+      "sha256": "82812743ac1b33b404cae8b460d92aacb92ff39ceb8fdf4704b8e8dff3ae3534",
+      "category": "Utility",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 8,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".dbs",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/verizon-superpages-utility-not-game--vz-superpages-lg4400-net-ok/",
+      "history_teaser": "Not a game: a phone-directory utility prepared for a specific LG handset.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "MobyGames: BREW platform catalog",
+          "url": "https://www.mobygames.com/platform/brew/"
+        }
+      ],
+      "history_paragraphs": [
+        "The archived filename names Verizon SuperPages and an LG 4400 device, reflecting a period when phone utilities were often prepared for individual carriers and hardware families.",
+        "No reliable original developer or public launch date has been matched to this exact package. Its handset designation is an archive clue rather than independent proof of runtime compatibility."
+      ]
+    },
+    {
+      "id": "weatherbug-utility-not-game--weatherbug",
+      "title": "WeatherBug — utility, not game",
+      "original_inventory_label": "WeatherBug — utility, not game",
+      "filename": "weatherbug.rar",
+      "collection": "brew2010",
+      "path": "brew2010/weatherbug.rar",
+      "archive_format": "RAR",
+      "size_bytes": 290399,
+      "sha256": "5cb3ee52fc4fa0e688a61c0ae76b744dbecce8d1d302fca4f082d8eb51d90c5d",
+      "category": "Utility",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 13,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".theme",
+        ".txt",
+        ".bar",
+        ".stg",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/weatherbug-utility-not-game--weatherbug/",
+      "history_teaser": "Not a game: a weather application from the era when carriers sold individual phone utilities.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "WeatherBug / Earth Networks",
+          "url": "https://www.earthnetworks.com/weatherbug/"
+        }
+      ],
+      "history_paragraphs": [
+        "WeatherBug began as a consumer weather-information service and expanded to mobile devices during the feature-phone era.",
+        "This preserved BREW package shows why a historical mobile collection should include non-game software: maps, forecasts, messaging, and caller-ID features were part of the same download ecosystem."
+      ]
+    },
+    {
+      "id": "who-wants-to-be-a-millionaire-2009--millionaire09",
+      "title": "Who Wants to Be a Millionaire? (2009)",
+      "original_inventory_label": "Who Wants to Be a Millionaire? (2009)",
+      "filename": "Millionaire09.rar",
+      "collection": "brew2010",
+      "path": "brew2010/Millionaire09.rar",
+      "archive_format": "RAR",
+      "size_bytes": 137896,
+      "sha256": "4f7b14a35c6946b5786569270abdc0af0f54cceff3bf2d074ce6665b8377df3c",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 6,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".dat",
+        ".txt",
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/who-wants-to-be-a-millionaire-2009--millionaire09/",
+      "history_teaser": "Capcom’s mobile Millionaire edition was a Verizon hit in 2008, according to the company itself.",
+      "history_status": "documented",
+      "history_credit": "Capcom Interactive — mobile publisher",
+      "history_sources": [
+        {
+          "label": "Capcom: Mobile Millionaire licensing and 2009 edition (2008)",
+          "url": "https://news.capcomusa.com/2008/06/24/capcom-wants-to-be-a-mobile-millionaire-until-2010-or-so/"
+        },
+        {
+          "label": "PocketGamer.biz: Three million mobile sales",
+          "url": "https://www.pocketgamer.biz/capcom-reveals-3m-mobile-sales-of-who-wants-to-be-a-millionaire/"
+        }
+      ],
+      "history_paragraphs": [
+        "Capcom Interactive announced that Who Wants to Be a Millionaire 2009 had launched through Verizon Wireless in 2008, and was among the carrier’s best-selling phone games that May.",
+        "Capcom’s licensed mobile series had already sold millions of downloads, making this more than a novelty TV tie-in."
+      ]
+    },
+    {
+      "id": "wild-8-ball-v1-08--wild8ballv108",
+      "title": "Wild 8-Ball (v1.08)",
+      "original_inventory_label": "Wild 8-Ball (v1.08)",
+      "filename": "Wild8Ballv108.rar",
+      "collection": "brew2010",
+      "path": "brew2010/Wild8Ballv108.rar",
+      "archive_format": "RAR",
+      "size_bytes": 21427,
+      "sha256": "f20086041ca47e4c3563e6cd5b1f8eac3f7aa78ad1ddfad467d28c6d5cea54df",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/wild-8-ball-v1-08--wild8ballv108/",
+      "history_teaser": "A pool-meets-poker oddity from Sorrent was available through Verizon’s BREW storefront as early as 2003.",
+      "history_status": "documented",
+      "history_credit": "Sorrent — original BREW developer/publisher",
+      "history_sources": [
+        {
+          "label": "Qualcomm: Sorrent BREW games press release (2003)",
+          "url": "https://www.qualcomm.com/news/releases/2003/02/sorrent-delivers-action-packed-fox-sports-games-x-files-and-yao-ming"
+        }
+      ],
+      "history_paragraphs": [
+        "In a February 2003 announcement, Qualcomm specifically named Sorrent’s Wild 8-Ball among the games offered through Verizon Wireless’s BREW-powered Get It Now service.",
+        "The v1.08 suffix on this surviving file appears to identify a package revision, but it is not evidence of a public release date."
+      ]
+    },
+    {
+      "id": "world-poker-tour-hold-em-2--wptholdem2",
+      "title": "World Poker Tour Hold’em 2",
+      "original_inventory_label": "World Poker Tour Hold’em 2",
+      "filename": "WPTHoldem2.rar",
+      "collection": "brew2010",
+      "path": "brew2010/WPTHoldem2.rar",
+      "archive_format": "RAR",
+      "size_bytes": 539739,
+      "sha256": "a43ec4046aa3450260b62e6eb7f62ee0a281b5b4f89fc0ba8f6304da37782ff0",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 6,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".sig",
+        ".mif"
+      ],
+      "url": "games/world-poker-tour-hold-em-2--wptholdem2/",
+      "history_teaser": "The World Poker Tour license was part of the mid-2000s competitive mobile-card boom.",
+      "history_status": "related",
+      "history_credit": "MFORMA — documented earlier WPT mobile publisher",
+      "history_sources": [
+        {
+          "label": "GameFAQs: MFORMA mobile release catalog",
+          "url": "https://gamefaqs.gamespot.com/games/company/75093-mforma"
+        }
+      ],
+      "history_paragraphs": [
+        "MFORMA promoted a World Poker Tour: Texas Hold ’Em mobile game in 2005, during the same era that carriers treated licensed card games as popular downloads.",
+        "This package is specifically labeled World Poker Tour Hold’em 2; its relationship to the earlier licensed game and exact development team remain to be verified."
+      ]
+    },
+    {
+      "id": "world-series-of-poker-2--wsop2",
+      "title": "World Series of Poker 2",
+      "original_inventory_label": "World Series of Poker 2",
+      "filename": "wsop2.rar",
+      "collection": "brew2010",
+      "path": "brew2010/wsop2.rar",
+      "archive_format": "RAR",
+      "size_bytes": 500684,
+      "sha256": "154ee38b889f76745c08cfe8b029aed3da569cdbab6b4635cc1515215ba6c455",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "",
+      "internal_file_count": 4,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mif",
+        ".conf",
+        ".bar",
+        ".mod"
+      ],
+      "url": "games/world-series-of-poker-2--wsop2/",
+      "history_teaser": "Tournament poker was a serious part of the feature-phone games market.",
+      "history_status": "related",
+      "history_credit": "",
+      "history_sources": [
+        {
+          "label": "JAMDAT filing: early mobile poker demand",
+          "url": "https://www.sec.gov/Archives/edgar/data/1135271/000104746905008334/a2154290z10-k.htm"
+        }
+      ],
+      "history_paragraphs": [
+        "World Series of Poker 2 was preserved here as an independently named phone package, within the era when licensed poker products were sold through carrier storefronts.",
+        "Its name suggests the tournament license, but this entry deliberately avoids confusing it with a later console World Series of Poker title or borrowing the credits of another mobile poker game."
+      ]
+    },
+    {
+      "id": "yeticol1-identity-unconfirmed--ycl1",
+      "title": "yeticol1 (identity unconfirmed)",
+      "original_inventory_label": "yeticol1 (exact retail title unverified)",
+      "filename": "ycl1.zip",
+      "collection": "brew2018",
+      "path": "brew2018/ycl1.zip",
+      "archive_format": "ZIP",
+      "size_bytes": 1014102,
+      "sha256": "9e72ccbfeb905331321aa3d8c5a2656484b695ae60481e09059c1f0b83b54c97",
+      "category": "Game",
+      "identification": "Unconfirmed identity",
+      "variant_note": "",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".bar",
+        ".mod",
+        ".mif"
+      ],
+      "url": "games/yeticol1-identity-unconfirmed--ycl1/",
+      "history_teaser": "A mystery from the BREW collection: even the original game identity is not confirmed.",
+      "history_status": "archive",
+      "history_credit": "",
+      "history_sources": [],
+      "history_paragraphs": [
+        "The archive preserves ycl1.zip, but available inventory evidence is insufficient to verify the original game title or developer. Assigning it a more famous name would risk losing what makes this copy useful as an historical record.",
+        "Its inventory contains both an executable .mod and BREW application metadata in a .mif file. The source collection labels this folder brew2018; folder names alone do not establish when the game was released."
+      ]
+    },
+    {
+      "id": "zuma-240-screen--zuma240",
+      "title": "Zuma (240-screen)",
+      "original_inventory_label": "Zuma (240-screen)",
+      "filename": "Zuma240.rar",
+      "collection": "brew2010",
+      "path": "brew2010/Zuma240.rar",
+      "archive_format": "RAR",
+      "size_bytes": 669867,
+      "sha256": "18cc94ca7e8f75e89ad4ef27a9a46d1b7edc77757079496d22b074a7d3bc87b0",
+      "category": "Game",
+      "identification": "Archive-identified",
+      "variant_note": "240 display notation in filename",
+      "internal_file_count": 3,
+      "has_mod": true,
+      "has_mif": true,
+      "types": [
+        ".mif",
+        ".bar",
+        ".mod"
+      ],
+      "url": "games/zuma-240-screen--zuma240/",
+      "history_teaser": "PopCap’s marble-shooting puzzle traveled from desktop computers to BREW handsets.",
+      "history_status": "related",
+      "history_credit": "PopCap Games — original game",
+      "history_sources": [
+        {
+          "label": "MobyGames: Zuma Deluxe release history",
+          "url": "https://www.mobygames.com/game/11509/zuma-deluxe/"
+        }
+      ],
+      "history_paragraphs": [
+        "PopCap released Zuma in the early 2000s, built around firing colored marbles into moving chains before they reach the skull.",
+        "MobyGames records a BREW release of Zuma Deluxe in 2009. The 240-screen filename identifies a handset-targeted package but does not identify its publisher or individual porting studio."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wakkatobakka.github.io/qualcomm-brew-archive/sitemap.xml
