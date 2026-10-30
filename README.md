@@ -43,7 +43,7 @@ If a studio credit cannot be tied to the exact BREW edition, it is shown as an a
 
 The SHA-256 for every package was calculated from the original nested archive entry bytes. This allows later researchers to identify an identical package even if the copy has been renamed.
 
-## Updating the catalogue
+## Maintainer notes
 
 Edit HTML pages and/or `data/catalog.csv` as verified new information is discovered. Avoid turning guesses into historical facts. The initial set of details was generated from the supplied archive's actual RAR/ZIP member listings, not manually invented.
 
