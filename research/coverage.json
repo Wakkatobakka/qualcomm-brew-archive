@@ -1,0 +1,677 @@
+{
+  "3d-bowling-176-display--bowl3d-176only": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Original staff credits and comparative handset build IDs are still needed. The 176 filename alone gives no handset model.",
+      "MobyGames gives February 1 for the Verizon V CAST release. GameSpot lists February 4. An original distribution listing could settle the day."
+    ]
+  },
+  "bowling-3d--jbowling3d": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Original staff credits and comparative handset build IDs are still needed. The 176 filename alone gives no handset model.",
+      "MobyGames gives February 1 for the Verizon V CAST release. GameSpot lists February 4. An original distribution listing could settle the day."
+    ]
+  },
+  "aliens-vs-predator-3d--avp": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "A contemporary carrier listing, device list and full original credit roll are still needed.",
+      "The interview shows period game material. Creation dates, artists and production stage are unspecified for individual images."
+    ]
+  },
+  "animation-sample--qx-animsample": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Original QX SDK documentation, source code and author attribution are still needed.",
+      "Compare this package directly with the identically named sample documented in the Zeebo collection."
+    ]
+  },
+  "are-you-smarter-than-a-5th-grader--5thgrader": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Original carrier store listings, handset targets and BREW-specific credits are still needed.",
+      "The archives list about.txt and help.txt. Their contents could confirm licensing, release and question-rules details."
+    ]
+  },
+  "are-you-smarter-than-a-5th-grader-2009--5thgrader09": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Original carrier store listings, handset targets and BREW-specific credits are still needed.",
+      "The archives list about.txt and help.txt. Their contents could confirm licensing, release and question-rules details."
+    ]
+  },
+  "asphalt-3d--asphalt3d-2": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find an original hands-on account of the TIM build and its production staff."
+    ]
+  },
+  "asteroids--asteroids": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "The included highscore.dat and Asteroids resource names do not identify the publisher. The game’s title and credits screens or strings would help distinguish the feature-phone editions.",
+      "The archive has no carrier or handset ID confirmed for this file."
+    ]
+  },
+  "bioshock-3d--bio3d": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Neither package has yet been matched byte-for-byte to a named Verizon device build.",
+      "No launch-period hands-on for the released BREW build was located. Show-floor footage, Java reviews and later prototype captures describe different evidence.",
+      "Level maps and the editor are cataloged at Hidden Palace. Its download link was unavailable in this check."
+    ]
+  },
+  "bioshock-3d-176-display--bioshock3d-176": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Neither package has yet been matched byte-for-byte to a named Verizon device build.",
+      "No launch-period hands-on for the released BREW build was located. Show-floor footage, Java reviews and later prototype captures describe different evidence.",
+      "Level maps and the editor are cataloged at Hidden Palace. Its download link was unavailable in this check."
+    ]
+  },
+  "blitzkrieg--blitzkrieg": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find a contemporary listing or footage of the Beijing Star edition."
+    ]
+  },
+  "brainexercise--brainexercise": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find the period listing for the VX9700-labelled build and establish its game modes and staff."
+    ]
+  },
+  "brothers-in-arms-176-display--bia176": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Full BREW staff credits remain unavailable. The MobyGames credits are for Symbian.",
+      "The two copies have been distinguished by filename and size. Specific handset, build and carrier metadata remain unconfirmed."
+    ]
+  },
+  "brothers-in-arms-240-display--bia240": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Full BREW staff credits remain unavailable. The MobyGames credits are for Symbian.",
+      "The two copies have been distinguished by filename and size. Specific handset, build and carrier metadata remain unconfirmed."
+    ]
+  },
+  "callofduty--callofduty": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Package credits, release date, carrier and handset are unconfirmed. The Guardian review and MFORMA’s 2006 announcement identify the related 2004 game."
+    ]
+  },
+  "callofduty5--callofduty5": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Locate a contemporary BREW review, original release date and credit roll."
+    ]
+  },
+  "camera-phone-darts--cpd": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "GestureTek announced a launch for the following month. A carrier listing or device receipt is still needed to confirm the release date and handset.",
+      "No original GoSub60 staff roll or screenshots attributed to Camera Darts were located."
+    ]
+  },
+  "centipede--centipede": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find the carrier, release date and handset for the preserved Glu build."
+    ]
+  },
+  "chess-240x320--chess-240x320": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "The descriptor names Penultimate Inc. Find the original carrier listing, development credits and chess engine."
+    ]
+  },
+  "city-id--cityid": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "The archived utility’s carrier, version and handset target remain unknown.",
+      "Original City ID application credits or technical documentation were not located."
+    ]
+  },
+  "collapsechaos--collapsechaos": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find the original carrier listing, a contemporary review and named production staff for the BREW edition."
+    ]
+  },
+  "crate-hunt-sample--qx-cratehunt": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find a QX SDK archive or read the preserved qx.log for a developer and toolchain identification."
+    ]
+  },
+  "crittercrunch--crittercrunch": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find a dated carrier catalog entry to resolve first BREW availability and find a build-specific credit screen or project notes.",
+      "The game’s mobile editors and prototype are documented in Radek Koncewicz’s portfolio. Public copies and early artwork remain unlocated."
+    ]
+  },
+  "darkhorse--darkhorse": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find a period handset listing or title-screen capture that explains how the game played."
+    ]
+  },
+  "dblocos-176--dblocos-176": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find WIZ’s original listing and document the people and rules behind this release."
+    ]
+  },
+  "detonate--detonate": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find a carrier listing, handset and retail review or screenshots. Macrospace availability report and Qualcomm show listing do not identify the archived build or individual production roles."
+    ]
+  },
+  "doodle-jump--ddj": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find a BREW credit screen or a carrier listing to supplement the database and identify any separate porting team. Compare the preserved build's menu and modes with the later Deluxe announcement."
+    ]
+  },
+  "doom-ii-rpg--d2rp": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find contemporary BREW criticism or handset captures, the full BREW credits and the exact hardware target. Contemporary reviews found in this pass described iPhone."
+    ]
+  },
+  "dragon-island-320-screen-version--dragonisland-320": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Identify the screen edition and find a developer portfolio or early artwork for this Macrospace title."
+    ]
+  },
+  "dragonsword--dragonsword": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find the title in a carrier catalogue and establish the roles of the three companies."
+    ]
+  },
+  "driv3r--driv3r": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Look for archived Sorrent/Atari launch material that names a carrier’s BREW product and credited team. The period press confirms Sorrent’s mobile adaptation and Java-specific sources document a release."
+    ]
+  },
+  "duke-nukem-2d--duke2d": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find the carrier and handset distribution record and contemporary coverage of the 2D BREW game. Comparison material may confuse this release with the first-person Zodiac game."
+    ]
+  },
+  "duke-nukem-3d--dukenukem3d-114": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find retail build provenance and individual roles beyond Seth Robinson. Look for preserved V CAST release screens and development artwork."
+    ]
+  },
+  "earthworm-jim--ewj": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find the BREW credits and compare its controls to the Java edition. Current source identifies Gameloft Chengdu only for Java and Gameloft Beijing only for iPhone."
+    ]
+  },
+  "eblocos-176--eblocos-176": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find a period WIZ release listing and document the game’s rules."
+    ]
+  },
+  "fbird-identity-unconfirmed--fbd": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find the original release channel and independent descriptions of how the game played."
+    ]
+  },
+  "fruit-escape-176-220--fruitescape176x220": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Compare resource data and startup screen to BBMF’s separately listed Java game. Verify the display-size label and find original publisher/carrier material."
+    ]
+  },
+  "fruitescape--fruitescape": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Compare .bar files and gameplay to the 176×220 package and to the BBMF Java lead. Find a primary publisher/carrier source."
+    ]
+  },
+  "galaxy-on-fire-3d--gof": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Seek BREW handset credits, an exact release date, and production material beyond the trade article’s publisher-supplied imagery. The Zeebo credit transcription describes another platform."
+    ]
+  },
+  "gatilho-176--gatilho-176": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find WIZ or carrier materials describing the game and its original devices."
+    ]
+  },
+  "gumblox-240-display--gumblox-240": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find a dated carrier page, play account or production material for Superscape’s release."
+    ]
+  },
+  "h-a-w-x--hawx": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Look for a dated BREW carrier listing and platform-specific credits or footage. MobyGames credits Gameloft Chengdu for the mobile title and includes BREW in the platform list."
+    ]
+  },
+  "helistrike--hs": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Verify the title screen or resource metadata in hs.zip against the Fishlabs release.",
+      "Find build-specific BREW distribution, development credits and production artifacts."
+    ]
+  },
+  "jewelquest--jewelquest": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Identify exact BREW edition, original carrier and credited build team.",
+      "Inspect alternate copies of the inaccessible GameSpot review and preview, and check developer art or porting credits."
+    ]
+  },
+  "katamari--katamari": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find the precise carrier and handset for this build, and the individual mobile adaptation credits."
+    ]
+  },
+  "massivesnowboarding--massivesnowboarding": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Compare the preserved package against U.S. V Cast and TIM builds.",
+      "Find BREW build credits and identify production artwork or developer portfolios."
+    ]
+  },
+  "mesh-buddy-sample--qx-meshbuddy": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Read the preserved qx.log and establish the sample’s SDK version, makers and demonstration behaviour.",
+      "Match the scene to original SDK example screenshots, documents or source."
+    ]
+  },
+  "militarymadness2--militarymadness2": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find a carrier listing, named developers and a matching date for the confirmed Military Madness 2 phone package."
+    ]
+  },
+  "monopoly--monopoly": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find a store listing for this build and verify the purpose of its refresher module."
+    ]
+  },
+  "mx-vs-atv--mxvsatv": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Identify subtitle and any other studio or carrier from the preserved title screen and mxtv.cfg.",
+      "Confirm phone-specific production and whether Bluetooth multiplayer shipped in this build."
+    ]
+  },
+  "need-for-speed-2009-edition-unconfirmed--nf09": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find the matching carrier listing and edition-specific development credits."
+    ]
+  },
+  "need-for-speed-2010-edition-unconfirmed--nf10": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find the matching carrier listing and edition-specific development credits."
+    ]
+  },
+  "need-for-speed-2011-edition-unconfirmed--nf11": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find the matching carrier listing and edition-specific development credits."
+    ]
+  },
+  "need-for-speed-2012-edition-unconfirmed--nf12": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find the matching carrier listing and edition-specific development credits."
+    ]
+  },
+  "need-for-speed-prostreet--nf08": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find build-specific BREW team credits and corroborate IronMonkey’s archived studio news for the Java edition.",
+      "Confirm carrier and handset variant."
+    ]
+  },
+  "opengl-es-demo-01--qc-ogles-demo-01": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Inspect the SDK manual and determine the original release date and handset or emulator used for the compiled RAR."
+    ]
+  },
+  "opengl-es-demo-02--qc-ogles-demo-02": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Compare executable and texture checksums with the 1.0.3 bundle and examine its manual or capture the demo running."
+    ]
+  },
+  "highwayracer--highwayracer": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find the corresponding original listing, and check the development and publishing roles."
+    ]
+  },
+  "learn-to-fly--l2f": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find a period carrier page or review of the Namco edition."
+    ]
+  },
+  "linez--linez": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find period documentation of WIMOS’s phone edition and confirm title-screen gameplay."
+    ]
+  },
+  "maximballs320x240--maximballs320x240": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find a title screen or metadata to explain the Maxim label and identify the handset and game."
+    ]
+  },
+  "mr2004--mr2004": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Look for an original carrier catalogue or credit screen by the full title."
+    ]
+  },
+  "oldmenfight--oldmenfight": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Identify the developer and find a release or gameplay account."
+    ]
+  },
+  "orcs-elves-ii--oe2": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Read sequel end credits from this BREW build to identify its contributors and platform roles.",
+      "Locate BREW-labelled launch screenshots or development art. Look for the original IGN review through captures."
+    ]
+  },
+  "pac-man-golf--pacmangolf": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Locate the original store listing or review for this particular copy."
+    ]
+  },
+  "pacman--pacman": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Read the archived title screen and MIF display strings to distinguish the standard Namco port and any variants.",
+      "Verify the first BREW release date and identify the team that built it."
+    ]
+  },
+  "pfjungle-176only--pfjungle-176only": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Verify the full commercial title and relationship to other mobile Pitfall releases."
+    ]
+  },
+  "phil-hellmuth-texas-hold-em--philhelmuthtexasholdem": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find named developers and the carrier-specific BREW SKU. The reviewed build’s platform and current multiplayer availability were unverified."
+    ]
+  },
+  "pocket-god--pgd": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Identify named Bight contributors to the port and the Verizon device list. Find in-game BREW captures alongside the publisher’s release art."
+    ]
+  },
+  "projected-shadow-demo--qx-projectedshadow": {
+    "status": "research in progress",
+    "remaining_gaps": [
+      "Find a QX sample manifest, source listing or original demo distribution identifying the sample. Compare the metadata in the preserved archive."
+    ]
+  },
+  "quebra-cabe-a-puzzle-176-screen--quebracabeca-176": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Recover the on-device title, publisher and region from the MIF or title screen. Portuguese carrier searches yielded similarly named puzzles without a package match."
+    ]
+  },
+  "resident-evil-biohazard-edition-unknown--residentevil": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Locate the original carrier listing for version 1.00.03.",
+      "Identify the game’s production staff and look for BREW-specific screens."
+    ]
+  },
+  "resident-evil-genesis--regenesis": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Recover the original IGN and 1UP reviews before quoting or attributing their reasoning.",
+      "Confirm individual development credits and carrier availability for the BREW build."
+    ]
+  },
+  "sample-loader-demo--qx-sampleloader": {
+    "status": "research in progress",
+    "remaining_gaps": [
+      "Find a matching QX sample manifest or original tutorial. Inspect the internal names and MIF strings."
+    ]
+  },
+  "samurai--samurai": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Locate a carrier or handset match for this copy and find individual production credits."
+    ]
+  },
+  "shs-exact-game-title-unverified--shs": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find the build-specific Verizon listing for V. 1.0.5 and original release credit roll.",
+      "Check which separately preserved campaigns work with this build."
+    ]
+  },
+  "shs-add-ons--shs-addons": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Verify how each campaign was originally distributed and which main-game builds could load it."
+    ]
+  },
+  "snowboardtnt--snowboardtnt": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find the original distribution listing and handset requirements."
+    ]
+  },
+  "spider-man--spiderman": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find the carrier’s matching listing or title-screen recording for v.1.5.4.",
+      "Find individual contributors and original production materials."
+    ]
+  },
+  "spore--spr1": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Match the SPORE build string to its exact retailer title and handset listing.",
+      "Find individual Babaroga BREW roles, art and interface documentation."
+    ]
+  },
+  "spore-2--spr2": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find a carrier listing for the archived build and identify the BREW production staff."
+    ]
+  },
+  "spritegame-sample--ispritegame": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find the original sample library and read its metadata. Search-result hits for SpriteGame pointed to unrelated Java or Playdate examples."
+    ]
+  },
+  "st20-exact-game-title-unverified--st20": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find contemporary descriptions of the game, its sales channel and supported handsets."
+    ]
+  },
+  "street-fighter-ii-champion-edition--streetfighter2ce": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find the carrier and handset for Capcom USA version 1.0.2.26 and the development credits for this edition."
+    ]
+  },
+  "super-drop-mania-176-screen--superdropmania176": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Dated BREW retail listing",
+      "Exact BREW port staff and build date"
+    ]
+  },
+  "super-drop-mania-240-screen--superdropmania240": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Dated BREW retail listing",
+      "Exact BREW port staff and build date"
+    ]
+  },
+  "terminator-3-korean-176-display--terminator3-kor-176": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "The descriptor identifies MOAITech Co. Ltd. and the title Terminator 3. Find the original carrier, release date and handset."
+    ]
+  },
+  "tetris--tetris": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Publisher and date for this package",
+      "Matching title screen or carrier catalogue"
+    ]
+  },
+  "tetris-240-display--tetris240": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Publisher and date for this package",
+      "Matching title screen or carrier catalogue"
+    ]
+  },
+  "the-chronicles-of-narnia-prince-caspian--princecaspian": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "BREW build credits and carrier",
+      "Direct comparison with Enorbus’s Java edition"
+    ]
+  },
+  "the-dark-knight--darkknight": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Matching BREW credit screen or publisher record",
+      "Individual development credits",
+      "Carrier and build date"
+    ]
+  },
+  "the-flintstones--flinstones": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "BREW title screen or carrier listing",
+      "Developer credit for this package"
+    ]
+  },
+  "the-lord-of-the-rings-the-return-of-the-king--returnoftheking": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Package revision compared with the GameSpot review build",
+      "Individual development credits",
+      "Original Verizon tournament page"
+    ]
+  },
+  "tinybartender--tinybartender": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Retail description and original category",
+      "Publisher, carrier and release date"
+    ]
+  },
+  "translator-utility-not-game--translator-net-ok": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Link Mobile Solutions appears in the handset descriptor as the company behind Tradutor. Find the original listing and supported languages."
+    ]
+  },
+  "unlimitedwar--unlimitedwar": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Original Korean and/or English retail title",
+      "Genre, developer and carrier release",
+      "Display and language confirmed in play"
+    ]
+  },
+  "verizon-superpages-utility-not-game--vz-superpages-lg4400-net-ok": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Original developer and app release date",
+      "Meaning of net-ok and current network behavior"
+    ]
+  },
+  "weatherbug-utility-not-game--weatherbug": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Carrier, date and version of this copy",
+      "Original handset support",
+      "Contents of the preserved licence file"
+    ]
+  },
+  "who-wants-to-be-a-millionaire-2009--millionaire09": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Individual credits for the 2009 mobile edition",
+      "Contemporary hands-on review specific to this edition",
+      "Exact BREW build date"
+    ]
+  },
+  "wild-8-ball-v1-08--wild8ballv108": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Exact date of the v1.08 build",
+      "Screenshots or game rules from a contemporary source",
+      "Individual development credits"
+    ]
+  },
+  "world-poker-tour-hold-em-2--wptholdem2": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "BREW carrier and matchmaking service",
+      "Which mode is in the preserved package",
+      "Credits specific to the BREW build"
+    ]
+  },
+  "world-series-of-poker-2--wsop2": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find the original carrier listing and named production credits for this BREW build."
+    ]
+  },
+  "yeticol1-identity-unconfirmed--ycl1": {
+    "status": "inventory only",
+    "remaining_gaps": [
+      "Find the list of mini-games in this edition and its carrier release."
+    ]
+  },
+  "zuma-240-screen--zuma240": {
+    "status": "researched with remaining gaps",
+    "remaining_gaps": [
+      "Find the carrier listing and the release date for Glu’s 2.0_303 build with a 2006 copyright string."
+    ]
+  }
+}

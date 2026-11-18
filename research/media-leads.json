@@ -1,0 +1,492 @@
+{
+  "candidates": [
+    {
+      "items": [
+        "aliens-vs-predator-3d--avp"
+      ],
+      "url": "https://www.avpgalaxy.net/website/interviews/greg-herboek/",
+      "kind": "Contemporary preview images",
+      "source": "a-avp-herboek",
+      "caption": "Images published with Aaron Percival’s April 2006 interview with Superscape Moscow’s Gregory Herboek. Individual artists and capture builds are unidentified.",
+      "access": "Link to original article. No direct media rights asserted."
+    },
+    {
+      "items": [
+        "bioshock-3d--bio3d",
+        "bioshock-3d-176-display--bioshock3d-176"
+      ],
+      "url": "https://bioshock.fandom.com/wiki/BioShock_3D_(Mobile_Game)",
+      "kind": "Production models, animation and level diagrams",
+      "source": "a-bio-primary-comments",
+      "caption": "The community gallery reproduces level diagrams and work by Nitin Dhamse, including models of the Breadwinner Splicer and Baby Jane. The animation reel is separately credited.",
+      "access": "Link to credited community reproductions."
+    },
+    {
+      "items": [
+        "bioshock-3d--bio3d",
+        "bioshock-3d-176-display--bioshock3d-176"
+      ],
+      "url": "https://hiddenpalace.org/Assets/BioShock_3D/BioShock_3D_Assets",
+      "kind": "Development assets",
+      "source": "a-bio-maps",
+      "caption": "Catalog record for level maps and the editor made for BioShock 3D and its second part. Supplied to Hidden Palace by krzbrew in 2025.",
+      "access": "Catalog link. Asset download was unavailable."
+    },
+    {
+      "items": [
+        "bioshock-3d--bio3d",
+        "bioshock-3d-176-display--bioshock3d-176"
+      ],
+      "url": "https://hiddenpalace.org/BioShock_3D_(Aug_25,_2009_part2_prototype)",
+      "kind": "Prototype material",
+      "source": "a-bio-part-two",
+      "caption": "Hidden Palace record of the August 25, 2009 build of the unreleased BioShock 3D Part 2. This is a separate development build.",
+      "access": "Link to prototype documentation and later captures."
+    },
+    {
+      "entry_id": "crittercrunch--crittercrunch",
+      "source": "b-critter-radek",
+      "title": "Critter Crunch platform comparison",
+      "kind": "Developer portfolio image",
+      "platform": "Multiple editions",
+      "note": "Link to Koncewicz’s labelled comparison in his portfolio. The article does not identify each frame in text. Keep the edition unassigned at image level until visually verified."
+    },
+    {
+      "entry_id": "crittercrunch--crittercrunch",
+      "source": "b-critter-igf-interview",
+      "title": "Critter Crunch images in the IGF interview",
+      "kind": "Contemporary developer interview illustrations",
+      "platform": "Original mobile production",
+      "note": "The interview has embedded illustrations. Confirm whether they are game screens and which handset platform supplied them before presenting them."
+    },
+    {
+      "entry_id": "doodle-jump--ddj",
+      "source": "b-doodle-brothers",
+      "title": "Igor and Marko Pusenjak",
+      "kind": "Portrait credited to Jasna Pusenjak",
+      "platform": "Original iPhone game",
+      "note": "Portrait appears with the brothers’ development interview. Link to interview with photographer credit.",
+      "url": "https://media.pocketgamer.biz/images/1159/15412/marko-igor-lima-sky-176x208_s320.jpg"
+    },
+    {
+      "entry_id": "duke-nukem-3d--dukenukem3d-114",
+      "source": "b-duke-3d-review",
+      "title": "Duke Nukem Mobile 3D GameSpot review screenshots",
+      "kind": "Contemporary screenshots",
+      "platform": "V CAST/BREW article",
+      "note": "The GameSpot review includes two screenshots. The article tests an LG VX8000. Check the January dates embedded in screenshot filenames before labelling them as final build."
+    },
+    {
+      "entry_id": "galaxy-on-fire-3d--gof",
+      "source": "b-gof-cgw",
+      "title": "Fishlabs screenshot in Computer Graphics World",
+      "kind": "Contemporary studio-supplied image",
+      "platform": "Early handset edition; capture platform unstated",
+      "note": "Publisher-supplied trade press image from April 2006, while the same story describes BREW as in development.",
+      "url": "https://www.cgw.com/images/Media/PublicationsArticle/th_0604cgw_phones04.jpg"
+    },
+    {
+      "id": "helistrike--hs",
+      "title": "Heli Strike 3D launch image",
+      "url": "https://www.pocketgamer.com/heli-strike-3d/heli-strike-3d-causes-fireworks-on-mobile/",
+      "kind": "Contemporary press image",
+      "scope": "Feature-phone release, listed as Java",
+      "provenance": "Image printed with Pocket Gamer’s 2006 launch report. Exact archive build unknown.",
+      "direct_url": ""
+    },
+    {
+      "id": "jewelquest--jewelquest",
+      "title": "GameSpot mobile beta screenshots",
+      "url": "https://www.gamespot.com/articles/jewelquest-hands-on/1100-6122478/",
+      "kind": "Contemporary preview images",
+      "scope": "Mobile beta, 2005",
+      "provenance": "Published with Stephen Palley’s 2005 hands-on. Indexed article includes screenshot captions, with direct fetch restricted in this pass.",
+      "direct_url": ""
+    },
+    {
+      "id": "katamari--katamari",
+      "title": "Katamari Damacy team photo",
+      "url": "https://www.gamedeveloper.com/design/postmortem-the-singular-design-of-namco-s-katamari-damacy-2004-",
+      "kind": "Development photograph",
+      "scope": "Original PlayStation 2 game",
+      "provenance": "First published with Keita Takahashi’s Game Developer postmortem, December 2004.",
+      "direct_url": ""
+    },
+    {
+      "id": "katamari--katamari",
+      "title": "Katamari Mobile at KDDI’s Tokyo Game Show booth",
+      "url": "https://game.watch.impress.co.jp/docs/20081010/kddi.htm",
+      "kind": "Contemporary show-floor photo / screenshots",
+      "scope": "Japanese au preview build",
+      "provenance": "Photographs published in Fuminori Hidaka’s Game Watch booth report, October 10, 2008.",
+      "direct_url": ""
+    },
+    {
+      "id": "katamari--katamari",
+      "title": "Rolling with Katamari Java review image",
+      "url": "https://www.pocketgamer.com/rolling-with-katamari/review/",
+      "kind": "Contemporary review art",
+      "scope": "Java edition",
+      "provenance": "Published with Jon Mundy’s Pocket Gamer review, March 11, 2009.",
+      "direct_url": ""
+    },
+    {
+      "id": "massivesnowboarding--massivesnowboarding",
+      "title": "Massive Snowboarding on Verizon V Cast",
+      "url": "https://www.gamespot.com/reviews/massive-snowboarding-review/1900-6132646/",
+      "kind": "Contemporary review screenshot",
+      "scope": "LG VX8000, 2005",
+      "provenance": "Published in Avery Score’s GameSpot review, September 6, 2005.",
+      "direct_url": ""
+    },
+    {
+      "id": "massivesnowboarding--massivesnowboarding",
+      "title": "Massive Snowboarding publicity screenshot",
+      "url": "https://www.cgw.com/Publications/CGW/2006/Volume-29-Issue-4-April-2006-/Small-screens-run-deep.aspx",
+      "kind": "Official promotional screenshot",
+      "scope": "Treated as platform unspecified within the Gameloft asset",
+      "provenance": "Credited to Gameloft in Computer Graphics World, April 2006.",
+      "direct_url": ""
+    },
+    {
+      "id": "mesh-buddy-sample--qx-meshbuddy",
+      "title": "QX Engine and Adreno Profiler diagrams",
+      "url": "https://www.tripleoxygen.net/files/devices/zeebo/doc/TECH-606.pdf",
+      "kind": "Development tools and conference slides",
+      "scope": "Qualcomm QX toolchain overview",
+      "provenance": "Qualcomm’s BREW 2009 slide deck documents the tools. No slide has been matched to this sample.",
+      "direct_url": ""
+    },
+    {
+      "id": "militarymadness2--militarymadness2",
+      "title": "Nectaris screenshot from the KDDI BREW launch",
+      "url": "https://www.itmedia.co.jp/mobile/articles/0404/22/news048.html",
+      "kind": "Contemporary publisher screenshot",
+      "scope": "First Nectaris, Japanese KDDI EZ Apps, 2004",
+      "provenance": "Hudson Soft screenshot published by ITmedia Mobile at launch.",
+      "direct_url": ""
+    },
+    {
+      "id": "militarymadness2--militarymadness2",
+      "title": "Neo Nectaris iPhone product screenshots",
+      "url": "https://dothehudson.net/en/app/military-madness/catalog.html",
+      "kind": "Official promotional screenshots",
+      "scope": "iPhone adaptation",
+      "provenance": "Original Hudson product page. These pictures show the later adaptation.",
+      "direct_url": ""
+    },
+    {
+      "id": "mx-vs-atv--mxvsatv",
+      "title": "MX vs ATV Untamed preview art",
+      "url": "https://www.pocketgamer.com/mx-vs-atv-untamed/mx-vs-atv-untamed-heads-for-mobile/",
+      "kind": "Contemporary preview image",
+      "scope": "Mobile preview, listed as Java",
+      "provenance": "Published in the September 28, 2007 Pocket Gamer preview.",
+      "direct_url": ""
+    },
+    {
+      "id": "katamari--katamari",
+      "title": "Screens from the au Katamari Mobile launch announcement",
+      "url": "https://www.4gamer.net/games/086/G008624/20090427007/",
+      "kind": "Original publisher screenshots",
+      "scope": "KDDI au BREW release",
+      "provenance": "Bandai Namco press material reproduced by 4Gamer, April 27, 2009.",
+      "direct_url": ""
+    },
+    {
+      "id": "need-for-speed-prostreet--nf08",
+      "title": "ProStreet Java review screens",
+      "url": "https://www.pocketgamer.com/need-for-speed-prostreet/review/",
+      "kind": "Contemporary review imagery",
+      "scope": "Java phone edition",
+      "provenance": "Published in Pocket Gamer’s October 2007 review.",
+      "direct_url": ""
+    },
+    {
+      "id": "opengl-es-demo-01--qc-ogles-demo-01",
+      "title": "OpenGL ES 1.0.3 sample source and documentation",
+      "url": "https://wakkatobakka.github.io/zeebo-archive/resources/opengl-es-1-0-3-samples/",
+      "kind": "Developer documentation and sample code",
+      "scope": "Qualcomm SDK sample 01",
+      "provenance": "Inventory of original Qualcomm SDK artifacts in the Zeebo Archive.",
+      "direct_url": ""
+    },
+    {
+      "id": "opengl-es-demo-02--qc-ogles-demo-02",
+      "title": "OpenGL ES 1.0.3 sample source and documentation",
+      "url": "https://wakkatobakka.github.io/zeebo-archive/resources/opengl-es-1-0-3-samples/",
+      "kind": "Developer documentation and sample code",
+      "scope": "Qualcomm SDK sample 02",
+      "provenance": "Inventory of original Qualcomm SDK artifacts in the Zeebo Archive.",
+      "direct_url": ""
+    },
+    {
+      "id": "need-for-speed-2011-edition-unconfirmed--nf11",
+      "title": "Hot Pursuit Java review image",
+      "url": "https://www.pocketgamer.com/need-for-speed-hot-pursuit/review/",
+      "kind": "Contemporary review image",
+      "scope": "Java edition",
+      "provenance": "Published in Pocket Gamer’s November 16, 2010 review.",
+      "direct_url": ""
+    },
+    {
+      "id": "need-for-speed-2012-edition-unconfirmed--nf12",
+      "title": "The Run Java review image",
+      "url": "https://www.pocketgamer.com/need-for-speed-the-run/review/",
+      "kind": "Contemporary review image",
+      "scope": "Java edition",
+      "provenance": "Published in Pocket Gamer’s December 8, 2011 review.",
+      "direct_url": ""
+    },
+    {
+      "entry_id": "orcs-elves-ii--oe2",
+      "kind": "Developer portrait",
+      "caption": "Katherine Anna Kang, published with Leigh Alexander’s interview in October 2007. Photographer uncredited on the page.",
+      "source": "d-orc-interview",
+      "url": "https://www.gamedeveloper.com/game-platforms/q-a-fountainhead-s-kang-talks-orcs-elves",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt47f39f1f4e421b94/650a4bd29879558b48b0eb54/katherinekang.jpg/?auto=webp&disable=upscale&quality=80&width=125"
+    },
+    {
+      "entry_id": "orcs-elves-ii--oe2",
+      "kind": "Contemporary screenshot",
+      "caption": "Orcs & Elves II gameplay from Pocket Gamer’s March 2008 Java hands-on.",
+      "source": "d-orc-java",
+      "url": "https://www.pocketgamer.com/orcs-elves-ii/hands-on-with-orcs-elves-ii/",
+      "image_url": "https://media.pocketgamer.com/artwork/na-gib/Orcs_and_Elves_2_-_screen_1.jpg"
+    },
+    {
+      "entry_id": "pac-man-golf--pacmangolf",
+      "kind": "Contemporary promotional gallery",
+      "caption": "Three Namco images published with Softpedia’s September 2008 report on PAC-MAN Arcade Golf. The archived file’s exact title remains unverified.",
+      "source": "d-pacg-launch",
+      "url": "https://news.softpedia.com/news/PAC-MAN-Arcade-Golf-100-Mobile-Games-in-One-93159.shtml"
+    },
+    {
+      "entry_id": "pacman--pacman",
+      "kind": "Original manual",
+      "caption": "PAC-MAN by Namco phone edition user guide supplied by Namco.",
+      "source": "d-pac-manual",
+      "url": "https://www.namcogames.com/_guides/User_Guide-PAC-MAN_by_Namco.pdf"
+    },
+    {
+      "entry_id": "phil-hellmuth-texas-hold-em--philhelmuthtexasholdem",
+      "kind": "Contemporary screenshots",
+      "caption": "Screenshots accompanying Stephen Palley’s GameSpot review, May 2004. The review leaves the handset unspecified.",
+      "source": "d-hell-review",
+      "url": "https://www.gamespot.com/reviews/phil-hellmuths-texas-hold-em-review/1900-6099575/"
+    },
+    {
+      "entry_id": "pocket-god--pgd",
+      "kind": "Contemporary promotional art",
+      "caption": "Capcom Mobile artwork accompanying the announcement that Pocket God was available on Verizon, September 2010.",
+      "source": "d-pg-cap",
+      "url": "https://news.capcomusa.com/lets/browse/pocket-god-now-on-verizon",
+      "image_url": "https://cdn.capcom-unity.com/capcom-unity.com/user/mobile_guy/805d3a387358b8ee8f04e098b6853ac4.jpg?v=151650"
+    },
+    {
+      "entry_id": "projected-shadow-demo--qx-projectedshadow",
+      "kind": "Technical documentation",
+      "caption": "QX Engine pipeline and demo imagery in Qualcomm’s BREW 2009 deck. The individual archived sample has yet to be identified in the slides.",
+      "source": "d-qx-deck",
+      "url": "https://www.tripleoxygen.net/files/devices/zeebo/doc/TECH-606.pdf"
+    },
+    {
+      "entry_id": "resident-evil-biohazard-edition-unknown--residentevil",
+      "kind": "Contemporary screenshots",
+      "caption": "GAME Watch’s December 2005 images of the Japanese EZweb game Biohazard The Stories. The archive copy’s edition remains unresolved.",
+      "source": "d-re-stories",
+      "url": "https://game.watch.impress.co.jp/docs/20051207/bio.htm"
+    },
+    {
+      "entry_id": "resident-evil-genesis--regenesis",
+      "kind": "Publisher press screenshots",
+      "caption": "Gameplay images labelled Resident Evil: Genesis in the 2008 album linked by Capcom at launch. The handset is unspecified.",
+      "source": "d-gen-flickr",
+      "url": "https://www.flickr.com/photos/capcomlost/2330086670/in/album-72157604103488984"
+    },
+    {
+      "entry_id": "sample-loader-demo--qx-sampleloader",
+      "kind": "Technical documentation",
+      "caption": "Qualcomm’s BREW 2009 deck shows QX Engine SDK tools. The deck does not identify the archived Sample Loader by name.",
+      "source": "d-qx-deck",
+      "url": "https://www.tripleoxygen.net/files/devices/zeebo/doc/TECH-606.pdf"
+    },
+    {
+      "entry_id": "street-fighter-ii-champion-edition--streetfighter2ce",
+      "kind": "Contemporary screenshot",
+      "caption": "Capcom’s image of Street Fighter II Dash for Japanese BREW, published by ITmedia in June 2006.",
+      "source": "d-sf-jp",
+      "url": "https://www.itmedia.co.jp/mobile/articles/0606/15/news105.html",
+      "image_url": "https://image.itmedia.co.jp/mobile/articles/0606/15/si_suto2.jpg"
+    },
+    {
+      "id": "super-drop-mania-176-screen--superdropmania176",
+      "title": "Super Drop Mania review screenshots",
+      "url": "https://allaboutsymbian.com/reviews/item/Super_Drop_Mania.php",
+      "kind": "screenshots",
+      "scope": "Series 60 v1.0, related edition",
+      "credit": "All About Symbian / Ewan Spence",
+      "source": "e-drop-symbian"
+    },
+    {
+      "id": "super-drop-mania-240-screen--superdropmania240",
+      "title": "Super Drop Mania review screenshots",
+      "url": "https://allaboutsymbian.com/reviews/item/Super_Drop_Mania.php",
+      "kind": "screenshots",
+      "scope": "Series 60 v1.0, related edition",
+      "credit": "All About Symbian / Ewan Spence",
+      "source": "e-drop-symbian"
+    },
+    {
+      "id": "the-chronicles-of-narnia-prince-caspian--princecaspian",
+      "title": "Prince Caspian Java press image",
+      "url": "https://www.pocketgamer.com/the-chronicles-of-narnia-prince-caspian/hands-on-with-narnia-prince-caspian-on-mobile/",
+      "kind": "press image",
+      "scope": "Java game, related edition",
+      "credit": "Pocket Gamer",
+      "source": "e-narnia-preview"
+    },
+    {
+      "id": "the-dark-knight--darkknight",
+      "title": "The Dark Knight Java press image",
+      "url": "https://www.pocketgamer.com/the-dark-knight/hands-on-with-the-dark-knight-on-mobile/",
+      "kind": "press image",
+      "scope": "Java game, related edition",
+      "credit": "Pocket Gamer",
+      "source": "e-knight-preview"
+    },
+    {
+      "id": "the-flintstones--flinstones",
+      "title": "The Flintstones: Grocery Hunt Java gameplay",
+      "url": "https://www.youtube.com/watch?v=d9te8-RMiFc",
+      "kind": "gameplay recording",
+      "scope": "Modern recording of Macrospace Java release, related edition",
+      "credit": "Video uploader identified on linked page",
+      "source": "e-flint-grocery"
+    },
+    {
+      "id": "who-wants-to-be-a-millionaire-2009--millionaire09",
+      "title": "Who Wants to Be a Millionaire 2009 publisher image",
+      "url": "https://www.pocketgamer.biz/capcom-reveals-3m-mobile-sales-of-who-wants-to-be-a-millionaire/",
+      "kind": "press image",
+      "scope": "2009 mobile edition. Verify handset depiction before assigning BREW.",
+      "credit": "PocketGamer.biz",
+      "source": "e-millionaire-sales"
+    },
+    {
+      "id": "world-poker-tour-hold-em-2--wptholdem2",
+      "title": "World Poker Tour: Texas Hold’Em 2 Java image",
+      "url": "https://www.pocketgamer.com/world-poker-tour-texas-holdem-2/review/",
+      "kind": "press image",
+      "scope": "Java single-player edition, related release",
+      "credit": "Pocket Gamer",
+      "source": "e-wpt-solo"
+    },
+    {
+      "id": "world-series-of-poker-2--wsop2",
+      "title": "World Series of Poker: Pro Challenge Java image",
+      "url": "https://www.pocketgamer.com/world-series-of-poker-pro-challenge/review/",
+      "kind": "press image",
+      "scope": "Java edition, related release",
+      "credit": "Pocket Gamer",
+      "source": "e-wsop-pro-review"
+    },
+    {
+      "id": "zuma-240-screen--zuma240",
+      "title": "Zuma mobile review screenshots",
+      "url": "https://www.gamespot.com/reviews/zuma-review/1900-6119605/",
+      "kind": "screenshots",
+      "scope": "Sorrent’s 2005 handset adaptation, related release",
+      "credit": "GameSpot",
+      "source": "e-zuma-review"
+    }
+  ],
+  "access_limits": [
+    {
+      "entries": [
+        "resident-evil-genesis--regenesis"
+      ],
+      "status": "runtime unspecified",
+      "note": "Publisher launch album identified the mobile title but supplied no handset metadata or development art.",
+      "url": "https://www.flickr.com/photos/capcomlost/sets/72157604103488984/"
+    },
+    {
+      "entries": [
+        "bioshock-3d--bio3d",
+        "bioshock-3d-176-display--bioshock3d-176"
+      ],
+      "status": "development materials partial",
+      "note": "Contemporary demo reporting, trailer, preservation gameplay and a later x86-development recording survive. The 2008 BREW demo report uses generic BioShock key art and provides no show-floor still. Three original character and prop renders survive in Nitin Dhamse’s portfolio. Hidden Palace documents a level-map collection and editor, but the resource page reports an unavailable download and provides no map preview.",
+      "url": "https://www.pocketgamer.com/bioshock-mobile/brew-2008-latest-on-bioshock-mobile/"
+    },
+    {
+      "entries": [
+        "doom-ii-rpg--d2rp"
+      ],
+      "status": "no BREW images on checked galleries",
+      "note": "MobyGames’ BREW gallery says it has no screenshots. My Abandonware labels its captures J2ME and TouchArcade covers iPhone. The QuakeCon announcement thumbnail returned a missing image. Keep other runtime images out of the BREW game gallery.",
+      "url": "https://www.mobygames.com/game/45955/doom-ii-rpg/screenshots/brew/"
+    },
+    {
+      "entries": [
+        "orcs-elves-ii--oe2"
+      ],
+      "status": "no BREW images on checked galleries",
+      "note": "MobyGames’ BREW gallery has no shots. Pocket Gamer supplied a contemporary Java preview still. No verifiable production drawings surfaced through Games on Deck’s Anna Kang interview, RPGFan, or the listed screenshot databases.",
+      "url": "https://www.mobygames.com/game/224612/orcs-elves-ii/screenshots/brew/"
+    },
+    {
+      "entries": [
+        "katamari--katamari"
+      ],
+      "status": "BREW image verification unresolved",
+      "note": "Pocket Gamer and My Abandonware identify their gallery images as Java. WIRED’s inline original image returned 404. DoCoMo’s promotional material depicts the distinct Japanese 3D port. Live Namco USA archive pages were not recovered in this pass.",
+      "url": "https://www.myabandonware.com/game/rolling-with-katamari-yjj"
+    },
+    {
+      "entries": [
+        "driv3r--driv3r"
+      ],
+      "status": "archive edition imagery unresolved",
+      "note": "GameFAQs mobile media page republishes PS2 box scans and GBA images. GameSpot’s mobile review and preview survive, but the migrated articles expose no period mobile gameplay image, and MobyGames’ J2ME gallery was empty.",
+      "url": "https://gamefaqs.gamespot.com/mobile/920917-driv3r/media"
+    },
+    {
+      "entries": [
+        "spider-man--spiderman"
+      ],
+      "status": "package edition unresolved",
+      "note": "GameSpot documents Sony Pictures Mobile’s V CAST NY Rooftops and NY Subway games. The catalog’s plain Spider-Man filename does not select one.",
+      "url": "https://www.gamespot.com/articles/verizon-vcast-mobile-games-grow-up/1100-6117613/"
+    },
+    {
+      "entries": [
+        "aliens-vs-predator-3d--avp"
+      ],
+      "status": "original screenshot host unavailable",
+      "note": "Legacy Superscape screenshot reposts on AVP Galaxy point to a redirect loop and a missing title image. The 2007 preview footage still works. My Abandonware and MobyGames galleries had no images for the 2006 BREW title.",
+      "url": "https://www.avpgalaxy.net/forum/index.php?topic=50388.0"
+    },
+    {
+      "entries": [
+        "brothers-in-arms-176-display--bia176",
+        "brothers-in-arms-240-display--bia240"
+      ],
+      "status": "developer production files not located",
+      "note": "Aurel Manea’s CV names him as lead 3D artist on the V CAST edition and separately identifies his DS credit. The dated carrier advertisement anchors the V CAST visuals. No project artwork was located in the public CV.",
+      "url": "https://aurelm.com/cv/"
+    },
+    {
+      "entries": [
+        "animation-sample--qx-animsample",
+        "crate-hunt-sample--qx-cratehunt",
+        "mesh-buddy-sample--qx-meshbuddy",
+        "projected-shadow-demo--qx-projectedshadow",
+        "sample-loader-demo--qx-sampleloader"
+      ],
+      "status": "SDK demo identities unresolved",
+      "note": "The Qualcomm conference deck is platform development evidence. Its Ducati and CarBen images do not establish any of the archived sample packages’ identities.",
+      "url": "https://www.tripleoxygen.net/files/devices/zeebo/doc/Tech-303_Ligon.pdf"
+    }
+  ]
+}

@@ -1,3 +1,105 @@
-(()=>{'use strict';let input=document.querySelector('#search');let cards=[...document.querySelectorAll('.entry-card')];const chips=[...document.querySelectorAll('.chip[data-type]')],sel=document.querySelector('#collection'),out=document.querySelector('#results-count'),none=document.querySelector('#no-results');let kind='All';const qs=new URLSearchParams(location.search);if(input){input.value=qs.get('q')||'';if(['brew2010','brew2018'].includes(qs.get('set')))sel.value=qs.get('set');const requested=qs.get('type');if(chips.some(c=>c.dataset.type===requested))kind=requested;function run(){const q=input.value.trim().toLocaleLowerCase();let total=0;for(const el of cards){const ok=(kind==='All'||el.dataset.type===kind)&&(sel.value==='All'||sel.value===el.dataset.collection)&&el.dataset.search.includes(q);el.hidden=!ok;if(ok)total++}out.textContent=`Showing ${total} of ${cards.length} packages`;none.hidden=total!==0;chips.forEach(c=>{let yes=c.dataset.type===kind;c.classList.toggle('active',yes);c.setAttribute('aria-pressed',yes?'true':'false')});let p=new URLSearchParams;if(q)p.set('q',input.value.trim());if(kind!=='All')p.set('type',kind);if(sel.value!=='All')p.set('set',sel.value);const next=location.pathname+(p.size?'?'+p.toString():'')+location.hash;history.replaceState(null,'',next)}input.addEventListener('input',run);sel.addEventListener('change',run);chips.forEach(c=>c.addEventListener('click',()=>{kind=c.dataset.type;run()}));document.querySelector('#clear-search')?.addEventListener('click',()=>{kind='All';input.value='';sel.value='All';run();input.focus()});document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA'].includes(document.activeElement.tagName)){e.preventDefault();input.focus()}});run()}
-for(const b of document.querySelectorAll('button[data-copy]'))b.addEventListener('click',async()=>{const value=b.getAttribute('data-copy')||'';try{if(navigator.clipboard?.writeText){await navigator.clipboard.writeText(value)}else{const inp=document.createElement('textarea');inp.value=value;document.body.appendChild(inp);inp.select();document.execCommand('copy');inp.remove()}let old=b.textContent;b.textContent='Copied!';setTimeout(()=>b.textContent=old,1400)}catch(e){b.textContent='Select and copy above'}})
+(() => {
+  'use strict';
+
+  const search = document.getElementById('search');
+  if (search) {
+    const cards = [...document.querySelectorAll('.entry-card[data-search]')];
+    const filters = [...document.querySelectorAll('button[data-type]')];
+    const collection = document.getElementById('collection');
+    const count = document.getElementById('results-count');
+    const empty = document.getElementById('no-results');
+    const params = new URLSearchParams(location.search);
+    const normalize = value => value.toLocaleLowerCase().normalize('NFKD').replace(/\p{M}/gu, '');
+    const haystacks = cards.map(card => normalize(card.dataset.search));
+    const initialType = params.get('type');
+    let type = filters.some(filter => filter.dataset.type === initialType) ? initialType : 'All';
+    search.value = params.get('q') || '';
+    if (Array.from(collection.options).some(option => option.value === params.get('set'))) {
+      collection.value = params.get('set');
+    }
+
+    function applyFilters() {
+      const term = search.value.trim();
+      const words = normalize(term).split(/\s+/);
+      let matches = 0;
+      cards.forEach((card, index) => {
+        const visible = (type === 'All' || type === card.dataset.type)
+          && (collection.value === 'All' || collection.value === card.dataset.collection)
+          && words.every(word => haystacks[index].includes(word));
+        card.hidden = !visible;
+        matches += Number(visible);
+      });
+      count.textContent = `Showing ${matches} of ${cards.length} packages`;
+      empty.hidden = matches > 0;
+      for (const filter of filters) {
+        const selected = filter.dataset.type === type;
+        filter.classList.toggle('active', selected);
+        filter.setAttribute('aria-pressed', String(selected));
+      }
+      const state = new URLSearchParams();
+      if (term) state.set('q', term);
+      if (type !== 'All') state.set('type', type);
+      if (collection.value !== 'All') state.set('set', collection.value);
+      try {
+        history.replaceState(null, '', location.pathname + (state.size ? '?' + state : '') + location.hash);
+      } catch (_) {
+        // Catalog filtering also works when the ZIP is opened from a local filesystem.
+      }
+    }
+
+    search.addEventListener('input', applyFilters);
+    collection.addEventListener('change', applyFilters);
+    for (const filter of filters) {
+      filter.addEventListener('click', () => {
+        type = filter.dataset.type;
+        applyFilters();
+      });
+    }
+    document.getElementById('clear-search').addEventListener('click', () => {
+      type = 'All';
+      search.value = '';
+      collection.value = 'All';
+      applyFilters();
+      search.focus();
+    });
+    document.addEventListener('keydown', event => {
+      if (event.key === '/' && !event.target.closest('input,textarea,select,[contenteditable]')) {
+        event.preventDefault();
+        search.focus();
+      }
+    });
+    applyFilters();
+  }
+
+  function selectForCopy(button) {
+    const field = document.createElement('textarea');
+    field.value = button.dataset.copy;
+    field.readOnly = true;
+    field.className = 'sr-only';
+    document.body.append(field);
+    field.select();
+    try {
+      return document.execCommand('copy');
+    } finally {
+      field.remove();
+      button.focus();
+    }
+  }
+
+  for (const button of document.querySelectorAll('button[data-copy]')) {
+    const label = button.textContent;
+    let timer;
+    button.addEventListener('click', async () => {
+      let copied = false;
+      try {
+        await navigator.clipboard.writeText(button.dataset.copy);
+        copied = true;
+      } catch (_) {
+        copied = selectForCopy(button);
+      }
+      button.textContent = copied ? 'Copied' : 'Select the text to copy';
+      clearTimeout(timer);
+      timer = setTimeout(() => { button.textContent = label; }, 1700);
+    });
+  }
 })();

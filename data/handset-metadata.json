@@ -1,0 +1,694 @@
+{
+  "3d-bowling-176-display--bowl3d-176only": {
+    "name": "Bowling3d.mif",
+    "sha256": "dee71ffa0af583fd931612a98f56fd68b0a22bc543c65db90fed575cf0048585",
+    "title": "JAMDAT Bowling 3D",
+    "credit": "JAMDAT Mobile, Inc.",
+    "version": "1.0.29.en.saa890",
+    "other_credit": "(c)2005, JAMDAT Mobile"
+  },
+  "aliens-vs-predator-3d--avp": {
+    "name": "avp3d.mif",
+    "sha256": "5c807bb6b7975d4d1c78a440d61bfb9b32e6ae0fdbe6a0201fac369464da2f38",
+    "title": "Alien vs Predator 3D",
+    "credit": "Superscape Plc",
+    "version": "1.1.1",
+    "other_credit": "TM & (C) 2006 FOX"
+  },
+  "are-you-smarter-than-a-5th-grader--5thgrader": {
+    "name": "5thGrader.mif",
+    "sha256": "4a324dd070f3b38ed05e3684dacbbb37e2cc54372618986412c3877e5d092b80",
+    "title": "5th Grader",
+    "credit": "Capcom",
+    "other_credit": "(c) 2007 Capcom"
+  },
+  "are-you-smarter-than-a-5th-grader-2009--5thgrader09": {
+    "name": "5thGrader09.mif",
+    "sha256": "98341162834b7b50cdec7afb670a41be0a1faf2e7b713d893dbc6d1b89b38279",
+    "title": "5th Grader 2009",
+    "credit": "Dustin Choi",
+    "version": "1.0.27",
+    "other_credit": "(c) Capcom"
+  },
+  "asphalt-3d--asphalt3d-2": {
+    "name": "Asphalt3D-2.mif",
+    "sha256": "9c8584cabca8fbb442b63c6a09ede9739c9c26013f7d9fcd6b73fe8b405c6647",
+    "title": "Asphalt Urban GT 2 3D",
+    "credit": "Gameloft",
+    "version": "1.0.5_TIM"
+  },
+  "asteroids--asteroids": {
+    "name": "Asteroids.mif",
+    "sha256": "1d5420c0898628b20475d134a998b9ee5eda352578ff48018f2ca1eba373b876",
+    "title": "Asteroids",
+    "credit": "Blue-Heat Games",
+    "version": "ver.1.0",
+    "other_credit": "(c) Infogrames"
+  },
+  "bioshock-3d--bio3d": {
+    "name": "bio3d.mif",
+    "sha256": "08ad04f73ec4a9ffc0d4b7f0a67eb89ad82501d8449ab24821248280f53893f5",
+    "title": "BioShock 3D",
+    "credit": "Indiagames Ltd.",
+    "version": "v 1.6.1.5",
+    "other_credit": "(c) Indiagames Ltd."
+  },
+  "bioshock-3d-176-display--bioshock3d-176": {
+    "name": "BioShock3D.mif",
+    "sha256": "e8c36dd3aa059ebd43f5651d6b401ea31fd896f938283aa6f6f060b7f22e3853",
+    "title": "BioShock 3D",
+    "credit": "Indiagames Ltd.",
+    "version": "V 1.4.1.1",
+    "other_credit": "(c) Indiagames Ltd."
+  },
+  "blitzkrieg--blitzkrieg": {
+    "name": "Blitzkrieg.mif",
+    "sha256": "6b6bdb89329854906e14ced836aa360c9f0b2d88ae5d250e44c5ad8d914f5cb8",
+    "title": "Blitzkrieg",
+    "credit": "Jimmy.Yang",
+    "version": "V1.0.84",
+    "other_credit": "Beijing Star Technology"
+  },
+  "bowling-3d--jbowling3d": {
+    "name": "JBowling3D.mif",
+    "sha256": "9c901d30d695dc9bd604e694ffde79ffe926cc391a46d1f54713cf7b6bb17e43",
+    "title": "JAMDAT Bowling 3D",
+    "credit": "Electronics Arts",
+    "version": "1.2.9 it.saz630",
+    "other_credit": "Electronics Arts 2006"
+  },
+  "brainexercise--brainexercise": {
+    "name": "BrainExercise.mif",
+    "sha256": "d6260b0e78ddd365ebd8d6e916a7fc5cfa2f3a72d2f90a0ae321a2624d8c6c7a",
+    "title": "Brain Exercise by Namco",
+    "credit": "Namco BANDAI Games Inc.",
+    "version": "1.0.50_VX9700"
+  },
+  "brothers-in-arms-176-display--bia176": {
+    "name": "BIA176.mif",
+    "sha256": "a1605dabbe922ac0c8321a6b1c3168d1dfd5cf8d804cb93f22b3be0cfa91a045",
+    "title": "BIA: Earned in Blood",
+    "credit": "Gameloft S.A.",
+    "version": "1.0.3",
+    "other_credit": "(c) 2006 Gameloft"
+  },
+  "brothers-in-arms-240-display--bia240": {
+    "name": "BIA240.mif",
+    "sha256": "38c43123ac16c16a4462b8c4819ea2fa9fa4284b5d752776290852f105bc72f1",
+    "title": "BIA: Earned In Blood",
+    "credit": "Gameloft",
+    "version": "v1.0.5_TIM",
+    "other_credit": "(c) 2006 Gameloft"
+  },
+  "callofduty--callofduty": {
+    "name": "Call of Duty.mif",
+    "sha256": "c259cf6edc11afe2a92ac946c995c33e969b1b5c022b6e404c1962db2a741136",
+    "title": "Call of Duty",
+    "credit": "Mforma Group",
+    "version": "v.1.4.8",
+    "other_credit": "(c) 2003 Activision Inc"
+  },
+  "callofduty5--callofduty5": {
+    "name": "CallOfDuty5.mif",
+    "sha256": "2fa90b8e00ca55b18515b968ed4606104e3f5306de2464e6c45f446cc9d6d6bf",
+    "title": "Call of Duty: WaW",
+    "credit": "Glu Mobile",
+    "other_credit": "(c) 2008 Glu Mobile"
+  },
+  "camera-phone-darts--cpd": {
+    "name": "cameraphonedarts.mif",
+    "sha256": "ac95190e1e684376a7ef425b355055d03742dbc3cc66a283b44224c8c3125652",
+    "title": "Camera Phone Darts",
+    "credit": "GOSUB 60, Inc.",
+    "other_credit": "(c) 2007 GOSUB 60, Inc."
+  },
+  "centipede--centipede": {
+    "name": "Сentipede.mif",
+    "sha256": "c38870a6b9e338980d1da76b2a6ec2937dbfdbaf4c4d3a53ebb89556eca068be",
+    "title": "Centipede",
+    "credit": "Glu Mobile",
+    "other_credit": "(c) 2006 Glu Mobile"
+  },
+  "chess-240x320--chess-240x320": {
+    "name": "Chess.mif",
+    "sha256": "f0d2129447601526d50840e3e40c3643bc872edbcbeb9a5f9d254c56ae8c4218",
+    "title": "Chess",
+    "credit": "Penultimate Inc.",
+    "other_credit": "Copyright 2002,"
+  },
+  "collapsechaos--collapsechaos": {
+    "name": "CollapseChaos.mif",
+    "sha256": "c135313d0beedd88b7020b0a9aac54d7159da5ea1742abb7c868a73c3b866c90",
+    "title": "Collapse! Chaos",
+    "credit": "RealNetworks, Inc.",
+    "version": "1.0.1 x"
+  },
+  "darkhorse--darkhorse": {
+    "name": "Darkhorse.mif",
+    "sha256": "f79d97f5515a9da9f53c29d3d5b93aefd6101923b7ab8a46dd05b4fb9de4ee85",
+    "title": "The Dark Horse",
+    "credit": "Hellonet Co., Ltd.",
+    "version": "V.1.0.1",
+    "other_credit": "Copyright 2004"
+  },
+  "dblocos-176--dblocos-176": {
+    "name": "dblocos.mif",
+    "sha256": "5f8b57dfa061ac3ad50f5c2f38a89c18a9b421ab47c74b7e5e84d01dda46ca0f",
+    "title": "DetonaBlocos sexy",
+    "credit": "WIZ Technologies",
+    "other_credit": "(c) WIZ Technologies"
+  },
+  "detonate--detonate": {
+    "name": "Detonate.mif",
+    "sha256": "f1667fcc8c3cadc278a60751d7f3be592a736e2999aa894256f0a1be06955d1a",
+    "title": "Detonate",
+    "credit": "Macrospace Ltd",
+    "other_credit": "(c) 2003 Macrospace Ltd"
+  },
+  "doom-ii-rpg--d2rp": {
+    "name": "doom2rpg.mif",
+    "sha256": "256f63142969240d4e2d797143300d37e7d54d4feb1a56d40274741dd47650f6",
+    "title": "DOOM 2 RPG",
+    "credit": "Electronic Arts 2009",
+    "version": "7.1.73 en.lgax830"
+  },
+  "dragon-island-320-screen-version--dragonisland-320": {
+    "name": "disland.mif",
+    "sha256": "49d79281de68ab39c04acb7f59ac026d101b64ee41c120981c6dfdfb10254fdb",
+    "title": "Dragon Island",
+    "credit": "Macrospace Ltdd",
+    "other_credit": "(c) 2003 Macrospace Ltd"
+  },
+  "dragonsword--dragonsword": {
+    "name": "DragonSword.mif",
+    "sha256": "25b18f6090b71c070949f965faa33451be17c07b18053da2086915227cced146",
+    "title": "Dragon Sword",
+    "credit": "Minor Axis&SK Telecom",
+    "version": "v.1.0.0",
+    "other_credit": "SkyZone Entertainment"
+  },
+  "driv3r--driv3r": {
+    "name": "Driv3r.mif",
+    "sha256": "ab4bdf5707b33195fe569faf2280a123cd6db1a57c6efc1f9035848c135622fe",
+    "title": "DRIV3R",
+    "credit": "Sorrent Inc.",
+    "other_credit": "Copyright 2004"
+  },
+  "duke-nukem-2d--duke2d": {
+    "name": "duke.mif",
+    "sha256": "401681ea133c626264854532102cd0c2612cb9bcb39c5c666797a9d36ad466a6",
+    "title": "Duke Nukem Mobile",
+    "credit": "MachineWorks Northwest",
+    "other_credit": "(c) 2003"
+  },
+  "duke-nukem-3d--dukenukem3d-114": {
+    "name": "duke3d.mif",
+    "sha256": "ef994e48b914c6dce55447ccd52b14d3fa7a1191c375af82db2cb236ad7de509",
+    "title": "Duke Nukem 3D",
+    "credit": "MachineWorks Northwest",
+    "version": "v.1.1.4.",
+    "other_credit": "(c) 2005"
+  },
+  "earthworm-jim--ewj": {
+    "name": "earthwormjim.mif",
+    "sha256": "9e18931474ad983eaeb545f19c354d7565da1d7e6304bb3503f3ee70f57d8445",
+    "title": "Earthworm Jim",
+    "credit": "Gameloft SA",
+    "version": "1.0.4",
+    "other_credit": "(C) 2009 Gameloft"
+  },
+  "eblocos-176--eblocos-176": {
+    "name": "eblocos.mif",
+    "sha256": "238aa562d2303b6db73f35bb7268dbf5006174aaf3c17c401b8810ea9f521a54",
+    "title": "ENCAIXA Blocos sexy",
+    "credit": "WIZ Technologies",
+    "other_credit": "(c) WIZ Technologies"
+  },
+  "fbird-identity-unconfirmed--fbd": {
+    "name": "fbird.mif",
+    "sha256": "323989e711b2c8eb97dbf1d32efeb109eba6a27b4d07d460c140f5d6fce1127c",
+    "title": "Soaring Bird",
+    "credit": "Cheer Data Limited",
+    "version": "Version 1.4.1",
+    "other_credit": "Copyright (C) 2014"
+  },
+  "fruitescape--fruitescape": {
+    "name": "fruitescape.mif",
+    "sha256": "cd917c2c0c359cfc970d578a0a3fb2195df22c5471cc76c9fc25b6e308f0a127",
+    "title": "Fruit Escape",
+    "credit": "sting",
+    "version": "1.0.0"
+  },
+  "fruit-escape-176-220--fruitescape176x220": {
+    "name": "fruitescape.mif",
+    "sha256": "cd917c2c0c359cfc970d578a0a3fb2195df22c5471cc76c9fc25b6e308f0a127",
+    "title": "Fruit Escape",
+    "credit": "sting",
+    "version": "1.0.0"
+  },
+  "galaxy-on-fire-3d--gof": {
+    "name": "gof3d.mif",
+    "sha256": "c24e7e5dcc01cbd25d6346fe276c8c308edc0184974f31481af21f4afa44a5f1",
+    "title": "Galaxy on Fire 3D",
+    "credit": "Fishlabs Entertainment",
+    "version": "1.0.8",
+    "other_credit": "(c) 2008 Fishlabs GmbH"
+  },
+  "gatilho-176--gatilho-176": {
+    "name": "gatilho.mif",
+    "sha256": "14fdf6cf15557939fdd472f97395d0cf558c7806f1227a5b5af75db00d65d210",
+    "title": "Gatilho do Oeste",
+    "credit": "WIZ Technologies",
+    "other_credit": "(c) WIZ Technologies"
+  },
+  "gumblox-240-display--gumblox-240": {
+    "name": "GumBlox.mif",
+    "sha256": "f24eae84af57ca2cb274d5ddc26b2b526dfe49882ca4393fbc6fbd462ff2f1ae",
+    "title": "Gum Blox",
+    "credit": "Superscape",
+    "version": "1.1.11",
+    "other_credit": "2006 Superscape Group"
+  },
+  "h-a-w-x--hawx": {
+    "name": "HAWX.mif",
+    "sha256": "25c2e19f5c2c404bba9ede7d3ad7cedcb50eb31ab718676ac8e6ed86720413ee",
+    "title": "Tom Clancy's H.A.W.X",
+    "credit": "Gameloft",
+    "version": "1.0.sa.r810",
+    "other_credit": "(c) 2009 Gameloft"
+  },
+  "helistrike--hs": {
+    "name": "helistrike.mif",
+    "sha256": "e045b5f95a039cdf67bbdfaa61fa9330b92599e033a2e8b39fe828bd2fc77b6a",
+    "title": "Heli Strike 3D",
+    "credit": "www.fishlabs.net",
+    "version": "1.1.7",
+    "other_credit": "(c) 2007 Fishlabs GmbH"
+  },
+  "highwayracer--highwayracer": {
+    "name": "HighwayRacer.mif",
+    "sha256": "65b92295887d4ecfa4cea4160f2c9c94cddf907d61ba41991588fe8d6efec737",
+    "title": "Highway Racer",
+    "credit": "Pulse Interactive, Inc.",
+    "version": "v1.0-0102a26b",
+    "other_credit": "(c) 2003, Mr.Goodliving"
+  },
+  "jewelquest--jewelquest": {
+    "name": "JewelQuest.mif",
+    "sha256": "8166b55fe88335ddf5576f19cd2f783220706015e9d007ea829bf16ed8fb63ba",
+    "title": "JewelQuest",
+    "credit": "Big Blue Bubble, Inc.",
+    "version": "v.1.9.6.",
+    "other_credit": "(c) 2004, iWin, Inc."
+  },
+  "katamari--katamari": {
+    "name": "Katamari.mif",
+    "sha256": "4f1c2c4fa13dd8c3f0ced142edef668eb76129286fd3885f558114eba70e8c78",
+    "title": "Rolling with Katamari",
+    "credit": "NAMCO BANDAI Games Inc."
+  },
+  "learn-to-fly--l2f": {
+    "name": "learn2fly.mif",
+    "sha256": "9462ff83995fd95dddb095fb0a0c7bb9953dc1c0594a583eb4d09146bcd7501f",
+    "title": "Learn to Fly by Namco",
+    "credit": "Namco Networks",
+    "version": "1.0.64",
+    "other_credit": "2011 Namco Networks"
+  },
+  "linez--linez": {
+    "name": "LineZ.mif",
+    "sha256": "35dc9ee70279e15aae4a394b3cbbc40d69d087865109f05618b1d88a46d49904",
+    "title": "LineZ",
+    "credit": "WIMOS, Inc.",
+    "other_credit": "(c) 2002, Ver 1.0 S3"
+  },
+  "massivesnowboarding--massivesnowboarding": {
+    "name": "MassiveSnowboarding.mif",
+    "sha256": "6d23543de7039f2ab8edd271a52f8e2e5152658c58151633b459e0a806ab8315",
+    "title": "Massive Showboarding",
+    "credit": "Gameloft",
+    "version": "1.0.0",
+    "other_credit": "(c) 2006, Gameloft"
+  },
+  "maximballs320x240--maximballs320x240": {
+    "name": "MaximBalls.mif",
+    "sha256": "b664a243b7799eb57e8dd59d07e24ed30aa63a738411cd45164302cffb5aeadb",
+    "title": "MaximBalls",
+    "credit": "Hailstorm",
+    "other_credit": "(c)2002-2004 Hailstorm"
+  },
+  "militarymadness2--militarymadness2": {
+    "name": "MilitaryMadness2.mif",
+    "sha256": "ec872b34da5313bc62198aabbcac32218ba6c254074fcabaa10c7748cf371bdb",
+    "title": "Military Madness 2"
+  },
+  "monopoly--monopoly": {
+    "name": "Monopoly.mif",
+    "sha256": "c7f71f68416e5b75e9e322e074e19796244344e2082ed307a4b23492d83c0eb0",
+    "title": "Monopoly Here & Now",
+    "credit": "Electronic Arts 2008",
+    "version": "4.5.12 en.lgvx9600pre"
+  },
+  "mr2004--mr2004": {
+    "name": "MR2004.mif",
+    "sha256": "d0a88a105fc74a1a2d575139807b56c2b9ea3cf65ff0099067f31213a0eecdb4",
+    "title": "Mobile Racing 2004"
+  },
+  "mx-vs-atv--mxvsatv": {
+    "name": "MXvsATV.mif",
+    "sha256": "096a5117ae84b329c764283de0c5c3331bc9eba216855ec072819bd04c10a7f1",
+    "title": "MX vs ATV: Untamed",
+    "credit": "Universomo LTD.",
+    "version": "1.1.22.5",
+    "other_credit": "2007, THQ Wireless"
+  },
+  "need-for-speed-2009-edition-unconfirmed--nf09": {
+    "name": "nfs09.mif",
+    "sha256": "f518a97f0656bc858d4027dc7995631afe36593366c46c5eef3b09d929fa6368",
+    "title": "NEED FOR SPEED Undercover",
+    "credit": "Electronic Arts 2008",
+    "version": "7.3.91 en.cac711vzw a"
+  },
+  "need-for-speed-2010-edition-unconfirmed--nf10": {
+    "name": "nfs10.mif",
+    "sha256": "d186192c86f96974add717877daf29c4de86d580a89e8c61282416e7f13b2aac",
+    "title": "Need for Speed Shift",
+    "credit": "Electronic Arts 2011",
+    "version": "4.4.23 en.pn6010"
+  },
+  "need-for-speed-2011-edition-unconfirmed--nf11": {
+    "name": "nfs11.mif",
+    "sha256": "0dfe15fd3768d186b724437cc0d48d903fa243aa1d441961c265e3d293aae7cc",
+    "title": "Need For Speed Hot Pursuit",
+    "credit": "Electronic Arts 2010",
+    "version": "4.1.79 en.cac751"
+  },
+  "need-for-speed-2012-edition-unconfirmed--nf12": {
+    "name": "nfs12.mif",
+    "sha256": "143237a566242a5fb8892a92ae51433b83ba460f15a50046004cfd25d3cc70a5",
+    "title": "Need for Speed The Run",
+    "credit": "Electronic Arts 2011",
+    "version": "4.1.92 en.sau650"
+  },
+  "need-for-speed-prostreet--nf08": {
+    "name": "nfsps.mif",
+    "sha256": "6c4c9c6279a84fc3340a633ed6e5e8894ce903618a95041a75f841dfb43b312c",
+    "title": "Need for Speed ProStreet",
+    "credit": "Electronic Arts 2007",
+    "version": "7.0.43 en.mtve"
+  },
+  "oldmenfight--oldmenfight": {
+    "name": "OldMenFight.mif",
+    "sha256": "8caa8858c2bdfd9d1e586be9454b100dc3ac374af07d7e465b291eee20b36e7a",
+    "title": "Old Men Fight",
+    "other_credit": "Copyright (C) 2004"
+  },
+  "opengl-es-demo-01--qc-ogles-demo-01": {
+    "name": "ogles_demo_01.mif",
+    "sha256": "73aba23c9d2a01b69b905b503fcb54c78176fc9b33ef8a7b45ed8ca1a020c266",
+    "title": "OGLES demo 01",
+    "credit": "Dave Durnil",
+    "other_credit": "Qualcomm 2004"
+  },
+  "opengl-es-demo-02--qc-ogles-demo-02": {
+    "name": "ogles_demo_02.mif",
+    "sha256": "8f61394cdf3213e2e64597664e8a9ea22cb457ccf45fdd4acf8f73d85138fa1b",
+    "title": "OGLES Demo 02",
+    "credit": "QUALCOMM",
+    "other_credit": "Qualcomm 2004"
+  },
+  "orcs-elves-ii--oe2": {
+    "name": "orcsandelves2.mif",
+    "sha256": "86723447e7a5b2dd4533db1ce3a23bc1296fc083798b85ee85fe7c5690598889",
+    "title": "Orcs & Elves II",
+    "credit": "Electronic Arts 2007",
+    "version": "7.0.41 en.nk6315i"
+  },
+  "pac-man-golf--pacmangolf": {
+    "name": "PacManGolf.mif",
+    "sha256": "9ad729f72ace098b3b4da68090fa489b33ffc5c9754beb6fd67f1d82e76b6e11",
+    "title": "PAC-MAN Arcade Golf by Namco",
+    "credit": "Namco Bandai Games Inc.",
+    "other_credit": "2008, Namco Bandai"
+  },
+  "pacman--pacman": {
+    "name": "pacman.mif",
+    "sha256": "171a30bd60d367cd5fc9e71022f369f675cc36d7745c1a84275db62f3ec35cf8",
+    "title": "PacMan",
+    "credit": "Namco",
+    "other_credit": "(c) 1980, 2006 NBGI"
+  },
+  "pfjungle-176only--pfjungle-176only": {
+    "name": "pfjungle.mif",
+    "sha256": "3fa52bf8273a6bfd6125d724711ef2e33dde88609606b2eebedf55400ed1a88b",
+    "title": "PitfallJungle",
+    "credit": "DigitalChocolate",
+    "version": "V 2.1.2",
+    "other_credit": "(c) DigitalChocolate"
+  },
+  "phil-hellmuth-texas-hold-em--philhelmuthtexasholdem": {
+    "name": "PHTH.mif",
+    "sha256": "44417ae18bb1d26fd2fe371144bf2d1783601811db5676da5c871f488b3dc420",
+    "title": "Phil Hellmuth's Texas Hold'em",
+    "credit": "Summus, Inc. (USA)",
+    "version": "v 1.0.2.bw10"
+  },
+  "pocket-god--pgd": {
+    "name": "pocketgod.mif",
+    "sha256": "12ded40869036ceec929b4e0fa4086b8ce6517d99252f68cd9c5529fcdeea89f",
+    "title": "Pocket God",
+    "credit": "Bight Games",
+    "version": "1.0.0I",
+    "other_credit": "(c) 2010 Bolt Creative"
+  },
+  "quebra-cabe-a-puzzle-176-screen--quebracabeca-176": {
+    "name": "QuebraCabeca.mif",
+    "sha256": "4627ac6361d5865f788dd4d367b0c322814494ced54a98a2ccc9fc68c6152a12",
+    "title": "Quebra Cabeca",
+    "credit": "WIZ Technologies",
+    "other_credit": "(c) WIZ Technologies"
+  },
+  "resident-evil-biohazard-edition-unknown--residentevil": {
+    "name": "ResidentEvil.mif",
+    "sha256": "d873be90008eb0bf4695d2ac0daa5d9cd033d88433ce89eafce5fc51b884a18e",
+    "title": "Resident Evil: Degeneration",
+    "credit": "CAPCOM",
+    "version": "1.00.03",
+    "other_credit": "(c)2008 C/RECGFP"
+  },
+  "resident-evil-genesis--regenesis": {
+    "name": "REGenesis.mif",
+    "sha256": "3f397cb3b0d11e5dd54dc9b165e6a2aa22f3fe00fc15fd0fa4d39aa7f27ceed0",
+    "title": "Resident Evil",
+    "credit": "Capcom Interactive Inc",
+    "version": "1.0.2.0",
+    "other_credit": "(c) 2007 Capcom"
+  },
+  "samurai--samurai": {
+    "name": "Samurai.mif",
+    "sha256": "7c0955ae7350c78960bd0f3980314fca1940e400e319fd9e5eea8b52c41c172b",
+    "title": "Samurai",
+    "credit": "Ironmonkey Studios",
+    "other_credit": "(c) 2005, JamDat Mobile"
+  },
+  "shs-exact-game-title-unverified--shs": {
+    "name": "SHS.mif",
+    "sha256": "059b0f25e82fee62f49e3c37eed52968f95ea973d4af125af219ad1d0d2ccbf7",
+    "title": "Surviving High School",
+    "credit": "Centerscore",
+    "version": "V. 1.0.5",
+    "other_credit": "Vivendi Games Mobile"
+  },
+  "snowboardtnt--snowboardtnt": {
+    "name": "SnowboardTNT.mif",
+    "sha256": "5aae873eef972b8713c183b0bba2eb8144ccf7971ed793c209ee8148985fcf07",
+    "title": "Snowboarding TNT",
+    "credit": "TiltnTwist LLC",
+    "version": "v1.2.1",
+    "other_credit": "2008 TiltnTwist LLC"
+  },
+  "spider-man--spiderman": {
+    "name": "Spiderman.mif",
+    "sha256": "a1708a44a61af44401e82c09ccecaa137281baa59645ff569e76540c9c92f17c",
+    "title": "Ultimate Spiderman",
+    "credit": "MFORMA",
+    "version": "v.1.5.4",
+    "other_credit": "(c)  2005, Marvel"
+  },
+  "spore--spr1": {
+    "name": "spore.mif",
+    "sha256": "62cb5caa4668c0d4703b4d9503d22bf3f026696fce145b52e1778368dc28357a",
+    "title": "SPORE",
+    "credit": "Electronic Arts 2009",
+    "version": "4.5.89 en.lgux700"
+  },
+  "spore-2--spr2": {
+    "name": "spore2.mif",
+    "sha256": "1e085fbb3b775c53111b6e3769bb53e190534380d3969a78a742f06afbd42cca",
+    "title": "SPORE Creatures",
+    "credit": "Electronic Arts 2009",
+    "version": "4.1.56 en.lgax265 c"
+  },
+  "st20-exact-game-title-unverified--st20": {
+    "name": "ST20.mif",
+    "sha256": "c4ac5776ba214ef33a511c0518c69df81e5d342613557a4ad3677c9390bfd3e6",
+    "title": "Speed Texting 2.0",
+    "credit": "GOSUB 60, Inc.",
+    "version": "1.0.2.130",
+    "other_credit": "(c)2008, GOSUB 60, Inc."
+  },
+  "street-fighter-ii-champion-edition--streetfighter2ce": {
+    "name": "StreetFighter2CE.mif",
+    "sha256": "91538f160e863d9ee96190f1e73c1df71234f02ac73f00744f22a8c8ddabc808",
+    "title": "Street Fighter II: Champion ED",
+    "credit": "Capcom Interactive Inc",
+    "version": "1.0.2.26",
+    "other_credit": "(c) 2008 Capcom USA Inc"
+  },
+  "super-drop-mania-176-screen--superdropmania176": {
+    "name": "SuperDropMania.mif",
+    "sha256": "102c0f7e66881b187b8961360f986d52abf479847b6b72c004c4a690828b4f9e",
+    "title": "Super Drop Mania",
+    "credit": "Ninai Games",
+    "version": "1.0.4",
+    "other_credit": "(c) 2005, Ninai Games"
+  },
+  "super-drop-mania-240-screen--superdropmania240": {
+    "name": "SuperDropMania.mif",
+    "sha256": "f5fa07b124623bd7857712af42e945cc855b5bf0a144e62d6bac6f5241a7fa1b",
+    "title": "Super Drop Mania",
+    "credit": "Ninai Games",
+    "version": "1.3.8",
+    "other_credit": "(c) 2006, Ninai Games"
+  },
+  "terminator-3-korean-176-display--terminator3-kor-176": {
+    "name": "Terminator3.mif",
+    "sha256": "9a27590b654536bf6c52593256e8237b4f732f844d34f718413afd4b25589f16",
+    "title": "Terminator 3",
+    "credit": "MOAITech Co. Ltd.",
+    "version": "ver. 1.0.7 / 040513",
+    "other_credit": "Copyright 2003"
+  },
+  "tetris--tetris": {
+    "name": "tetris.mif",
+    "sha256": "21b2e709ec0be8fe143e71047101194409f9baf906e022564dce7e28adc84746",
+    "title": "Tetris",
+    "credit": "blue lava wireless, LLC",
+    "other_credit": "(c) 2003   v1.4.CDM9500"
+  },
+  "tetris-240-display--tetris240": {
+    "name": "tetris.mif",
+    "sha256": "04d1df36eac7ea575ec1edeed24c88ffc6c1b96967679ea1b554f3032069433c",
+    "title": "Tetris",
+    "credit": "blue lava wireless, LLC",
+    "version": "v.1.7.9900",
+    "other_credit": "(c) 2003"
+  },
+  "the-chronicles-of-narnia-prince-caspian--princecaspian": {
+    "name": "PrinceCaspian.mif",
+    "sha256": "dc4f78532e97f1eac154c5e7a05376e126df30ef7beffbed50a3f832ff17d925",
+    "title": "Narnia Prince Caspian",
+    "credit": "Disney",
+    "version": "1.0.2",
+    "other_credit": "(c) Disney Enterprises"
+  },
+  "the-dark-knight--darkknight": {
+    "name": "DarkKnight.mif",
+    "sha256": "d263e0488dfc55c089394e662eecfb4eba1df8c2252a8cf398645d9b8d524268",
+    "title": "The Dark Knight",
+    "credit": "Glu Mobile",
+    "other_credit": "(c) 2008 Glu Mobile"
+  },
+  "the-flintstones--flinstones": {
+    "name": "flinstones.mif",
+    "sha256": "75a7ab6e1829060623fe85c6301ca2e533f86e38c1a67914a2d1a6a6446d37dd",
+    "title": "Flintstones",
+    "credit": "Macrospace Ltd",
+    "other_credit": "(c) 2003 Macrospace Ltd"
+  },
+  "the-lord-of-the-rings-the-return-of-the-king--returnoftheking": {
+    "name": "ROTK.mif",
+    "sha256": "25a25dae57a7a573973a96b22e4c8b97373ee6e45e697d1d46582a896f65ac7b",
+    "credit": "JAMDAT Mobile 2003",
+    "version": "v1-052b-en-l4400"
+  },
+  "tinybartender--tinybartender": {
+    "name": "TinyBartender.mif",
+    "sha256": "7d10e40571f025cdf3ce76c4b342d4aae23f63a28426464a481912746563df15",
+    "title": "TinyBartender",
+    "credit": "WIMOS, Inc.",
+    "other_credit": "(c) 2003, Ver 1.0 S4"
+  },
+  "translator-utility-not-game--translator-net-ok": {
+    "name": "Translator.mif",
+    "sha256": "d8d49db5ba23179f9ee6b4f393d8c790303c75d65ebc439ec1307244bf2224c4",
+    "title": "Tradutor",
+    "credit": "Link Mobile Solutions",
+    "version": "V.2.5-8-V710"
+  },
+  "unlimitedwar--unlimitedwar": {
+    "name": "UnlimitedWar.mif",
+    "sha256": "8d9f9fbc20a044f46d4826528f9dde1f8bc98251d542863655bff0af1e37e210",
+    "title": "Unlimited War"
+  },
+  "verizon-superpages-utility-not-game--vz-superpages-lg4400-net-ok": {
+    "name": "VZ-SuperPages.mif",
+    "sha256": "8cfc598f33bcad256b5ac250f21bff7f2ed769c70150a7d88baabdf2cd44ebd9",
+    "title": "SuperPages",
+    "credit": "Verizon Directories Co.",
+    "other_credit": "Copyright 2003 Verizon"
+  },
+  "weatherbug-utility-not-game--weatherbug": {
+    "name": "WeatherBug.mif",
+    "sha256": "3ff6affb58168a5eff11f513c757b78114b00f289a976b5c0d175f781bfd7e11",
+    "credit": "WeatherBug.com",
+    "version": "2.0.7.21",
+    "other_credit": "(c) 2007-2008"
+  },
+  "who-wants-to-be-a-millionaire-2009--millionaire09": {
+    "name": "Millionaire09.mif",
+    "sha256": "b91a482143b15f7d140bd0024ba733973d9bfe13fa6da278869e5150449099a8",
+    "title": "Millionaire 2009",
+    "credit": "Dustin Choi",
+    "version": "1.0.19",
+    "other_credit": "(C) Capcom"
+  },
+  "wild-8-ball-v1-08--wild8ballv108": {
+    "name": "8Ball.mif",
+    "sha256": "843c0e2f0e3c11abff293d485637e04c306511825c2bf1dc8952b0d0edbd31c8",
+    "title": "Wild 8-Ball",
+    "credit": "Sorrent, Inc.",
+    "other_credit": "Copyright 2002 v1.08"
+  },
+  "world-poker-tour-hold-em-2--wptholdem2": {
+    "name": "WPTHoldem2.mif",
+    "sha256": "522d88e885e52d090fb90abd3f71339fb34fadd414d2f460f0fc2d2f82ac0b52",
+    "title": "WPT Texas Hold'Em 2",
+    "credit": "Hands-On Mobile, Inc.",
+    "version": "V.1.2.5",
+    "other_credit": "2007, WPT Enterprises"
+  },
+  "world-series-of-poker-2--wsop2": {
+    "name": "wsop2.mif",
+    "sha256": "612c275faffe002a595493b4ee1aabe540bc4b82c5e302680bc5cb40912aceac",
+    "title": "WSOP: Pro Challenge",
+    "credit": "Glu Mobile",
+    "version": "WSOP2_20080612-2014_B",
+    "other_credit": "(c) 2007, Glu Mobile"
+  },
+  "yeticol1-identity-unconfirmed--ycl1": {
+    "name": "yeticol1.mif",
+    "sha256": "7e51f3ca4403d9bcb493ccf9f45dec716ecd28b654e0a034ea50e0c87a683e5c",
+    "title": "YetiSports Games Pack Vol.1",
+    "credit": "Xendex",
+    "version": "1.0.1",
+    "other_credit": "Xendex Holding GmbH"
+  },
+  "zuma-240-screen--zuma240": {
+    "name": "Zuma240.mif",
+    "sha256": "e3940c0d2e7fb9324b58ef654d00b8fba7af9c54c60951bf05738271e7271b66",
+    "credit": "Glu Mobile",
+    "version": "2.0_303",
+    "other_credit": "(C) 2006 Glu Mobile"
+  }
+}
