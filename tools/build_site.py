@@ -235,12 +235,40 @@ class Archive:
                 preview = f'<div class="feature-image" aria-hidden="true"><img src="{h(art["path"])}" width="{art["width"]}" height="{art["height"]}" alt="" loading="lazy"></div>'
             featured.append(f'<a class="feature-card" href="{route(item)}">{preview}<div><h3>{h(item["display_title"])}</h3><p>{h(game["deck"])}</p></div></a>')
         body = f"""
-<section class="shell brew-intro">
-  <h1>Qualcomm <em>BREW</em> Archive</h1>
-  <p class="hero-lede">Games downloaded to carrier phones, with the developers, reviews and original files behind them. Browse 104 preserved packages, including games, demos and utilities.</p>
-  <div class="hero-actions"><a class="btn btn-primary" href="#catalog">Browse the catalog ↓</a><a class="btn btn-secondary" href="history/index.html">Platform history</a></div>
+<section class="shell hero archive-home">
+  <div class="hero-copy">
+    <div class="eyebrow"><span class="pulse" aria-hidden="true"></span> WAKKA’S GAME ARCHIVES</div>
+    <h1>Games made for<br><em>BREW phones.</em></h1>
+    <p class="hero-lede">Explore the games and developers behind Qualcomm BREW, with period coverage, production artwork and preserved file records.</p>
+    <div class="hero-actions"><a class="btn btn-primary" href="#catalog">Browse the catalog ↓</a><a class="btn btn-secondary" href="history/index.html">About BREW</a></div>
+  </div>
+  <div class="hero-art handset-art" role="img" aria-label="Illustration of a keypad phone displaying a BREW game menu">
+    <span class="art-orbit orbit-one" aria-hidden="true"></span><span class="art-orbit orbit-two" aria-hidden="true"></span>
+    <div class="phone" aria-hidden="true">
+      <div class="phone-speaker"></div>
+      <div class="phone-display">
+        <div class="phone-head">GAME MENU <span>▮▮▯</span></div>
+        <div class="phone-glyph">BREW</div>
+        <div class="phone-menu"><span>BIOSHOCK 3D</span><span>DOOM II RPG</span><span>ORCS &amp; ELVES II</span></div>
+      </div>
+      <div class="phone-dpad"></div>
+      <div class="phone-keys"><i></i><i></i><i></i><i></i><i></i><i></i></div>
+    </div>
+  </div>
+</section>
+<section class="count-strip" aria-label="Archive contents">
+  <div class="shell stats-grid">
+    <div><strong>{counts["Game"]}</strong><span>game packages</span></div>
+    <div><strong>{sum(counts[k] for k in ("Demo", "Utility", "Add-on"))}</strong><span>demos, utilities &amp; add-ons</span></div>
+    <div><strong>{len(self.handset_metadata)}</strong><span>handset descriptors</span></div>
+    <div><strong>{len(self.items)}</strong><span>preserved packages</span></div>
+  </div>
 </section>
 <section class="shell featured-section"><div class="section-heading"><h2>Start with a game</h2></div><div class="feature-grid">{"".join(featured)}</div></section>
+<section class="shell explore-paths" aria-label="Explore the archive">
+  <a href="history/index.html"><h2>Platform history</h2><p>Carrier storefronts, competing handset builds and the tools studios used to make games for BREW.</p><span class="text-link">Read about BREW ↗</span></a>
+  <a href="creators/index.html"><h2>Creators</h2><p>Follow the developers, artists and studios credited across the collection.</p><span class="text-link">Browse people and studios ↗</span></a>
+</section>
 <section class="catalog-wrap" id="catalog"><div class="shell">
   <div class="section-heading"><h2>Catalog</h2><p>{counts["Game"]} game packages, {counts["Demo"]} demos, {counts["Utility"]} utilities and {counts["Add-on"]} add-on.</p></div>
   <div class="catalog-controls">
