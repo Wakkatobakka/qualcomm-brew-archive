@@ -233,27 +233,16 @@ class Archive:
             preview = ""
             if art:
                 preview = f'<div class="feature-image" aria-hidden="true"><img src="{h(art["path"])}" width="{art["width"]}" height="{art["height"]}" alt="" loading="lazy"></div>'
+            if gid == 'bioshock-3d--bio3d':
+                preview = '<div class="feature-image archive-artifact"><img src="assets/archive-media/bioshock-brew-krz-one-2020.jpg" alt="Still from BioShock 3D gameplay for BREW" loading="lazy" decoding="async"><span class="artifact-credit">2020 footage by KrZ One</span></div>'
             featured.append(f'<a class="feature-card" href="{route(item)}">{preview}<div><h3>{h(item["display_title"])}</h3><p>{h(game["deck"])}</p></div></a>')
         body = f"""
-<section class="shell hero archive-home">
-  <div class="hero-copy">
-    <div class="eyebrow"><span class="pulse" aria-hidden="true"></span> WAKKA’S GAME ARCHIVES</div>
-    <h1>Games made for<br><em>BREW phones.</em></h1>
-    <p class="hero-lede">Explore the games and developers behind Qualcomm BREW, with period coverage, production artwork and preserved file records.</p>
-    <div class="hero-actions"><a class="btn btn-primary" href="#catalog">Browse the catalog ↓</a><a class="btn btn-secondary" href="history/index.html">About BREW</a></div>
-  </div>
-  <div class="hero-art handset-art" role="img" aria-label="Illustration of a keypad phone displaying a BREW game menu">
-    <span class="art-orbit orbit-one" aria-hidden="true"></span><span class="art-orbit orbit-two" aria-hidden="true"></span>
-    <div class="phone" aria-hidden="true">
-      <div class="phone-speaker"></div>
-      <div class="phone-display">
-        <div class="phone-head">GAME MENU <span>▮▮▯</span></div>
-        <div class="phone-glyph">BREW</div>
-        <div class="phone-menu"><span>BIOSHOCK 3D</span><span>DOOM II RPG</span><span>ORCS &amp; ELVES II</span></div>
-      </div>
-      <div class="phone-dpad"></div>
-      <div class="phone-keys"><i></i><i></i><i></i><i></i><i></i><i></i></div>
-    </div>
+<section class="shell collection-landing" aria-labelledby="collection-title">
+  <div class="shell collection-intro">
+    <a class="all-archives" href="https://wakkatobakka.github.io/#catalogues">All archives</a>
+    <h1 id="collection-title">Qualcomm BREW</h1>
+    <p class="hero-lede">Carrier storefronts, keypad games and the handset editions that survive.</p>
+    <div class="collection-actions"><a class="btn btn-primary" href="#catalog">Browse 104 packages</a><a class="btn btn-secondary" href="history/index.html">About BREW</a></div>
   </div>
 </section>
 <section class="count-strip" aria-label="Archive contents">
@@ -282,6 +271,9 @@ class Archive:
   <div class="catalog-bottom"><button class="btn btn-secondary" type="button" id="clear-search">Reset filters</button></div>
 </div></section>"""
         self.save("index.html", "Qualcomm BREW games and their history", "The Qualcomm BREW game archive. Games, developers, period coverage, and 104 preserved packages.", body, "catalog", ("site.js",))
+        landing = ROOT / "index.html"
+        markup = landing.read_text(encoding="utf-8")
+        landing.write_text(markup.replace("</head>", '<link rel="stylesheet" href="assets/landing.css"></head>', 1), encoding="utf-8")
 
     def credit_rows(self, credits, kind, refs):
         grouped = defaultdict(list)
